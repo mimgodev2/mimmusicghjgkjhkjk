@@ -1,0 +1,164 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Alan Walker",
+      "image": "file:///android_asset/image/AlanWalker.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Alan Walker",
+      "title": "All Falls Down",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/All-Falls-Down.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>What's the trick? I wish I knew<br>I'm so done with thinking through<br>All the things I could've been<br>And I know you wonder too<br><br>All it takes is that one look you do<br>And I run right back to you<br>You crossed the line<br>And it's time to say &quot;F... you&quot;<br><br>What's the point in saying that<br>When you know how I'll react?<br>You think you can just take it back<br>But shit just don't work like that<br><br>You're the drug that I'm addicted to<br>And I want you so bad<br>Guess I'm stuck with you<br>And that's that<br><br>'Cause when it all falls down<br>Then whatever<br>When it don't work out<br>For the better<br>If it just ain't right<br>And it's time to say goodbye<br>When it all falls down<br>When it all falls down<br><br>I'll be fine, I'll be fine<br>You're the drug that I'm addicted to<br>And I want you so bad, but I'll be fine<br><br>Why we fight? I don't know<br>We say what hurts the most<br>Oh, I try staying cold<br>But you take it personal<br><br>All these firing shots<br>And making ground<br>It's way too hard to cope<br>But I still can't let you go<br><br>'Cause when it all falls down<br>Then whatever<br>When it don't work out<br>For the better<br>If it just ain't right<br>And it's time to say goodbye<br>When it all falls down<br>When it all falls down<br><br>I'll be fine, I'll be fine<br>You're the drug that I'm addicted to<br>And I want you so bad, but I'll be fine<br><br>I'll be fine, fine<br>(All falls down)<br>I'll be fine, fine, fine<br>I fine, fine, fine, fine<br>(Falling down)<br>(All falls down)<br>I'll be fine, fine, fine<br><br>I fine, fine, fine, fine<br>(All falls down)<br>I'll be fine, fine, fine<br>I fine, fine, fine, fine<br>(Falling down)<br>(All falls down)<br>I'll be fine, fine, fine<br>I fine, fine<br><br>'Cause when it all falls down<br>Then whatever<br>(Then whatever, babe)<br>When it don't work out<br>For the better<br>(For the better)<br>If it just ain't right<br>(If it just ain't right)<br>And it's time to say goodbye<br>When it all falls down<br>(When it all, when it all)<br>When it all falls down<br>(When it all falls down)<br><br>I'll be fine (Fine, fine, fine)<br>I'll be fine (I'll be fine)<br>You're the drug that I'm addicted to and I want you so bad<br>But I'll be fine (I'll be fine), and that's that</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Alan Walker",
+      "title": "Alone",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Alone.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Lost in your mind<br>I wanna know<br>Am I losing my mind?<br>Never let me go<br><br>If this night is not forever<br>At least we are together<br>I know I'm not alone<br>I know I'm not alone<br>Anywhere, whenever<br>Apart, but still together<br>I know I'm not alone<br>I know I'm not alone<br><br>I know I'm not alone<br>I know I'm not alone<br><br>Unconscious mind<br>I'm wide awake<br>Wanna feel one last time<br>Take my pain away<br><br>If this night is not forever<br>At least we are together<br>I know I'm not alone<br>I know I'm not alone<br>Anywhere, whenever<br>Apart, but still together<br>I know I'm not alone<br>I know I'm not alone<br><br>I know I'm not alone<br>I know I'm not alone<br><br>I'm not alone, I'm not alone<br>I'm not alone, I know I'm not alone<br>I'm not alone, I'm not alone<br>I'm not alone, I know I'm not alone</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Alan Walker",
+      "title": "Alone Pt II",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Alone-Pt-II.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>We were young<br>Posters on the wall<br>Praying we're the ones<br>That the teacher wouldn't call<br>We would stare at each other<br>'Cause we were always in trouble<br><br>And all the cool kids<br>Did their own thing<br>I was on the outside<br>Always looking in<br>Yeah, I was there but I wasn't<br>They never really cared if I wasn't<br><br>We all need that someone<br>Who gets you like no one else<br>Right when you need it the most<br>We all need a soul to rely on<br>A shoulder to cry on<br>A friend through the highs and the lows<br><br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br><br>Then I saw your face<br>Your forgiving eyes<br>Looking back at me<br>From the other side<br>Like you understood me<br>And I'm never letting you go, oh<br><br>We all need that someone<br>Who gets you like no one else<br>Right when you need it the most<br>We all need a soul to rely on<br>A shoulder to cry on<br>A friend through the highs and the lows<br><br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br><br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br><br>I'm not gonna make it alone<br>La la la la la la &ndash;lone<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la &ndash;lone<br><br>'Cause you are that someone<br>That gets me like no one else<br>Right when I need it the most<br>And I'll be the one you rely on<br>A shoulder to cry on<br>A friend through the highs and the lows<br><br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la la &ndash;lone<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la la &ndash;lone (No, whoa)<br><br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la la &ndash;lone (It alone, 'lone, 'lone)<br>I'm not gonna make it a-la<br>La la la la la la<br>La la la la la la &ndash;lone (No, no, no, no)<br>I'm not gonna make it alone</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Alan Walker",
+      "title": "Darkside",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Darkside.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>-d-darkside<br><br>[Tomine Harket:]<br>We're not in love<br>We share no stories<br>Just something in your eyes<br>Don't be afraid<br>The shadows know me<br>Let's leave the world behind<br><br>Take me through the night<br>Fall into the dark side<br>We don't need the light<br>We'll live on the dark side<br>I see it<br>Let's feel it<br>While we're still young and fearless<br>Let go of the light<br>Fall into the dark side<br>Fall into the dark side<br>Give in to the dark side<br>Let go of the light<br>Fall into the dark side<br><br>[Au/Ra:]<br>Beneath the sky<br>As black as diamonds<br>We're running out of time<br>Don't wait for the truth<br>To come and blind us<br>Let's just believe their lies<br><br>Believe it, I see it<br>I know that you can feel it<br>No secrets worth keeping<br>So fool me like I'm dreaming<br><br>[Tomine Harket &amp; Au/Ra:]<br>Take me through the night<br>Fall into the dark side<br>We don't need the light<br>We'll live on the dark side<br>I see it<br>Let's feel it<br>While we're still young and fearless<br>Let go of the light<br>Fall into the dark side<br>Fall into the dark side<br>Give in to the dark side<br>Let go of the light<br>Fall into the dark side<br><br>Dark side<br>Dark side<br>Dark side<br>Dark side<br><br>Take me through the night<br>Fall into the dark side<br>We don't need the light<br>We'll live on the dark side<br>I see it<br>Let's feel it<br>While we're still young and fearless<br>Let go of the light<br>Fall in to the dark side<br></font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Alan Walker",
+      "title": "Diamond Heart",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Diamond-Heart.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hello, sweet grief<br>I know you will be the death of me<br>Feel like the morning after ecstasy<br>I am drowning in an endless sea<br><br>Hello, old friend<br>Here's the misery that knows no end<br>So I'm doing everything I can<br>To make sure I never love again<br><br>I wish that I did not know<br>Where all broken lovers go<br>I wish that my heart was made of stone<br>Yeah, if I was bulletproof<br>I'd love you black and blue<br>If I was solid like a jewel<br><br>If I had a diamond heart<br>Oh, oh<br>I'd give you all my love<br>If I was unbreakable<br>If I had a diamond heart<br>Oh, oh<br>You could shoot me with a gun of gold<br>If I was unbreakable<br><br>I'd walk straight through the bullet<br>Bend like a tulip<br>Blue-eyed and foolish<br>Never mind the bruises<br>Into the fire<br>Breakin' through the wires<br>Give you all I've got<br><br>(If I had a diamond heart)<br>I'd walk straight through the dagger<br>Never break the pattern<br>Diamonds don't shatter<br>Beautiful and battered<br>Into the poison<br>Cry you an ocean<br>Give you all I've got<br><br>Goodbye, so long<br>I don't know if this is right or wrong<br>Am I giving up where I belong?<br>'Cause every station is playing our song<br><br>Goodbye, my love<br>You are everything my dreams made of<br>You'll be Prince and I'm the crying dove<br>If I only were unbreakable<br><br>I wish that I did not know<br>Where all broken lovers go<br>I wish that my heart was made of stone<br>Yeah, if I was bulletproof<br>I'd love you black and blue<br>If I was solid like a jewel<br><br>If I had a diamond heart<br>Oh, oh<br>I'd give you all my love<br>If I was unbreakable<br>If I had a diamond heart<br>Oh, oh<br>You can shoot me with a gun of gold<br>If I was unbreakable<br><br>I'd walk straight through the bullet<br>Bend like a tulip<br>Blue-eyed and foolish<br>Never mind the bruises<br>Into the fire<br>Breakin' through the wires<br>Give you all I've got<br><br>(If I had a diamond heart)<br>I'd walk straight through the dagger<br>Never break the pattern<br>Diamonds don't shatter<br>Beautiful and battered<br>Into the poison<br>Cry you an ocean<br>Give you all I've got<br><br>La-la-la-la-la<br>La-la-la-la-la-la<br>La-la-la-la-la-la<br>La-la-la-la-la<br><br>La-la-la-la-la<br>La-la-la-la-la-la<br>I'd give you all my love<br>If I was unbreakable<br>La-la-la-la-la<br>La-la-la-la-la-la<br>You can shoot me with a gun of gold<br>If I was unbreakable<br><br>I'd walk straight through the bullet<br>Bend like a tulip<br>Blue-eyed and foolish<br>Never mind the bruises<br>Into the fire<br>Breakin' through the wires<br>Give you all I've got<br><br>(If I had a diamond heart)<br>I'd walk straight through the dagger<br>Never break the pattern<br>Diamonds don't shatter<br>Beautiful and battered<br>Into the poison<br>Cry you an ocean<br>Give you all I've got</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Alan Walker",
+      "title": "Different World",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Different-World.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>All we know, left untold<br>Beaten by a broken dream<br>Nothing like what it used to be<br><br>We've been chasing our demons down an empty road<br>Been watching our castle turning into dust<br>Escaping our shadows just to end up here once more<br>And we both know<br><br>This is not the world we had in mind<br>But we got time<br>We are stuck on answers we can't find<br>But we got time<br>And even though we might have lost tonight<br>The skyline reminds us of a different time<br>This is not the world we had in mind<br>But we got time<br><br>Broken smile, tired eyes<br>I can feel your longing heart<br>Call my name, howling from afar<br><br>We've been fighting our demons just to stay afloat<br>Been building our castle just to watch it fall<br>Been running forever just to end up here once more<br>And now we know<br><br>This is not the world we had in mind<br>But we got time<br>We are stuck on answers we can't find<br>But we got time<br>And even though we might have lost tonight<br>The skyline reminds us of a different time<br>This is not the world we had in mind<br>But we got time<br><br>Take me back<br>Back to the mountainside<br>Under the northern lights<br>Chasing the stars<br><br>Take me back<br>Back to the mountainside<br>When we were full of life<br>Back to the start<br>We both know that<br><br>This is not the world we had in mind<br>But we got time<br>We are stuck on answers we can't find<br>But we got time<br>And even though we might have lost tonight<br>The skyline reminds us of a different time<br>This is not the world we had in mind<br>But we got time</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Alan Walker",
+      "title": "Faded",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Faded.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You were the shadow to my light<br>Did you feel us?<br>Another star<br>You fade away<br>Afraid our aim is out of sight<br>Wanna see us<br>Alight<br><br>Where are you now?<br>Where are you now?<br>Where are you now?<br>Was it all in my fantasy?<br>Where are you now?<br>Were you only imaginary?<br><br>Where are you now?<br>Atlantis<br>Under the sea<br>Under the sea<br>Where are you now?<br>Another dream<br>The monster's running wild inside of me<br>I'm faded<br>I'm faded<br>So lost, I'm faded<br>I'm faded<br>So lost, I'm faded<br><br>These shallow waters never met what I needed<br>I'm letting go a deeper dive<br>Eternal silence of the sea, I'm breathing<br>Alive<br><br>Where are you now?<br>Where are you now?<br>Under the bright but faded lights<br>You've set my heart on fire<br>Where are you now?<br>Where are you now?<br><br>Where are you now?<br>Atlantis<br>Under the sea<br>Under the sea<br>Where are you now?<br>Another dream<br>The monster's running wild inside of me<br>I'm faded<br>I'm faded<br>So lost, I'm faded<br>I'm faded<br>So lost, I'm faded</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Alan Walker",
+      "title": "Headlights",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Headlights.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Oh, oh, I'm gonna use every heartbeat<br>Oh, oh, today not tomorrow<br>Oh, oh, I'm gonna disobey<br>Oh, oh, far from the shallows<br><br>Baby, I'm all about headlights<br>Blinded by, blinded by headlights<br>Running in, running in headlights<br>Light me up, light me up, headlights<br>Baby, I'm all about headlights<br>Blinded by, blinded by headlights<br>Running in, running in headlights<br>Light me up, light me up, headlights<br><br>Baby, I'm all about headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Baby, I'm all about headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br><br>Oh, oh, I got a taste of the good life<br>Oh, oh, I'm never letting go<br>Oh I'm a cat, gotta use all my nine lives<br>Whoa-oh, I'm gonna do it all<br><br>And oh, I'm tipping on the edge<br>And oh, I don't wanna be scared<br>And oh, don't you pull a breath<br>And oh, just take me all the way<br><br>Baby, I'm all about headlights<br>Blinded by, blinded by headlights<br>Running in, running in headlights<br>Light me up, light me up, headlights<br>Baby, I'm all about headlights<br>Blinded by, blinded by headlights<br>Running in, running in headlights<br>Light me up, light me up, headlights<br><br>Baby, I'm all about headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Baby, I'm all about headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br>Headlights, headlights, headlights<br><br>(Oh, oh, I got a taste of the good life<br>Oh, oh, I'm never letting go)</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Alan Walker",
+      "title": "Ignite",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Ignite.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Julie Bergan:]<br>Fireflies, a million little pieces<br>Feeds the dying light, and breathes me back to life<br>In your eyes, I see something to believe in<br>Your hands are like a flame<br>Your palms the sweetest pain<br><br>Let the darkness lead us into the light<br>Let our dreams get lost<br>Feel the temperature rise<br>Baby, tell me one more beautiful lie<br>One touch and I ignite<br>Like a starship speeding into the night<br>You and I get lost in the infinite lights<br>Baby, tell me one more beautiful lie<br>One touch and I ignite<br><br>One touch and I ignite<br>One touch and I ignite<br><br>So alive, your touch is like the daylight<br>Burning on my skin, it turns me on again<br>You and I, survivors of the same kind<br>And we're the only ones<br>Dancing on the sun<br><br>Let the darkness lead us into the light<br>Let our dreams get lost<br>Feel the temperature rise<br>Baby, tell me one more beautiful lie<br>One touch and I ignite<br>Like a starship speeding into the night<br>You and I get lost in the infinite lights<br>Baby, tell me one more beautiful lie<br>One touch and I ignite<br><br>One touch and I ignite<br>One touch and I ignite<br><br>[Seungri:]<br>Diamonds are forever, but all we need is just tonight<br>We're monumental tremors that can freeze the speed of life<br>Just like particles that's falling from heaven all over the stars<br>Hear you calling for me<br>Hear you calling me on from afar<br><br>[Julie Bergan:]<br>Let the darkness lead us into the light<br>Let our dreams get lost<br>Feel the temperature rise<br>Baby, tell me one more beautiful lie<br>One touch and I ignite<br>I feel the heat as we collide<br>Like a fever that feels so right<br>So baby, tell me one more beautiful lie<br>One touch and I ignite<br><br>One touch and I ignite<br>One touch and I ignite<br>One touch and I ignite<br>One touch and I ignite<br>One touch and I ignite</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Alan Walker",
+      "title": "Lily",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Lily.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Lily was a little girl<br>Afraid of the big, wide world<br>She grew up within her castle walls<br>Now and then she tried to run<br>And then on the night with the setting sun<br>She went in the woods away<br>So afraid, all alone<br><br>They warned her, don't go there<br>There's creatures who are hiding in the dark<br>Then something came creeping<br>It told her, don't you worry just<br><br>Follow everywhere I go<br>Top of all the mountains or valley low<br>Give you everything you've been dreaming of<br>Just let me in, ooh<br>Everything you want in gold<br>I'll be the magic story you've been told<br>And you'll be safe under my control<br>Just let me in, ooh<br>Just let me in, ooh<br><br>She knew she was hypnotized<br>And walking on cold thin ice<br>Then it broke, and she awoke again<br><br>Then she ran faster and<br>Start screaming, is there someone out there?<br>Please help me, come get me<br>Behind her, she could hear it say<br><br>Follow everywhere I go<br>Top of all the mountains or valley low<br>Give you everything you've been dreaming of<br>Just let me in, ooh<br>Everything you want in gold<br>I'll be the magic story you've been told<br>And you'll be safe under my control<br>Just let me in, ooh<br>Just let me in, ooh<br><br>Everything you want in gold<br>I'll be the magic story you've been told<br>And you'll be safe under my control<br>Just let me in, ooh<br><br>Follow everywhere I go<br>Top of all the mountains or valley low<br>Give you everything you've been dreaming of<br>Just let me in, ooh<br><br>Then she ran faster and<br>Start screaming, is there someone out there?<br>Please help me<br>Just let me in, ooh</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Alan Walker",
+      "title": "On My Way",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/On-My-Way.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Sabrina Carpenter:]<br>I'm sorry but<br>Don't wanna talk<br>I need a moment before I go<br>It's nothing personal<br><br>I draw the blinds<br>They don't need to see me cry<br>'Cause even if they understand<br>They don't understand<br><br>So then when I'm finished<br>I'm all 'bout my business<br>And ready to save the world<br>I'm taking my misery<br>Make it my bitch<br>Can't be everyone's favorite girl<br><br>So take aim and fire away<br>I've never been so wide awake<br>No, nobody but me can keep me safe<br>And I'm on my way<br>The blood moon is on the rise<br>The fire burning in my eyes<br>No, nobody but me can keep me safe<br>And I'm on my way<br><br>[Farruko:]<br>(Ya, ya)<br>(Farru, yeah, guaya)<br>Lo siento mucho (Farru), pero me voy (Eh)<br>Porque a tu lado me di cuenta que nada soy (Eh-ey)<br>Y me cans&eacute; de luchar y de guerrear en vano<br>De estar en la l&iacute;nea de fuego y de meter la mano<br>Acepto mis errore', tambi&eacute;n soy humano<br>Y t&uacute; no ve' que lo hago porque te amo (Pum-pum-pum-pum)<br><br>Pero ya (Ya) no tengo m&aacute;s na' que hacer aqu&iacute; (Aqu&iacute;)<br>Me voy, lleg&oacute; la hora 'e partir (Partir)<br>De mi propio camino, seguir lejos de ti<br><br>[Sabrina Carpenter:]<br>So take aim and fire away<br>I've never been so wide awake<br>No, nobody but me can keep me safe<br>And I'm on my way<br>The blood moon is on the rise (Is on the rise, na-na)<br>The fire burning in my eyes (The fire burning in my eyes)<br>No, nobody but me can keep me safe<br>And I'm on my way<br><br>[Farruko:]<br>(I'm on my way)<br>[Sabrina Carpenter:]<br>Everybody, everybody keep me safe<br>Everybody, everybody keep me safe<br>Everybody, everybody keep me safe<br>Everybody, everybody keep me safe<br>Everybody, everybody on my way<br><br>So take aim and fire away<br>I've never been so wide awake<br>No, nobody but me can keep me safe<br>And I'm on my way<br>The blood moon is on the rise<br>The fire burning in my eyes<br>No, nobody but me can keep me safe<br>And I'm on my way</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Alan Walker",
+      "title": "PLAY",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/PLAY.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>We used to hide under the covers<br>Serenade each other<br>With careless melodies<br>Something buried deep inside us<br>The major and the minor<br>We're like piano keys<br><br>You played for me<br>You played for me, oh oh<br>You played for me<br><br>I swear it, even in my sleep<br>I hear it like the memory<br>Of every thing we used to be<br>You played for me<br><br>You played for me<br>You played for me<br><br>We couldn't stop the world from turning<br>It was like a whirlwind<br>Scattered us like leaves<br>But I'm stuck inside a feeling<br>The song that never leaves<br>We were like a symphony<br><br>You played for me<br>You played for me, oh oh<br>You played for me<br><br>I swear it, even in my sleep<br>I hear it like the memory<br>Of everything we used to be<br>You played for me<br><br>You played for me<br>You played for me<br><br>You and me<br>You and me<br>You and me<br>You and me<br>You and me<br>You played for me<br><br>I swear it, even in my sleep<br>I hear it like the memory<br>Of everything we used to be<br>You played for me</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Alan Walker",
+      "title": "Sing Me To Sleep",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/Sing-Me-To-Sleep.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wait a second, let me catch my breath<br>Remind me how it feels to hear your voice<br>Your lips are movin', I can't hear a thing<br>Livin' life as if we had a choice<br>Anywhere, anytime<br>I would do anything for you<br>Anything for you<br>Yesterday got away<br>Melodies stuck inside your head<br>A song in every breath<br><br>Sing me to sleep now<br>Sing me to sleep<br>Oh, won't you sing me to sleep now?<br>Sing me to sleep<br><br>Remember me now, time cannot erase<br>I can hear your whispers in my mind<br>I've become what you cannot embrace<br>Our memory will be my lullaby<br><br>Sing me to sleep now<br>Sing me to sleep<br>Won't you sing me to sleep now?<br>Sing me to sleep<br><br>Any-anytime<br>I would do-do-do-do-do-do-do-do-do-do-do<br>Time away<br>Yesterday-day-day-day-day<br>Any-anytime<br>I would do-do-do-do-do-do-do-do-do-do-do<br>Time away<br>Yesterday-day-day-day-day</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Alan Walker",
+      "title": "The Spectre",
+      "image": "file:///android_asset/image/AlanWalker.jpg",
+      "link_mp3": "mp3/The-Spectre.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hello, hello<br>Can you hear me<br>As I scream your name<br>Hello, hello<br>Do you need me, before I fade away<br><br>Is this a place that I call home<br>To find what I've become<br>Walk along the path unknown<br>We live, we love, we lie<br><br>Deep in the dark<br>I don't need the light<br>There's a ghost inside me<br>It all belongs to the other side<br>We live, we love, we lie<br><br>(We live, we love, we lie)<br><br>Hello, hello<br>Nice to meet you, voice inside my head<br>Hello, hello<br>I believe you, how can I forget<br><br>Is this a place that I call home<br>To find what I've become<br>Walk along the path unknown<br>We live, we love, we lie<br><br>Deep in the dark<br>I don't need the light<br>There's a ghost inside me<br>It all belongs to the other side<br>We live, we love, we lie<br><br>(We live, we love, we lie)<br><br>We live, we love, we lie</font></p>"
+    }
+  ]
+}
