@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Harry Styles",
+      "image": "file:///android_asset/image/HarryStyles.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Harry Styles",
+      "title": "Adore You",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Adore-You.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Walk in your rainbow paradise<br>Strawberry lipstick state of mind<br>I get so lost inside your eyes<br>Would you believe it?<br><br>You don't have to say you love me<br>You don't have to say nothing<br>You don't have to say you're mine<br><br>Honey<br>I'd walk through fire for you<br>Just let me adore you<br>Oh honey<br>I'd walk through fire for you<br>Just let me adore you<br>Like it's the only thing I'll ever do<br>Like it's the only thing I'll ever do<br><br>You're wonder, under summer skies<br>Brown skin and lemon over ice<br>Would you believe it?<br><br>You don't have to say you love me<br>I just wanna tell you something<br>Lately you've been on my mind<br><br>Honey<br>I'd walk through fire for you<br>Just let me adore you<br>Oh honey<br>I'd walk through fire for you<br>Just let me adore you<br>Like it's the only thing I'll ever do<br>Like it's the only thing I'll ever do<br><br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br>(It's the only thing I'll ever do)<br><br>I'd walk through fire for you<br>Just let me adore you<br>Oh honey<br>I'd walk through fire for you<br>Just let me adore you<br>Like it's the only thing I'll ever do<br><br>I'd walk through fire for you<br>Just let me adore you<br>Oh honey<br>Oh honey<br><br>I'd walk through fire for you<br>Just let me adore you<br><br>Oh honey<br>Just let me adore you<br>Like it's the only thing I'll ever do</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Harry Styles",
+      "title": "As It Was",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/As-It-Was.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Come on, Harry, we wanna say goodnight to you<br><br>Holdin' me back<br>Gravity's holdin' me back<br>I want you to hold out the palm of your hand<br>Why don't we leave it at that?<br>Nothin' to say<br>When everything gets in the way<br>Seems you cannot be replaced<br>And I'm the one who will stay, oh-oh-oh<br><br>In this world, it's just us<br>You know it's not the same as it was<br>In this world, it's just us<br>You know it's not the same as it was<br>As it was, as it was<br>You know it's not the same<br><br>Answer the phone<br>&quot;Harry, you're no good alone<br>Why are you sitting at home on the floor?<br>What kind of pills are you on?&quot;<br>Ringin' the bell<br>And nobody's coming to help<br>Your daddy lives by himself<br>He just wants to know that you're well, oh-oh-oh<br><br>In this world, it's just us<br>You know it's not the same as it was<br>In this world, it's just us<br>You know it's not the same as it was<br>As it was, as it was<br>You know it's not the same<br><br>Go home, get ahead, light-speed internet<br>I don't wanna talk about the way that it was<br>Leave America, two kids follow her<br>I don't wanna talk about who's doin' it first<br><br>(Hey)<br>As it was<br>You know it's not the same as it was<br>As it was, as it was<br></font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Harry Styles",
+      "title": "Cinema",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Cinema.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You got, you got the cinema<br><br>It's you<br>And I'm not getting over it<br>Darling, is it cool<br>If I'm stubborn when it comes to this?<br>I guess we're in time<br>If you're getting yourself wet for me<br>I guess you're all mine<br>When you're sleeping in this bed with me<br><br>I just think you're cool<br>I dig your cinema<br>Do you think I'm cool too?<br>Or am I too into you?<br><br>Tell me what you want and you got it, love<br>I want all of you<br>Gimme all you got<br>That's cinema<br>That's cinema, uh-huh<br><br>It's you<br>I don't know why but it feels so right to me<br>Something in the way you move<br>I like it when you dance for me<br><br>You all the time (Time, time)<br>In doses at night (Night, night)<br>No roof on the drive<br>Dust off the high<br>And go to sleep (Go to sleep, go to sleep)<br><br>I just think you're cool<br>I dig your cinema<br>Do you think I'm cool too?<br>Or am I too into you?<br>I just think you're cool<br>I dig your cinema<br>Do you think I'm cool too?<br>Or am I too into you? (Cinema)<br><br>Cinema<br><br>You got, you got<br>I bring the pop, you pop<br>You got, you got<br>I bring the pop<br>You got, you got the cinema<br>I bring the pop to the cinema, you pop<br>You got, you got the cinema<br>You got, you got the cinema<br>I bring the pop to the cinema<br>You pop when we get intimate<br><br>You got, you got the cinema<br>You got, you got the cinema (Cinema)<br>I bring the pop to the cinema<br>You pop when we get intimate (Baby, cinema)<br><br>You got, you got the cinema<br>You got, you got the cinema<br>I bring the pop to the cinema<br>You pop when we get intimate (Baby, you're cinema)<br><br>You got, you got the cinema<br>You got, you got the cinema<br>I bring the pop to the cinema<br>You pop when we get intimate (Baby, you're cinema)<br><br>You got, you got the cinema<br>You got, you got the cinema<br>I bring the pop to the cinema<br>You pop when we get intimate</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Harry Styles",
+      "title": "Daydreaming",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Daydreaming.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Living in a daydream<br>She said, &quot;Love me like you paid me&quot;<br>You know, I'll be gone for so long<br>So give me all of your love, give me something to dream about<br><br>Stay until the morning<br>'Cause baby, loving you's the real thing<br>It just feels right<br>When you give me all of your love, give me something to dream about<br>(All of your love, give me something to dream about)<br>So give me all of your love, give me something to dream about<br><br>Living in a daydream<br>Living in a daydream<br>Living in a daydream<br>Give me all of your love, give me something to dream about<br><br>Living in a daydream<br>Living in a daydream<br>Living in a daydream<br>Give me all of your love, give me something to dream about<br>Give me all of your love, give me something to dream about<br>Give me all of your love, give me something to dream about</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Harry Styles",
+      "title": "Daylight",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Daylight.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I'm on the roof<br>You're in your airplane seat<br>I was nose bleeding<br>Looking for life out there<br>Reading your horoscope<br>You were just doing cocaine in my kitchen<br>You never listen<br>I hope you're missing me by now<br><br>If I was a bluebird<br>I would fly to you<br>You'd be the spoon<br>Dip you in honey so I could be sticking to you<br><br>Daylight<br>You got me cursing the daylight<br>Daylight<br>You got me cursing the daylight<br>Daylight<br>You've got me calling at all times<br>Ain't gonna sleep till the daylight<br><br>Out of New York<br>I'm on the come down speed<br>We're on bicycles<br>Saying there's life out there<br>You've got the antidote<br>I'll take one to go, go please<br>Get the picture<br>Cut out my middle<br>You ain't got time for me right now<br><br>If I was a bluebird<br>I would fly to you<br>You'd be the spoon<br>Dip you in honey so I could be sticking to you<br><br>Daylight<br>You've got me calling at all times<br>Ain't gonna sleep till the daylight<br>Daylight<br>You got me cursing the daylight<br>Daylight<br>You got me cursing the daylight<br>Daylight<br>You've got me calling at all times<br>Ain't gonna sleep till the daylight<br><br>If I was a blue bird<br>I would fly to you<br>You'd be the spoon<br>Dip you in honey so I could be sticking to you</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Harry Styles",
+      "title": "Falling",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Falling.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I'm in my bed<br>And you're not here<br>And there's no one to blame but the drink and my wandering hands<br><br>Forget what I said<br>It's not what I meant<br>And I can't take it back, I can't unpack the baggage you left<br><br>What am I now?<br>What am I now?<br>What if I'm someone I don't want around?<br>I'm falling again<br>I'm falling again<br>I'm falling<br><br>What if I'm down?<br>What if I'm out?<br>What if I'm someone you won't talk about?<br>I'm falling again<br>I'm falling again<br>I'm falling<br><br>You said you cared<br>And you missed me too<br>And I'm well aware I write too many songs about you<br><br>And the coffee's out<br>At the Beachwood Cafe<br>And it kills me 'cause I know we've run out of things we can say<br><br>What am I now?<br>What am I now?<br>What if I'm someone I don't want around?<br>I'm falling again<br>I'm falling again<br>I'm falling<br><br>What if I'm down?<br>What if I'm out?<br>What if I'm someone you won't talk about?<br>I'm falling again<br>I'm falling again<br>I'm falling<br><br>And I get the feeling that you'll never need me again<br><br>What am I now?<br>What am I now?<br>What if you're someone I just want around?<br>I'm falling again<br>I'm falling again<br>I'm falling<br><br>What if I'm down?<br>What if I'm out?<br>What if I'm someone you won't talk about?<br>I'm falling again<br>I'm falling again<br>I'm falling</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Harry Styles",
+      "title": "Golden",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Golden.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Golden, golden, golden<br>As I open my eyes<br>Hold it, focus, hoping<br>Take me back to the light<br>I know you were way too bright for me<br>I'm hopeless, broken<br>So you wait for me in the sky<br>Browns my skin just right<br><br>You're so golden<br>You're so golden<br>I'm out of my head<br>And I know that you're scared<br>Because hearts get broken<br><br>I don't wanna be alone<br>I don't wanna be alone<br>When it ends<br>Don't wanna let you know<br>I don't wanna be alone<br>But I, I can feel it take a hold<br>I can feel you take control<br>Of who I am and all I've ever known<br>Loving you's the antidote<br><br>Golden<br>You're so golden<br>I don't wanna be alone<br>You're so golden<br>You're so golden<br>I'm out of my head<br>And I know that you're scared<br>Because hearts get broken<br><br>(Golden, golden, golden, golden)<br>(Golden, golden, golden, golden)<br>(Golden, golden, golden, golden)<br>(Golden, golden, golden, golden)<br>(Golden, golden, golden, golden)<br>(Golden, golden, golden, golden)<br>I know that you're scared<br>Because I'm so open<br><br>You're so golden<br>I don't wanna be alone<br>You're so golden<br>You're so golden<br>You're so golden<br>I'm out of my head<br>And I know that you're scared<br>Because hearts get broken<br></font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Harry Styles",
+      "title": "Late Night Talking",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Late-Night-Talking.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Things haven't been quite the same<br>There's a haze on the horizon, babe<br>It's only been a couple of days and I miss you<br>Mmm, yeah<br>When nothing really goes to plan<br>You stub your toe or break your camera<br>I'll do everything I can to help you through<br><br>If you're feeling down<br>I just wanna make you happier, baby<br>Wish I was around<br>I just wanna make you happier, baby<br><br>We've been doing all this late night talking<br>'Bout anything you want until the morning<br>Now you're in my life<br>I can't get you off my mind<br><br>I've never been a fan of change<br>But I'd follow you to any place<br>If it's Hollywood or Bishopsgate, I'm coming too<br>(Ooh-woo)<br><br>If you're feeling down<br>I just wanna make you happier, baby<br>Wish I was around<br>I just wanna make you happier, baby<br><br>We've been doing all this late night talking<br>'Bout anything you want until the morning<br>Now you're in my life<br>I can't get you off my mind<br><br>Can't get you off my mind<br>Can't get you off my mind (Can't get you off my mind)<br>I won't even try (I won't even try)<br>To get you off my mind (Get you off my mind)<br><br>We've been doing all this late night talking<br>'Bout anything you want until the morning<br>Now you're in my life<br>I can't get you off my mind<br><br>Can't get you off my mind (All this late night talking)<br>Can't get you off my mind (All this late night talking)<br>I won't even try (All this late night talking)<br>Can't get you off my<br>All this late night talking</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Harry Styles",
+      "title": "Little Freak",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Little-Freak.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Little freak<br>Jezebel<br>You sit high atop the kitchen counter<br>Stay green a little while<br>You bring blue lights to dreams<br>Starry haze<br>Crystal ball<br>Somehow, you've become some paranoia<br>A wet dream just dangling<br>But your gift is wasted on me<br><br>I was thinking about who you are<br>Your delicate point of view<br>I was thinking about you<br>I'm not worried about where you are<br>Who you will go home to<br>I'm just thinking about you<br>Just thinking about you<br><br>Did you dress up for Halloween?<br>I spilled beer on your friend<br>I'm not sorry<br>A golf swing and a trampoline<br>Maybe we'll do this again<br>Tracksuit and a pony tail<br>You hide the body all that yoga gave you<br>Red wine and a ginger ale<br>But you would make fun of me for sure<br><br>I was thinking about who you are<br>Your delicate point of view<br>I was thinking about you<br>I'm not worried about where you are<br>Or who you will go home to<br>I'm just thinking about you<br><br>I disrespected you<br>Jumped in feet first and I landed too hard<br>A broken ankle<br>Karma rules<br>You never saw my birthmark<br><br>I was thinking about who you are<br>Your delicate point of view<br>I was thinking about you<br>I'm not worried about where you are<br>Or who you will go home to<br>I'm just thinking about you<br>Just thinking about you<br>Just thinking about you</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Harry Styles",
+      "title": "Love Of My Life",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Love-Of-My-Life.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Baby, you were the love of my life<br>Whoa<br>Maybe you don't know it's lost till you find it<br><br>Take a walk on Sunday through the afternoon<br>We can always find something for us to do<br>We don't really like what's on the news, but it's on all the time<br>Take you with me every time I go away<br>In a hotel using someone else's name<br>I remember back at Jonny's place<br>It's not the same anymore<br><br>Baby, you were the love of my life<br>Whoa<br>Maybe you don't know it's lost till you find it<br>It's not what I wanted<br>To leave you behind<br>Don't know where you'll land when you fly<br>But baby, you were the love of my life<br><br>It's unfortunate, ooh<br>Just coordinates, ooh<br><br>I don't know you half as well as all my friends<br>I won't pretend that I've been doing everything I can<br>To get to know your creases and your ends<br>Are they the same?<br><br>Baby, you were the love of my life<br>Whoa<br>Maybe you don't know it's lost till you find it<br>It's not what I wanted<br>To leave you behind<br>Don't know where you'll land when you fly<br>But baby, you were the love of my life<br></font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Harry Styles",
+      "title": "Matilda",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Matilda.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You were riding your bike to the sound of It's No Big Deal<br>And you're trying to lift off the ground on those old two wheels<br>Nothing 'bout the way that you were treated ever seemed especially alarming till now<br>So you tie up your hair and you smile like it's no big deal<br><br>You can let it go<br>You can throw a party full of everyone you know<br>And not invite your family<br>'Cause they never showed you love<br>You don't have to be sorry for leaving and growing up<br><br>Matilda, you talk of the pain like it's all alright<br>But I know that you feel like a piece of you's dead inside<br>You showed me a power that is strong enough to bring sun to the darkest days<br>It's none of my business but it's just been on my mind<br><br>You can let it go<br>You can throw a party full of everyone you know<br>And not invite your family<br>'Cause they never showed you love<br>You don't have to be sorry for leaving and growing up<br>You can see the world<br>Following the seasons<br>Anywhere you go<br>You don't need a reason<br>'Cause they never showed you love<br>You don't have to be sorry for doing it on your own<br><br>You're just in time, make your tea and your toast<br>You framed all your posters and dyed your clothes<br>You don't have to go<br>You don't have to go home<br>Oh, there's a long way to go<br>I don't believe that time will change your mind<br>In other words<br>I know they won't hurt you anymore as long as you can let them go<br><br>You can let it go<br>You can throw a party full of everyone you know<br>You can start a family who will always show you love<br>You don't have to be sorry for doing it on your own<br>You can let it go<br>You can throw a party full of everyone you know<br>You can start a family who will always show you love<br>You don't have to be sorry, no</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Harry Styles",
+      "title": "Music For a Sushi Restaurant",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Music-For-a-Sushi-Restaurant.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(Mine, mine, mine, mine, mine, mine)<br><br>Green eyes, fried rice<br>I could cook an egg on you<br>Late night, game time<br>Coffee on the stove, yeah<br>You're sweet ice cream<br>But you could use a flake or two<br>Blue bubblegum twisted round your tongue<br><br>I don't want you to get lost<br>I don't want you to go broke<br>I want you<br><br>It's 'cause I love you, babe<br>In every kind of way<br>Just a little taste<br>You know I love you, baby<br><br>&quot;Excuse me, a green tea?&quot;<br>Music for a sushi restaurant<br>From ice on rice<br>Music for a sushi restaurant<br>Music for a sushi restaurant<br>Music for whatever you want<br><br>I'm not going to get lost<br>I'm not going to go broke<br>Staying cool<br><br>You know I love you, babe<br><br>If the stars were edible<br>And our hearts were never full<br>Could we live with just a taste?<br>Just a taste<br><br>It's 'cause I love you, babe<br>In every kind of way<br>Just a little taste<br>You know I love you, baby</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Harry Styles",
+      "title": "Satellite",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Satellite.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You got a new life<br>Am I bothering you?<br>Do you wanna talk?<br><br>We share the last line<br>Then we drink the wall<br>Till we wanna talk<br><br>I go round and round<br>Satellite<br><br>Spinning out, waiting for you to pull me in<br>I can see you're lonely down there<br>Don't you know that I am right here?<br><br>Spinning out, waiting for you to pull me in<br>I can see you're lonely down there<br>Don't you know that I am right here?<br><br>(Spinning out, waiting for you)<br><br>I'm in an LA Mood<br>I don't wanna talk to you<br>She said, &quot;Give me a day or two&quot;<br><br>I go round and round<br>Satellite<br><br>Spinning out, waiting for you to pull me in<br>I can see you're lonely down there<br>Don't you know that I am right here?<br><br>Spinning out, waiting for you to pull me in<br>I can see you're lonely down there<br>Don't you know that I am right here?<br><br>Right here, right here<br>Spinning out, waiting for you<br>I'm here, right here<br>Wishing I could be there for you<br><br>Be there for you<br>Be there for you (For you)<br>For you<br>Be there for you<br><br>Spinning out, waiting for you to pull me in<br>(Spinning out, waiting)<br>I can see you're lonely down there<br>Don't you know that I am right here? (Spinning out, waiting for you)<br><br>Spinning out, waiting for you (For you) to pull me in (For you)<br>I can see you're lonely down there<br>Don't you know that I am right here?<br><br>Spinning out, waiting for you (For you) to pull me in (For you)<br>I can see you're lonely down there<br>Don't you know that I am right here? (Spinning out, waiting for you)</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Harry Styles",
+      "title": "Sign of the Times",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Sign-of-the-Times.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Just stop your crying<br>It's a sign of the times<br>Welcome to the final show<br>Hope you're wearing your best clothes<br><br>You can't bribe the door on your way to the sky<br>You look pretty good down here<br>But you ain't really good<br><br>We never learn, we've been here before<br>Why are we always stuck and running from<br>The bullets, the bullets?<br>We never learn, we've been here before<br>Why are we always stuck and running from<br>Your bullets, the bullets?<br><br>Just stop your crying<br>It's a sign of the times<br>We gotta get away from here<br>We gotta get away from here<br>Just stop your crying<br>It'll be alright<br>They told me that the end is near<br>We gotta get away from here<br><br>Just stop your crying<br>Have the time of your life<br>Breaking through the atmosphere<br>And things are pretty good from here<br><br>Remember, everything will be alright<br>We can meet again somewhere<br>Somewhere far away from here<br><br>We never learn, we've been here before<br>Why are we always stuck and running from<br>The bullets, the bullets?<br>We never learn, we've been here before<br>Why are we always stuck and running from<br>The bullets, the bullets?<br><br>Just stop your crying<br>It's a sign of the times<br>We gotta get away from here<br>We gotta get away from here<br>Stop your crying<br>Baby, it'll be alright<br>They told me that the end is near<br>We gotta get away from here<br><br>We never learn, we've been here before<br>Why are we always stuck and running from<br>The bullets, the bullets?<br>We never learn, we've been here before<br>Why are we always stuck and running from<br>Your bullets, the bullets?<br><br>We don't talk enough<br>We should open up<br>Before it's all too much<br>Will we ever learn?<br>We've been here before<br>It's just what we know<br><br>Stop your crying, baby<br>It's a sign of the times<br>We gotta get away<br>We got to get away<br>We got to get away<br>We got to get away<br>We got to get away<br>We got to&mdash;we got to&mdash;away<br>We got to&mdash;we got to&mdash;away<br>We got to&mdash;we got to&mdash;away</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Harry Styles",
+      "title": "Watermelon Sugar",
+      "image": "file:///android_asset/image/HarryStyles.jpg",
+      "link_mp3": "mp3/Watermelon-Sugar.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Tastes like strawberries on a summer evenin'<br>And it sounds just like a song<br>I want more berries and that summer feelin'<br>It's so wonderful and warm<br><br>Breathe me in, breathe me out<br>I don't know if I could ever go without<br>I'm just thinking out loud<br>I don't know if I could ever go without<br><br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar<br><br>Strawberries on a summer evenin'<br>Baby, you're the end of June<br>I want your belly and that summer feelin'<br>Getting washed away in you<br><br>Breathe me in, breathe me out<br>I don't know if I could ever go without<br><br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br><br>I just wanna taste it, I just wanna taste it<br>Watermelon sugar high<br><br>Tastes like strawberries on a summer evenin'<br>And it sounds just like a song<br>I want your belly and that summer feelin'<br>I don't know if I could ever go without<br><br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high (Sugar)<br>Watermelon sugar high (Sugar)<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br>Watermelon sugar high<br><br>I just wanna taste it, I just wanna taste it (Woo)<br>Watermelon sugar high<br>I just wanna taste it, I just wanna taste it (Ooh)<br>Watermelon sugar high<br>Watermelon sugar</font></p>"
+    }
+  ]
+}
