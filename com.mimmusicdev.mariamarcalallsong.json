@@ -1,0 +1,129 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Maria Marcal",
+      "image": "file:///android_asset/image/MariaMarcal.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Maria Marcal",
+      "title": "COM MUITO LOUVOR",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/COM-MUITO-LOUVOR.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Deus n&atilde;o rejeita ora&ccedil;&atilde;o, ora&ccedil;&atilde;o &eacute; alimento<br>Nunca vi um justo sem resposta ou ficar no sofrimento<br>Basta somente esperar o que Deus ir&aacute; fazer<br>Quando Ele estende Suas m&atilde;os, &eacute; a hora de vencer<br><br>Ent&atilde;o, louve<br>Simplesmente louve<br>T&aacute; chorando, louve<br>Precisando, louve<br>T&aacute; sofrendo, louve<br>N&atilde;o importa, louve<br>Seu louvor invade o c&eacute;u<br><br>Deus vai na frente abrindo o caminho<br>Quebrando as correntes, tirando os espinhos<br>Ordena aos anjos pra contigo lutar<br>Ele abre as portas pra ningu&eacute;m mais fechar<br><br>Ele trabalha pra o que n'Ele confia<br>Caminha contigo de noite ou de dia<br>Erga suas m&atilde;os, sua b&ecirc;n&ccedil;&atilde;o chegou<br>Comece a cantar com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor<br><br>A gente precisa entender o que Deus est&aacute; falando<br>Quando Ele fica em sil&ecirc;ncio, &eacute; porque est&aacute; trabalhando<br>Basta somente esperar o que Deus ir&aacute; fazer<br>Quando Ele estende Suas m&atilde;os, &eacute; a hora de vencer<br><br>Ent&atilde;o, louve<br>Simplesmente louve<br>T&aacute; chorando, louve<br>Precisando, louve<br>T&aacute; sofrendo, louve<br>N&atilde;o importa, louve<br>Seu louvor invade o c&eacute;u<br><br>Deus vai na frente abrindo o caminho<br>Quebrando as correntes, tirando os espinhos<br>Ordena aos anjos pra contigo lutar<br>Ele abre as portas pra ningu&eacute;m mais fechar<br><br>Ele trabalha pra o que n'Ele confia<br>Caminha contigo de noite ou de dia<br>Erga suas m&atilde;os, sua b&ecirc;n&ccedil;&atilde;o chegou<br>Comece a cantar com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor<br><br>Com muito louvor, com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor, com muito louvor<br>Com muito louvor, com muito louvor</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Maria Marcal",
+      "title": "Deserto",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Deserto.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Eu n&atilde;o preciso transformar<br>Pedras em p&atilde;es para provar<br>Que no deserto Tu est&aacute;s<br>Cuidando de mim<br><br>De um lugar alto n&atilde;o vou me lan&ccedil;ar<br>S&oacute; pra demonstrar o Teu poder<br>Eu n&atilde;o preciso ver fen&ocirc;menos para crer em Ti<br><br>N&atilde;o troco nossa comunh&atilde;o<br>Pelo prazer de conquistar<br>Pal&aacute;cios, riquezas<br>Como um deserto, isso vai passar<br><br>Por isso resistindo estou<br>E quando a minha for&ccedil;a se esgotar<br>O Teu anjo vai me alimentar<br><br>Te adorar &eacute; o que sustenta-me de p&eacute;<br>Eu n&atilde;o vou, n&atilde;o vou perder a guerra<br>Te louvar em meio &agrave;s tenta&ccedil;&otilde;es<br>&Eacute; mais que estrat&eacute;gia<br><br>Posso n&atilde;o ver o amanh&atilde;<br>Mas hoje sei<br>Que esse deserto vai chegar ao fim<br>O Senhor est&aacute; cuidando de mim<br><br>Eu n&atilde;o preciso transformar<br>Pedras em p&atilde;es para provar<br>Que no deserto Tu est&aacute;s<br>Cuidando de mim<br><br>De um lugar alto n&atilde;o vou me lan&ccedil;ar<br>S&oacute; pra demonstrar o Teu poder<br>Eu n&atilde;o preciso ver fen&ocirc;menos para crer em Ti<br><br>N&atilde;o troco nossa comunh&atilde;o<br>Pelo prazer de conquistar<br>Pal&aacute;cios, riquezas<br>Como um deserto, isso vai passar<br><br>Por isso resistindo estou<br>E quando a minha for&ccedil;a se esgotar<br>O Teu anjo vai me alimentar<br><br>E Te adorar &eacute; o que sustenta-me de p&eacute;<br>Eu n&atilde;o vou, n&atilde;o vou perder a guerra<br>Te louvar em meio &agrave;s tenta&ccedil;&otilde;es<br>&Eacute; mais que estrat&eacute;gia<br><br>Posso n&atilde;o ver o amanh&atilde;<br>Mas hoje sei<br>Que esse deserto vai chegar ao fim<br>O Senhor est&aacute; cuidando de mim<br><br>Te adorar &eacute; o que sustenta-me de p&eacute;<br>Eu n&atilde;o vou, n&atilde;o vou perder a guerra<br>Te louvar em meio &agrave;s tenta&ccedil;&otilde;es<br>&Eacute; mais que estrat&eacute;gia<br><br>Posso n&atilde;o ver o amanh&atilde;<br>Mas hoje sei<br>Que esse deserto vai chegar ao fim<br>O Senhor est&aacute; cuidando de mim</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Maria Marcal",
+      "title": "Deus Fiel",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Deus-Fiel.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Quando estou fraco<br>A Tua m&atilde;o me fortalece<br>Eu sinto a Tua presen&ccedil;a<br>Em mim, Senhor<br><br>Sem Ti, eu n&atilde;o sou nada<br>Por isso eu Te clamo<br>Vem Senhor, me fortalecer<br><br>Pois sei que cada l&aacute;grima derramada<br>Quando eu n&atilde;o pude falar<br>Chegou a Ti como ora&ccedil;&atilde;o<br>E a Tua destra veio a enxugar<br><br>E por mais que eu n&atilde;o mere&ccedil;a<br>Tu permaneces fiel<br>E me mostrou que por um filho<br>Move terra, mar e c&eacute;u<br><br>Fiel, Deus que nunca falha<br>Ainda que a terra se abale<br>Ele permanece assim<br><br>Fiel, Deus que nunca tarda<br>Fiel &eacute; Sua palavra<br>E no tempo certo, Ele vai agir<br><br>Fiel, Deus que nunca falha<br>Ainda que a terra se abale<br>Ele permanece assim<br><br>Fiel, Deus que nunca tarda<br>Fiel &eacute; Sua palavra<br>E no tempo certo, Ele vai agir<br><br>Fiel, fiel<br>Tu &eacute;s um Deus fiel<br>Fiel, fiel<br>Tu &eacute;s um Deus fiel<br><br>Fiel, fiel<br>Tu &eacute;s um Deus fiel<br>Fiel, fiel<br>Tu &eacute;s um Deus fiel<br>Fiel<br><br>Fiel, Deus que nunca falha<br>Ainda que a terra se abale<br>Ele permanece assim<br><br>Fiel, Deus que nunca tarda<br>Fiel &eacute; Sua palavra<br>E no tempo certo, Ele vai agir</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Maria Marcal",
+      "title": "Gerado No Altar",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Gerado-No-Altar.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Voc&ecirc; foi gerado no altar<br>Por causa disso &eacute; imposs&iacute;vel<br>Voc&ecirc; fugir do teu destino<br>T&ocirc; te esperando no altar<br>Te fiz promessa desde o ventre<br>Voc&ecirc; n&atilde;o est&aacute; sozinho<br><br>Voc&ecirc; foi gerado no altar<br>Por causa disso &eacute; imposs&iacute;vel<br>Voc&ecirc; fugir do teu destino<br>T&ocirc; te esperando no altar<br>Te fiz promessa desde o ventre<br>Voc&ecirc; n&atilde;o est&aacute; sozinho<br><br>Sabe<br>Rodeado de pessoas<br>Mesmo assim voc&ecirc; se sente t&atilde;o sozinho<br>Essas noites mal dormidas<br>&Eacute; tua alma com saudades do altar<br>Saudades da intimidade Comigo<br><br>Vou te dizer<br>Que essa voz que est&aacute; ouvindo nas madrugadas<br>Sou Eu te chamando<br>Para um encontro, um relacionamento<br>T&ocirc; te esperando no altar<br>O altar te espera<br><br>T&ocirc; te esperando no altar<br>Filho amado<br><br>Voc&ecirc; vai cantar de novo<br>Vai fluir de novo<br>Eu vou te colocar de p&eacute;<br>Est&aacute;s amarrado no altar<br><br>Voc&ecirc; vai cantar de novo<br>Vai fluir de novo<br>Eu vou te colocar de p&eacute;<br>Est&aacute;s amarrado no altar<br><br>&Eacute;s como um vaso<br>Que se quebrou nas m&atilde;os do oleiro<br>Mas o Oleiro vai te refazer<br>Eu vou curar voc&ecirc;<br><br>Voc&ecirc; vai cantar de novo<br>Vai fluir de novo<br>Eu vou te colocar de p&eacute;<br>Est&aacute;s amarrado no altar<br><br>&Eacute;s como um vaso<br>Que se quebrou nas m&atilde;os do oleiro<br>Mas o Oleiro vai te refazer<br>Eu vou curar voc&ecirc;<br>Filho amado<br><br>Sabe<br>T&aacute; rodeado de pessoas<br>Mesmo assim voc&ecirc; se sente t&atilde;o sozinho<br>Essas noites mal dormidas<br>&Eacute; tua alma com saudades do altar<br>Saudades da intimidade Comigo<br><br>Vou te dizer<br>Que essa voz que est&aacute; ouvindo nas madrugadas<br>Sou Eu te chamando<br>Para um encontro, um relacionamento<br>T&ocirc; te esperando no altar<br>O altar te espera<br><br>T&ocirc; te esperando no altar<br>Filho amado<br><br>Voc&ecirc; vai cantar de novo<br>Vai fluir de novo<br>Eu vou te colocar de p&eacute;<br>Est&aacute;s amarrado no altar<br><br>&Eacute;s como um vaso<br>Que se quebrou nas m&atilde;os do oleiro<br>Mas o Oleiro vai te refazer<br>Eu vou curar voc&ecirc;<br><br>Voc&ecirc; vai cantar de novo<br>Vai sorrir de novo<br>Eu vou te colocar de p&eacute;<br>Est&aacute;s amarrado no altar<br><br>&Eacute;s como um vaso<br>Que se quebrou nas m&atilde;os do oleiro<br>Mas o Oleiro vai te refazer<br>Eu vou curar voc&ecirc;<br><br>&Eacute;s como um vaso<br>Que se quebrou nas m&atilde;os do oleiro<br>Mas o Oleiro vai te refazer<br>Eu vou curar voc&ecirc;<br>Filho amado<br><br>T&ocirc; te esperando no altar</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Maria Marcal",
+      "title": "Infinito",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Infinito.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Descansei de mim quando descobri<br>Que o meu futuro est&aacute; preservado em Deus<br>Amadureci, os sonhos que plantei<br>Em meio ao deserto que com l&aacute;grimas reguei<br><br>O meu futuro &eacute; agora, eu colherei<br><br>E ningu&eacute;m vai dizer que apenas eu tentei<br>Deus vai realizar tudo aquilo que sonhei<br>J&aacute; posso at&eacute; cantar que chegou a minha vez<br>Deus assina os projetos que hoje viverei<br><br>Pra que duvidar de quem j&aacute; provou<br>Que o meu futuro nem a morte atolou?<br>Pra que limitar minha f&eacute; s&oacute; no que vejo<br>Se Deus me proporciona ser aquilo que eu creio?<br><br>Vou viver os sonhos mais perfeitos<br><br>E ningu&eacute;m vai dizer que apenas eu tentei<br>Deus vai realizar tudo aquilo que sonhei<br>J&aacute; posso at&eacute; cantar que chegou a minha vez<br>Deus assina os projetos que hoje viverei<br><br>Tenho asas pra voar no c&eacute;u<br>Deus me deu o infinito quando rasgou o v&eacute;u<br>Tenho asas pra voar no c&eacute;u<br>Deus me deu o infinito<br><br>E ningu&eacute;m vai dizer que apenas eu tentei<br>Deus vai realizar tudo aquilo que sonhei<br>J&aacute; posso at&eacute; cantar que chegou a minha vez<br>Deus assina os projetos que hoje viverei<br>Ele assina o projeto que hoje viverei</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Maria Marcal",
+      "title": "NAO FOI POR ACASO",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/NAO-FOI-POR-ACASO.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>N&atilde;o existe acaso ou coincid&ecirc;ncias no Meu jeito de agir<br>Nem a folha de uma &aacute;rvore<br>Poder&aacute; sequer cair sem minha permiss&atilde;o<br>Tudo est&aacute; em Minhas m&atilde;os<br><br>Filho, saiba que n&atilde;o foi em v&atilde;o todo esse sofrimento<br>Toda essa situa&ccedil;&atilde;o &eacute; s&oacute; uma quest&atilde;o de tempo<br>Eu estou trabalhando, estou te preparando<br>Para o melhor que est&aacute; por vir<br><br>N&atilde;o, n&atilde;o foi por acaso que tudo aconteceu<br>Pois s&oacute; Eu tenho a chave que abre e fecha, Eu sou o teu Deus<br>E at&eacute; mesmo no n&atilde;o, sou Eu trabalhando para o teu bem<br>Pois a Minha vontade &eacute; boa, perfeita e agrad&aacute;vel tamb&eacute;m<br><br><br>N&atilde;o foi por acaso que tudo aconteceu<br>&Eacute; que todas as coisas cooperam pro bem dos que amam a Deus<br>Filho, fica tranquilo, descansa agora o teu cora&ccedil;&atilde;o<br>Pois Eu tenho o melhor pra voc&ecirc; em Minhas m&atilde;os<br><br>Filho, saiba que n&atilde;o foi em v&atilde;o todo esse sofrimento<br>Toda essa situa&ccedil;&atilde;o &eacute; s&oacute; uma quest&atilde;o de tempo<br>Eu estou trabalhando, estou te preparando<br>Para o melhor que est&aacute; por vir<br><br>N&atilde;o, n&atilde;o foi por acaso que tudo aconteceu<br>Pois s&oacute; Eu tenho a chave que abre e fecha, Eu sou o teu Deus<br>E at&eacute; mesmo no n&atilde;o, sou Eu trabalhando para o teu bem<br>Pois a Minha vontade &eacute; boa, perfeita e agrad&aacute;vel tamb&eacute;m<br><br><br>N&atilde;o foi por acaso que tudo aconteceu<br>&Eacute; que todas as coisas cooperam pro bem dos que amam a Deus<br>Filho, fica tranquilo, descansa agora o teu cora&ccedil;&atilde;o<br>Pois Eu tenho o melhor pra voc&ecirc;<br><br>Eu sou o teu Deus, Eu cuido de ti<br>Descansa e confia em Mim<br>Eu sou o teu Deus, Eu cuido de ti<br>Descansa e confia em Mim<br>Em Mim<br><br>N&atilde;o, n&atilde;o foi por acaso que tudo aconteceu<br>Pois s&oacute; Eu tenho a chave que abre e fecha, Eu sou o teu Deus<br>E at&eacute; mesmo no n&atilde;o, sou Eu trabalhando para o teu bem<br>Pois a Minha vontade &eacute; boa, perfeita e agrad&aacute;vel tamb&eacute;m<br><br><br>N&atilde;o foi por acaso que tudo aconteceu<br>&Eacute; que todas as coisas cooperam pro bem dos que amam a Deus<br>Filho, fica tranquilo, descansa agora o teu cora&ccedil;&atilde;o<br>Pois Eu tenho o melhor pra voc&ecirc;<br>Em Minhas m&atilde;os</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Maria Marcal",
+      "title": "Os Planos De Deus",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Os-Planos-De-Deus.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Bem sei eu, que tudo podes<br>Nenhum dos Teus planos podem se frustrar<br>A vontade &eacute; Tua, e a minha vida em Tuas m&atilde;os est&aacute;<br>E nenhum dos Teus planos podem se frustrar<br><br>Oh, oh<br>E nenhum dos Teus planos podem se frustrar<br><br>N&atilde;o se frustrar&atilde;o, n&atilde;o se frustrar&atilde;o<br>Os planos de Deus ningu&eacute;m impedir&aacute;<br>Pode o vento soprar, a Terra pode se abalar<br>Mas os planos de Deus ningu&eacute;m impedir&aacute;<br><br>Bem sei eu, que tudo podes<br>E Nenhum dos Teus planos podem se frustrar<br>A vontade &eacute; Tua e minha vida em Tuas m&atilde;os est&aacute;<br>E nenhum dos Teus planos podem se frustrar<br><br>Oh, oh<br>E nenhum dos Teus planos podem se frustrar<br><br>N&atilde;o se frustrar&atilde;o, n&atilde;o se frustrar&atilde;o<br>Os planos de Deus ningu&eacute;m impedir&aacute;<br>Pode o vento soprar, a Terra pode se abalar<br>Mas os planos de Deus ningu&eacute;m impedir&aacute;<br><br>Ningu&eacute;m pode te ajudar<br>Ningu&eacute;m pode te levantar<br>Mas se Deus tem um plano contigo<br>Ningu&eacute;m impedir&aacute;<br><br>Quando passares pelas &aacute;guas<br>Eu estarei contigo, filho<br>Quando passares pelo fogo<br>Ele n&atilde;o te queimar&aacute;<br><br>Pois Eu estou contigo Filho<br>Eu estou contigo Filho<br>Eu estou contigo Filho<br>Eu estou contigo Filho<br><br>E se o teu barco parecer que vai naufragar<br>Est&aacute; balan&ccedil;ando pra l&aacute; e pra c&aacute;<br>Est&aacute; causando medo em teu cora&ccedil;&atilde;o<br>Est&aacute; causando d&uacute;vidas: Cad&ecirc; Jesus?<br><br>Mas olha s&oacute; quem vem a&iacute;<br>Andando sobre as &aacute;guas<br>Parece que &eacute; Jesus<br>Andando sobre as &aacute;guas<br><br>Est&aacute; dando uma ordem para o vento<br>Sou Eu o dono do tempo<br>Sou Eu o dono daqui<br>Sou Eu o dono do mar<br><br>Sou Eu, sou Eu<br>Sou Eu, sou Eu<br>Sou Eu, sou Eu<br><br>Oh, oh<br>Ningu&eacute;m pode te ajudar<br>Ningu&eacute;m pode te levantar<br>Mas se Deus tem um plano contigo<br>Ningu&eacute;m impedir&aacute;</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Maria Marcal",
+      "title": "Se Nao Fosse Deus",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Se-Nao-Fosse-Deus.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Se n&atilde;o fosse Deus<br>N&atilde;o sei o que teria acontecido<br>Confesso, eu j&aacute; teria desistido<br>&Eacute; at&eacute; dif&iacute;cil de imaginar<br><br>Se n&atilde;o fosse Deus<br>Jamais eu chegaria at&eacute; aqui<br>Eu n&atilde;o teria for&ccedil;as pra seguir<br>Dias ruins eu tive que enfrentar<br><br>Doeu demais quando eu ouvi<br>Esse j&aacute; era, n&atilde;o vai conseguir<br>No auge da dor, eu chorava sozinha<br>Sem nada entender<br><br>Mas um certo dia como outro qualquer<br>Desses que a gente quase perde a f&eacute;<br>Ouvi uma voz me dizendo bem forte<br>Estou com voc&ecirc;<br><br>Sou Eu que te sustento e te ajudo<br>Sou Eu, o mesmo Deus que nunca mudo<br>Te carrego no colo quando voc&ecirc; quer parar<br>Te tomo pela m&atilde;o e te ajudo a avan&ccedil;ar<br><br>&Eacute; meu o tempo certo de fazer<br>&Eacute; meu o tempo de te responder<br>Seja renovado, motivado<br>Seja cheio de autoridade e de poder<br><br>&Eacute; a minha m&atilde;o que abre e fecha<br>&Eacute; a minha m&atilde;o que leva e traz<br>Com uma palavra, Eu mudo a hist&oacute;ria<br>Fa&ccedil;o, na guerra, um reino de paz<br><br>&Eacute; a minha m&atilde;o que vai te guiando<br>&Eacute; a minha m&atilde;o que est&aacute; te guardando<br>&Eacute; a potente m&atilde;o de Deus que em todo tempo<br>Est&aacute; no comando<br><br>Doeu demais quando eu ouvi<br>Esse j&aacute; era, n&atilde;o vai conseguir<br>No auge da dor, eu chorava sozinha<br>Sem nada entender<br><br>Mas um certo dia como outro qualquer<br>Desses que a gente quase perde a f&eacute;<br>Ouvi uma voz me dizendo bem forte<br>Estou com voc&ecirc;<br><br>Sou Eu que te sustento e te ajudo<br>Sou Eu, o mesmo Deus que nunca mudo<br>Te carrego no colo quando voc&ecirc; quer parar<br>Te tomo pela m&atilde;o e te ajudo a avan&ccedil;ar<br><br>&Eacute; meu o tempo certo de fazer<br>&Eacute; meu o tempo de te responder<br>Seja renovado, motivado<br>Seja cheio de autoridade e de poder<br><br>&Eacute; a minha m&atilde;o que abre e fecha (que abre e fecha)<br>&Eacute; a minha m&atilde;o que leva e traz (que leva e traz)<br>Com uma palavra, Eu mudo a hist&oacute;ria<br>Fa&ccedil;o, na guerra, um reino de paz<br><br>&Eacute; a minha m&atilde;o que vai te guiando (que vai te guiando)<br>&Eacute; a minha m&atilde;o que est&aacute; te guardando<br>&Eacute; a potente m&atilde;o de Deus que em todo tempo<br>Est&aacute; no comando<br><br>&Eacute; a potente m&atilde;o de Deus que em todo tempo<br>Est&aacute; no comando</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Maria Marcal",
+      "title": "Tempo de Cantar",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Tempo-de-Cantar.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Esse n&atilde;o parece ser o teu final<br>Pois sei que o Sol nasce tamb&eacute;m depois de um temporal<br>Sei que a tua hist&oacute;ria n&atilde;o acaba aqui<br>Pois sei que o Redentor se levanta por ti<br><br>Eu sei que o fim dessa luta chegar&aacute;<br>Chega o tempo de cantar<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br><br>Esse n&atilde;o parece ser o teu final, n&atilde;o<br>Pois sei que o Sol nasce tamb&eacute;m depois de um temporal<br>Sei que a tua hist&oacute;ria n&atilde;o acaba aqui<br>Pois sei que o Redentor se levanta por ti<br><br>Eu sei que o fim dessa luta chegar&aacute;<br>Chega o tempo de cantar<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br>Ele multiplica<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br><br>Onde foi choro, hoje &eacute; alegria<br>Onde foi perda, hoje &eacute; conquista<br>Onde teve luto, hoje existe vida<br>Onde teve pouco, Jesus multiplica<br><br>Foi choro, hoje &eacute; alegria<br>Onde foi choro, hoje &eacute; alegria</font></p>"
+    },
+	
+	
+	{
+      "id": 10,
+      "name_category": "Maria Marcal",
+      "title": "Uma Coisa Nova",
+      "image": "file:///android_asset/image/MariaMarcal.jpg",
+      "link_mp3": "mp3/Uma-Coisa-Nova.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Armadilha preparada pra voc&ecirc;<br>&Eacute; uma guerra espiritual que voc&ecirc; n&atilde;o v&ecirc;<br>O inimigo rodeando, querendo atacar<br>Mas o Senhor dos Ex&eacute;rcitos chegou aqui pra guerrear<br><br>Ele vai exaltar o humilhado<br>Ele vai abater o exaltado<br>Ele entra contigo no fogo<br>E caminha no fogo ao teu lado<br><br>Ele vai confundir o inimigo<br>Ele vai te livrar do perigo<br>Ele vai trovejar contra eles<br>Ele vai te esconder no abrigo<br><br>Ele livra do arco de longe<br>Ele livra da lan&ccedil;a de perto<br>Ele queima os carros no fogo<br>Ele &eacute; provis&atilde;o<br><br>Seja no vale ou na caverna<br>O nosso Deus est&aacute; sempre perto<br><br>Deus vai fazer uma coisa nova<br>Vai mudar a cena<br>Vai fazer a roda grande passar dentro da pequena<br>Vai fazer surpresa &agrave; crente aqui na Terra<br><br>Deus j&aacute; ganhou essa batalha<br>E o inimigo bateu em retirada<br>Esse problema at&eacute; parece grande<br>Mas pra Deus &eacute; nada<br><br>Essa muralha a&iacute; pra o nosso Deus &eacute; nada<br>Esse gigante a&iacute; pra o nosso Deus &eacute; nada<br>Essa doen&ccedil;a a&iacute; &eacute; nada<br>&Eacute; nada, &eacute; nada<br><br>A tempestade a&iacute; pra o nosso Deus &eacute; nada<br>O Mar Vermelho a&iacute; pra o nosso Deus &eacute; nada<br>Esse levante a&iacute; &eacute; nada<br>Pra o nosso Deus &eacute; nada<br><br>A tempestade a&iacute; pra o nosso Deus &eacute; nada<br>O Mar Vermelho a&iacute; pra o nosso Deus &eacute; nada<br>Esse levante a&iacute; &eacute; nada, pra o nosso Deus &eacute; nada<br><br>Armadilha preparada pra voc&ecirc;<br>&Eacute; uma guerra espiritual que voc&ecirc; n&atilde;o v&ecirc;<br>O inimigo rodeando, querendo atacar<br>Mas o Senhor dos Ex&eacute;rcitos chegou aqui pra guerrear<br><br>Ele vai exaltar o humilhado<br>Ele vai abater o exaltado<br>Ele entra contigo no fogo<br>E caminha no fogo ao teu lado<br><br>Ele vai confundir o inimigo<br>Ele vai te livrar do perigo<br>Ele vai trovejar contra eles<br>Ele vai te esconder no abrigo<br><br>Ele livra do arco de longe<br>Ele livra da lan&ccedil;a de perto<br>Ele queima os carros no fogo<br>Ele &eacute; provis&atilde;o<br><br>Seja no vale ou na caverna<br>O nosso Deus est&aacute; sempre perto<br><br>Deus vai fazer uma coisa nova<br>Vai mudar a cena<br>Vai fazer a roda grande passar dentro da pequena<br>Vai fazer surpresa &agrave; crente aqui na Terra<br><br>Deus j&aacute; ganhou essa batalha<br>E o inimigo bateu em retirada<br>Esse problema at&eacute; parece grande<br>Mas pra Deus &eacute; nada<br><br>Essa muralha a&iacute; pra o nosso Deus &eacute; nada<br>Esse gigante a&iacute; pra o nosso Deus &eacute; nada<br>Essa doen&ccedil;a a&iacute; &eacute; nada<br>&Eacute; nada, &eacute; nada<br><br>A tempestade a&iacute; pra o nosso Deus &eacute; nada<br>O Mar Vermelho a&iacute; pra o nosso Deus &eacute; nada<br>Esse levante a&iacute; &eacute; nada<br>Pra o nosso Deus &eacute; nada<br><br>A tempestade a&iacute; pra o nosso Deus &eacute; nada<br>O Mar Vermelho a&iacute; pra o nosso Deus &eacute; nada<br>Esse levante a&iacute; &eacute; nada<br>Pra o nosso Deus &eacute; nada<br><br>Esse levante a&iacute; &eacute; nada<br>Pra o nosso Deus &eacute; nada<br>&Eacute; nada</font></p>"
+    }
+  ]
+}
