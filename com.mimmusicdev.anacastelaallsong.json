@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ana Castela",
+      "image": "file:///android_asset/image/AnaCastela.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ana Castela",
+      "title": "As Menina da Pecuaria",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/As-Menina-da-Pecuaria.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Chegamo os diferente<br>F&aacute;cil conhecer a gente de chap&eacute;u e bota<br>Traiada a todo instante de camisa de brilhante atualizando a moda<br>Chama<br><br>Eu vivo a lida do gado<br>De Rilux ou de cavalo<br>Com tip&atilde;o na ro&ccedil;a<br>As pati acho bonito, mas vou falar o estilo que a gente gosta<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca a mulherada no galope<br><br>Galopa, galopa, galopa<br>N&atilde;o para<br>Se gosta do galope e das menina da pecu&aacute;ria<br><br>Galopa, galopa, galopa<br>E n&atilde;o para<br>T&ocirc; gamando no galope e nas menina da pecu&aacute;ria<br>&Eacute; a boiadeira beb&ecirc;<br>E os menino da pecu&aacute;ria, uhul<br><br>Chegamo os diferente<br>F&aacute;cil conhecer a gente de chap&eacute;u e bota<br>Traiada a todo instante de camisa de brilhante atualizando a moda<br><br>Eu vivo a lida do gado<br>De Hilux ou de cavalo<br>Com tip&atilde;o na ro&ccedil;a<br>As pati acho bonita, mas vou falar o estilo que a gente gosta<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca a mulherada<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca a mulherada no galope<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca<br><br>As menina da pecu&aacute;ria<br>&Eacute; top, &eacute; top<br>Quando o berrante toca a mulherada no galope<br>Quando o berrante toca a mulherada no galope<br><br>Galopa, galopa, galopa<br>N&atilde;o para<br>Se gosta do galope e das menina da pecu&aacute;ria<br><br>Galopa, galopa, galopa<br>E n&atilde;o para<br>T&ocirc; gamando no galope e nas menina da pecu&aacute;ria</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Ana Castela",
+      "title": "BOIADEIRA",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/BOIADEIRA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Depois que me conheceu<br>J&aacute; quis se mudar aqui pro interior<br>Deixa o carro na garagem<br>Pra andar de Manga-larga Marchador<br><br>O cabelo Chanel deu lugar pro chap&eacute;u<br>T&aacute; cheia de terra a unha de gel<br>O Dolce &amp; Gabbana agora foi trocado<br>Por um perfume com cheiro de mato<br><br>E ela, que era cheia de n&atilde;o me toque<br>Agora t&aacute; tocando o gado<br><br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br>O cabelo Chanel deu lugar pro chap&eacute;u<br>T&aacute; cheia de terra a unha de gel<br>O Dolce &amp; Gabbana agora foi trocado<br>Por um perfume com cheiro de mato<br><br>E ela, que era cheia de n&atilde;o me toque<br>Agora t&aacute; tocando o gado<br><br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br>A boiadeira chegou, beb&ecirc;</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Ana Castela",
+      "title": "Boiadeira Remix",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Boiadeira-Remix.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Intro: DJ Lucas Beat<br><br>(D-J Lucas Beat)<br><br><br>Verso: Ana Castela, DJ Lucas Beat<br><br>Depois que me conheceu j&aacute; quis se mudar aqui pro interio&rsquo; (Vapo, vapo, vapo&#8230;)<br>Deixa o carro na garagem pra andar de mangalarga marchado<br><br><br>Pr&eacute;-Refr&atilde;o: Ana Castela<br><br>O cabelo Chanel deu lugar pro chap&eacute;u<br>T&aacute; cheia de terra a unha de gel<br>O Dolce &amp; Gabanna agora foi trocado<br>Por um perfume com cheiro de mato<br>Ela que era cheia de n&atilde;o me toque<br>Agora t&aacute; tocando o gado<br><br><br>Refr&atilde;o: Ana Castela, DJ Lucas Beat<br><br>A maquiagem dela agora &eacute; poeira (Vapo, vapo)<br>A patricinha virou boiadeira (D-J Lucas Beat)<br>A maquiagem dela agora &eacute; poeira (Vapo, vapo)<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja (Vapo, vapo)<br>A patricinha virou boiadeira (D-J Lucas B&#1077;at)<br><br><br><br>Verso: Ana Castela, DJ Lucas Beat<br><br>Depois que me conh&#1077;ceu j&aacute; quis se mudar aqui pro interio&rsquo; (Vapo, vapo, vapo&#8230;)<br>Deixa o carro na garagem pra andar de mangalarga marchado<br><br><br>Pr&eacute;-Refr&atilde;o: Ana Castela<br><br>O cabelo Chanel deu lugar pro chap&eacute;u<br>T&aacute; cheia de terra a unha de gel<br>O Dolce &amp; Gabanna agora foi trocado<br>Por um perfume com cheiro de mato<br>Ela que era cheia de n&atilde;o me toque<br>Agora t&aacute; tocando o gado<br><br><br>Refr&atilde;o: Ana Castela, DJ Lucas Beat<br><br>A maquiagem dela agora &eacute; poeira (Vapo, vapo, vapo)<br>A patricinha virou boiadeira (D-J Lucas Beat)<br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira (Vapo, vapo, vapo)<br>A maquiagem dela agora &eacute; poeira<br>A patricinha virou boiadeira<br>Largou o vinho pra tomar cerveja<br>A patricinha virou boiadeira<br><br><br>Sa&iacute;da: Ana Castela, DJ Lucas Beat<br>A boiadeira chegou, beb&ecirc; (D-J Lucas Beat, D-J Lucas Beat)</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Ana Castela",
+      "title": "Bombonzinho (Let's Bora)",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Bombonzinho-(Let's-Bora).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Por que tudo que eu quero ou &eacute; proibido<br>Ou faz gostoso?<br>Sua boca &eacute; um mel, deixa eu<br>Me lambuzar de novo<br><br>Na cama, c&ecirc; tem talento<br>C&ecirc; manja dos movimento<br>Tem de tudo, s&oacute; n&atilde;o tem sentimento<br>Na cama, c&ecirc; tem talento<br>C&ecirc; manja dos movimento<br><br>Ah, esse corp&atilde;o moreno a&iacute;<br>Derrete na boca igual bombonzinho<br>Pena que c&ecirc; &eacute; pra frente<br>Tem uma porrada de gente que c&ecirc; pega al&eacute;m de mim<br><br>Esse corp&atilde;o moreno a&iacute;<br>Derrete na boca igual bombonzinho<br>Pena que c&ecirc; &eacute; pra frente<br>Tem uma porrada de gente que c&ecirc; pega al&eacute;m de mim<br><br>As que presta a gente nem se envolve<br>E as que n&atilde;o vale nada, n&oacute;s apaixona e sofre<br>Os que presta a gente nem se envolve<br>E os que n&atilde;o vale nada, n&oacute;s apaixona e sofre<br><br>Na cama, c&ecirc; tem talento<br>C&ecirc; manja dos movimento<br>Tem de tudo, s&oacute; n&atilde;o tem sentimento<br>Na cama, c&ecirc; tem talento<br>C&ecirc; manja dos movimento<br><br>Ah, esse corp&atilde;o moreno a&iacute;<br>Derrete na boca igual bombonzinho<br>Pena que c&ecirc; &eacute; pra frente<br>Tem uma porrada de gente que c&ecirc; pega al&eacute;m de mim<br><br>Esse corp&atilde;o moreno a&iacute;<br>Derrete na boca igual bombonzinho<br>Pena que c&ecirc; &eacute; pra frente<br>Tem uma porrada de gente que c&ecirc; pega al&eacute;m de mim<br><br>As que presta a gente nem se envolve<br>E as que n&atilde;o vale nada, n&oacute;s apaixona e sofre<br>Os que presta a gente nem se envolve<br>E os que n&atilde;o vale nada, n&oacute;s apaixona e sofre<br><br>As que n&atilde;o vale nada, n&oacute;s apaixona e sofre</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Ana Castela",
+      "title": "Chama (DVD Do Mato Pro Mundo)",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Chama-(DVD-Do-Mato-Pro-Mundo).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Se eu te falar que n&atilde;o te amo<br>Se eu te falar que n&atilde;o te quero<br>D&aacute; pra ver at&eacute; por liga&ccedil;&atilde;o que eu n&atilde;o fui sincero<br>A gente s&oacute; t&aacute; complicando, amor n&oacute;s tem pra mais de metro<br>Quero ver explicar pro cora&ccedil;&atilde;o que 1+1 &eacute; 0<br><br>Chama que a saudade t&aacute; moendo<br>T&aacute; matando igual veneno, t&aacute; grudando feito praga<br>T&ocirc; sentindo a sua falta<br>Ai, ai, ai<br><br>Eu j&aacute; tentei, mas eu sem voc&ecirc;<br>&Eacute; tipo la&ccedil;ador sem corda<br>Bota sem espora<br>Eu j&aacute; tentei mas eu sem voc&ecirc;<br>&Eacute; tipo lida sem boiada, vaqueiro sem vaquejada<br><br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br><br>Chama que a saudade t&aacute; moendo<br>T&aacute; matando igual veneno, t&aacute; grudando feito praga<br>T&ocirc; sentindo a sua falta<br>Ai, ai, ai<br><br>Eu j&aacute; tentei, mas eu sem voc&ecirc;<br>&Eacute; tipo la&ccedil;ador sem corda<br>Bota sem espora<br>Eu j&aacute; tentei mas eu sem voc&ecirc;<br>&Eacute; tipo lida sem boiada, vaqueiro sem vaquejada<br><br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br><br>Eu j&aacute; tentei, mas eu sem voc&ecirc;<br>&Eacute; tipo la&ccedil;ador sem corda<br>Bota sem espora<br>Eu j&aacute; tentei mas eu sem voc&ecirc;<br>&Eacute; tipo lida sem boiada, vaqueiro sem vaquejada<br><br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br><br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada<br>Chama que sem tu eu n&atilde;o sou nada</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Ana Castela",
+      "title": "Fazendinha Sessions 1",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Fazendinha-Sessions-1.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000></font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Ana Castela",
+      "title": "Fazendinha Sessions 2 Vai Ser Bao Pra la",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Fazendinha-Sessions-2-Vai-Ser-Bao-Pra-la.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000></font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Ana Castela",
+      "title": "HINO AGRO",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/HINO-AGRO.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Se eu falo errado<br>Se eu ando tudo cheio de barro<br>Onde voc&ecirc; vai de carro<br>Eu vou de cavalo<br>N&oacute;s &eacute; brabo<br><br>N&atilde;o tenho vergonha da minha raiz de caipira<br>E onde eu garanto o p&atilde;o de cada dia<br>&Eacute; na lida<br><br>N&atilde;o &eacute; porque eu vim da ro&ccedil;a<br>Que eu n&atilde;o vou vingar<br><br>Eu, eu sou roceiro<br>Com muito orgulho<br>Do interior<br><br>Eu sou boiadeiro<br>Sou puro sangue<br>Pro mato eu vou<br><br>Eu, eu sou roceiro<br>Com muito orgulho<br>Do interior<br><br>Eu sou boiadeiro<br>Sou puro sangue<br>Do mato eu sou<br><br>Se eu falo errado<br>Se eu ando tudo cheio de barro<br>Onde voc&ecirc; vai de carro<br>Eu vou de cavalo<br>N&oacute;s &eacute; brabo<br><br>N&atilde;o tenho vergonha da minha raiz de caipira<br>E onde eu garanto o p&atilde;o de cada dia<br>&Eacute; na lida<br><br>N&atilde;o &eacute; porque eu vim da ro&ccedil;a<br>Que eu n&atilde;o vou vingar<br><br>Eu, eu sou roceiro<br>Com muito orgulho<br>Do interior<br><br>Eu sou boiadeiro<br>Sou puro sangue<br>Pro mato eu vou<br><br>Eu, eu sou roceiro<br>Com muito orgulho<br>Do interior<br><br>Eu sou boiadeiro<br>Sou puro sangue<br>Do mato eu sou</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Ana Castela",
+      "title": "Juliet e Chapelao",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Juliet-e-Chapelao.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(Tamo, junto!)<br>(&Eacute; o LP, &eacute; a boiadeira, &eacute; o Chris No Beat, vai!)<br>(Chama, DJ!)<br><br>Quem foi que falou<br>Que as maloca n&atilde;o senta nos boiadeiro?<br>Aqui jacar&eacute; n&atilde;o &eacute; no peito, &eacute; no p&eacute;<br>Bolso lotado, proporcionando o que elas quer<br><br>A gente tamb&eacute;m anda cheio de ouro no pesco&ccedil;o<br>Um pe&atilde;o de luxo, de botona preto fosco (ai!)<br>Eles perde a linha se n&oacute;s brota no bail&atilde;o<br>N&oacute;s junta Juliet e chapel&atilde;o<br><br>Bota o chap&eacute;u na cabe&ccedil;a<br>Botou bota e bota em mim<br>Bota o chap&eacute;u na cabe&ccedil;a<br>Botou bota e bota em mim<br><br>Quicando no fazendeiro<br>Galopa no gostozin<br>Quicando no fazendeiro<br>Galopa no gostozin<br><br>Ai!<br>(Devagarin, devagarin) galopa no gostozin<br>Devagarinho<br><br>Boto o chap&eacute;u na cabe&ccedil;a<br>Boto a bota e boto nela<br>Boto o chap&eacute;u na cabe&ccedil;a<br>Boto a bota e boto nela<br><br>Ela se amarra e monta no pe&atilde;o sem sela<br>Ela se amarra e monta no pe&atilde;o sem sela<br><br>(DJ Chris No Beat, m&aacute;quina de hit)<br>(Explodiu!)<br><br>Quem foi que falou<br>Que as maloca n&atilde;o senta nos boiadeiro?<br>Aqui jacar&eacute; n&atilde;o &eacute; no peito, &eacute; no p&eacute;<br>Bolso lotado, proporcionando o que elas quer<br><br>A gente tamb&eacute;m anda cheio de ouro no pesco&ccedil;o<br>Um pe&atilde;o de luxo, de botona preto fosco (ai!)<br>Eles perde a linha se n&oacute;s brota no bail&atilde;o<br>N&oacute;s junta Juliet e chapel&atilde;o<br><br>Bota o chap&eacute;u na cabe&ccedil;a<br>Botou bota e bota em mim<br>Bota o chap&eacute;u na cabe&ccedil;a<br>Botou bota e bota em mim<br><br>Quicando no fazendeiro<br>Galopa no gostozin<br>Quicando no fazendeiro<br>Galopa no gostozin<br><br>Ai!<br>(Devagarin, devagarin) galopa no gostozin<br>Devagarinho<br><br>Boto o chap&eacute;u na cabe&ccedil;a<br>Boto a bota e boto nela<br>Boto o chap&eacute;u na cabe&ccedil;a<br>Boto a bota e boto nela<br><br>Ela se amarra e monta no pe&atilde;o sem sela<br>Ela se amarra e monta no pe&atilde;o sem sela<br><br>(DJ Chris No Beat, m&aacute;quina de hit)<br>(Explodiu!)</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Ana Castela",
+      "title": "Neon",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Neon.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>N&atilde;o &eacute; porque eu sou da ro&ccedil;a<br>Que eu n&atilde;o rodo no asfalto<br>Eu posso at&eacute; andar de carro<br>Mas prefiro o meu cavalo<br><br>N&atilde;o &eacute; porque eu ando de bota<br>Que eu n&atilde;o posso andar de salto<br>Eu gosto do cantar do galo<br>Mas prefiro som no talo<br><br>DJ, essa batida t&aacute; espetacular<br>Segura o meu chap&eacute;u que essa eu vou dan&ccedil;ar<br><br>Aumente o som<br>Acende a luz neon<br>Que mulher bruta pode rebolar<br>E ser bagaceira<br><br>Aumente o som<br>Acende a luz neon<br>Essa cidade tem que respeitar<br>As boiadeiras<br><br>N&atilde;o &eacute; porque eu sou da ro&ccedil;a<br>Que eu n&atilde;o rodo no asfalto<br>Eu posso at&eacute; andar de carro<br>Mas prefiro o meu cavalo<br><br>N&atilde;o &eacute; porque eu ando de bota<br>Que eu n&atilde;o posso andar de salto<br>Eu gosto do cantar do galo<br>Mas prefiro som no talo<br><br>DJ, essa batida t&aacute; espetacular<br>Segura o meu chap&eacute;u que essa eu vou dan&ccedil;ar<br><br>Aumente o som<br>Acende a luz neon<br>Que mulher bruta pode rebolar<br>E ser bagaceira<br><br>Aumente o som<br>Acende a luz neon<br>Essa cidade tem que respeitar<br>As boiadeiras</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Ana Castela",
+      "title": "Nois e da Roca Bebe",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Nois-e-da-Roca-Bebe.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Eu sou tipo pe&atilde;o<br>Desde pequena na lida<br>Vivendo no mato<br><br>Aqui tem boi, tem planta&ccedil;&atilde;o<br>&Agrave;s vezes eu vou de trator<br>&Agrave;s vezes de cavalo<br><br>A&iacute; me aparece um playboy<br>De carro rebaixado, estilo vida loka<br>Querendo passar mel na minha boca<br><br>Aqui n&oacute;is &eacute; da ro&ccedil;a, beb&ecirc;<br>O sistema eu vou falar pro c&ecirc;<br>N&oacute;s gosta de som tripdando<br>Cerveja e churrasco<br><br>Aqui n&oacute;is &eacute; da ro&ccedil;a, beb&ecirc;<br>O sistema eu vou falar pro c&ecirc;<br>Pra chegar no meu cora&ccedil;&atilde;o<br>Pega estrada de barro<br><br>Aqui n&oacute;is &eacute; da ro&ccedil;a, beb&ecirc;<br>O sistema eu vou falar pro c&ecirc;<br>N&oacute;s gosta de som tripdando<br>Cerveja e churrasco<br><br>Aqui n&oacute;is &eacute; da ro&ccedil;a, beb&ecirc;<br>O sistema eu vou falar pro c&ecirc;<br>Pra chegar no meu cora&ccedil;&atilde;o<br>Pega estrada de barro<br>E ele &eacute; cercado de arame farpado</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Ana Castela",
+      "title": "O La Na Roca",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/O-La-Na-Roca.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Eu n&atilde;o quero que me entenda errado<br>Mal te conhe&ccedil;o e j&aacute; t&ocirc; apaixonado<br><br>Se n&atilde;o quer nada<br>Posso s&oacute; ser teu amigo<br>Vem tomar uma comigo<br>Pra eu tentar te convencer<br><br>No fim da noite<br>A gente vai dan&ccedil;ar colado<br>No escurinho do meu quarto<br>Voc&ecirc; n&atilde;o vai esquecer<br><br>&Ocirc; l&aacute; na ro&ccedil;a comigo<br>Eu quero voc&ecirc;<br>&Ocirc; l&aacute; na ro&ccedil;a comigo<br>Ro&ccedil;ando beb&ecirc;<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonada<br>No que o boy sabe fazer<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonado<br>No que n&oacute;s sabe fazer<br>(&Eacute; a boiadeira e os irm&atilde;os) (aaai beb&ecirc;)<br><br>Se n&atilde;o quer nada<br>Posso s&oacute; ser teu amigo<br>Vem tomar uma comigo<br>Pra eu tentar te convencer<br><br>No fim da noite<br>A gente vai dan&ccedil;ar colado<br>No escurinho do meu quarto<br>Voc&ecirc; n&atilde;o vai esquecer<br><br>&Ocirc; l&aacute; na ro&ccedil;a comigo<br>Eu quero voc&ecirc;<br>&Ocirc; l&aacute; na ro&ccedil;a comigo<br>Ro&ccedil;ando beb&ecirc;<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonada<br>No que o boy sabe fazer<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonado<br>No que n&oacute;s sabe fazer<br><br>&Ocirc; l&aacute; em casa comigo<br>Eu quero voc&ecirc;<br>&Ocirc; l&aacute; na ro&ccedil;a comigo<br>Ro&ccedil;ando beb&ecirc;<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonada<br>No que o boy sabe fazer<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonada<br>No que o boy sabe fazer<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonado<br>No que n&oacute;s sabe fazer<br><br>Toma cora&ccedil;&atilde;o vapo vapo<br>Voc&ecirc; vai ficar xonado,<br>Na boiadeira beb&ecirc;<br>(&Eacute; a boiadeira) (Felipe e Murilo)<br>(C&ecirc; vai ficar xonada nos irm&atilde;o beb&ecirc;)</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Ana Castela",
+      "title": "Pipoco",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Pipoco.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(Ol&aacute;, rapazes, aqui &eacute; a boiadeira)<br>(Est&atilde;o preparados para o pi-po-co?)<br><br>Se prepara<br><br>As boiadeira n&atilde;o d&aacute; pra encarar<br>As boiadeira n&atilde;o d&aacute; pra encarar<br>Bota, fivela e chap&eacute;u Karand&aacute;<br>Batom vermelho pros playba chorar<br><br>As boiadeira n&atilde;o d&aacute; pra encarar<br>As boiadeira n&atilde;o d&aacute; pra encarar<br>Bota, fivela e chap&eacute;u Karand&aacute;<br>Batom vermelho pros playba chorar<br><br>N&oacute;s &eacute; emba&ccedil;ada na galopada<br>Nem oito segundo, pe&atilde;o n&atilde;o aguenta com essa sentada<br>N&oacute;s &eacute; emba&ccedil;ada na galopada<br>Nem oito segundo, pe&atilde;o n&atilde;o aguenta com essa sentada<br><br>(E al&eacute;m de tudo isso)<br><br>Meu beijo vai te viciar<br>Minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir, yeah<br><br>Meu beijo vai te viciar<br>Minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir, yeah, yeah<br><br>Se prepara<br><br>As boiadeira n&atilde;o d&aacute; pra encarar<br>As boiadeira n&atilde;o d&aacute; pra encarar<br>Bota, fivela e chap&eacute;u Karand&aacute;<br>Batom vermelho pros playba chorar<br><br>As boiadeira n&atilde;o d&aacute; pra encarar<br>As boiadeira n&atilde;o d&aacute; pra encarar<br>Bota, fivela e chap&eacute;u Karand&aacute;<br>Batom vermelho pros playba chorar<br><br>(Quero ver descer, quero ver descer)<br>(Melody)<br><br>N&oacute;s &eacute; emba&ccedil;ada na galopada<br>C&ecirc;s fica maluco com a nossa jogada, a gente n&atilde;o para<br>N&oacute;s &eacute; emba&ccedil;ada na galopada<br>C&ecirc;s fica maluco com a nossa jogada, a gente n&atilde;o para<br><br>(E al&eacute;m de tudo isso)<br><br>Meu beijo vai te viciar<br>A minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir, yeah<br><br>Meu beijo vai te viciar<br>Minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir, yeah, yeah<br><br>Meu beijo vai te viciar<br>Minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir (Chris No Beat)<br><br>Meu beijo vai te viciar<br>Minha pegada vai fazer voc&ecirc; gamar<br>Debaixo do meu chap&eacute;u n&atilde;o vai mais sair<br>Eu sou o combo perfeito pra iludir, yeah, yeah<br><br>Se prepara</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Ana Castela",
+      "title": "Reverse",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Reverse.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Para de olhar os meus stories<br>E vem me ver aqui pessoalmente<br>Eu sei que voc&ecirc; n&atilde;o vai mudar<br>Mas t&ocirc; com uma baita saudade da gente<br><br>A gente n&atilde;o vale porra nenhuma<br>J&aacute; t&ocirc; chegando, baby, se arruma<br>Vai ter remember nessa madruga<br>Mas de manh&atilde; voc&ecirc; n&atilde;o me procura<br><br>&Eacute; muita loucura a gente se v&ecirc;<br>Mas essa loucura &eacute; o que me d&aacute; prazer<br>Beb&ecirc;, j&aacute; t&ocirc; brotando a&ecirc;<br><br>&Eacute; que na sua cama a magia acontece<br>T&ocirc; querendo de novo aquele sobe e desce<br>Depois que acaba, tu pede reverse<br>Depois que acaba, tu pede reverse<br><br>&Eacute; que na sua cama a magia acontece<br>T&ocirc; querendo de novo aquele sobe e desce<br>Depois que acaba, tu pede reverse<br>Depois que acaba, tu pede reverse<br><br>Para de olhar os meus stories<br>E vem me ver aqui pessoalmente<br>Eu sei que voc&ecirc; n&atilde;o vai mudar<br>Mas t&ocirc; com uma baita saudade da gente<br><br>A gente n&atilde;o vale porra nenhuma<br>J&aacute; t&ocirc; chegando, baby, se arruma<br>Vai ter remember nessa madruga<br>Mas de manh&atilde; voc&ecirc; n&atilde;o me procura<br><br>&Eacute; muita loucura a gente se v&ecirc;<br>Mas essa loucura &eacute; o que me d&aacute; prazer<br>Beb&ecirc;, j&aacute; t&ocirc; brotando a&ecirc;<br><br>&Eacute; que na sua cama a magia acontece<br>T&ocirc; querendo de novo aquele sobe e desce<br>Depois que acaba, tu pede reverse<br>Depois que acaba, tu pede reverse<br><br>&Eacute; que na sua cama a magia acontece<br>T&ocirc; querendo de novo aquele sobe e desce<br>Depois que acaba, tu pede reverse<br>Depois que acaba, tu pede reverse</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Ana Castela",
+      "title": "Roca Em Mim",
+      "image": "file:///android_asset/image/AnaCastela.jpg",
+      "link_mp3": "mp3/Roca-Em-Mim.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Elas gostam da minha voz no ouvido<br>De sentir o meu cheiro, do love bandido<br>Elas gostam de sentar no perigo<br>Se envolve sem medo, sem pensar no risco<br><br>Diz se apaixonar no caub&oacute;i<br>Vai com calma, beb&ecirc;, depois do pr&eacute; tem o p&oacute;s<br>Sabe que n&oacute;s faz bem gostosin<br>Eu chamei ela pra ro&ccedil;a e ela me pediu assim<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Tira o chap&eacute;u e a bota e me bota gostosin<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Que hoje tu vira o olho galopando gostosin<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Tiro o chap&eacute;u e a bota e te boto gostosin<br><br>Me bota, me bota, me bota gostosin<br>Me bota, me bota, galopando gostosin<br><br>Elas gosta da minha voz no ouvido<br>De sentir o meu cheiro, do love bandido<br>Elas gosta de sentar no perigo<br>Se envolve sem medo, sem pensar no risco<br><br>Diz se apaixonar no caub&oacute;i<br>Vai com calma, beb&ecirc;, depois do pr&eacute; tem o p&oacute;s<br>Sabe que n&oacute;s faz bem gostosin<br>Eu chamei ela pra ro&ccedil;a e ela me pediu assim<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Tira o chap&eacute;u e a bota e me bota gostosin<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Que hoje tu vira o olho galopando gostosin<br><br>Ro&ccedil;a, ro&ccedil;a em mim<br>Ro&ccedil;a, ro&ccedil;a em mim<br>Tiro o chap&eacute;u e a bota e te boto gostosin<br><br>Me bota, me bota, me bota gostosin<br>Me bota, me bota, galopando gostosin</font></p>"
+    }
+  ]
+}
