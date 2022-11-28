@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sam Smith",
+      "image": "file:///android_asset/image/SamSmith.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Sam Smith",
+      "title": "Dancing With A Stranger",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Dancing-With-A-Stranger.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Sam Smith:]<br>Hmm, mhm<br><br>I don't wanna be alone tonight ('Lone tonight)<br>It's pretty clear that I'm not over you (Over you, over you)<br>I'm still thinking 'bout the things you do (Things you do)<br>So I don't want to be alone tonight, alone tonight, alone tonight<br>Can you light the fire? (Light the fire, light the fire)<br>I need somebody who can take control (Take control)<br>I know exactly what I need to do<br>'Cause I don't wanna be alone tonight, alone tonight, alone tonight<br><br>Look what you made me do, I'm with somebody new<br>Ooh, baby, baby, I'm dancing with a stranger<br>Look what you made me do, I'm with somebody new<br>Ooh, baby, baby, I'm dancing with a stranger<br>Dancing with a stranger<br><br>[Normani:]<br>I wasn't even going out tonight (Out tonight)<br>But, boy, I need to get you off of my mind (Off of my mind)<br>I know exactly what I have to do<br>I don't wanna be alone tonight, alone tonight, alone tonight<br><br>[Normani &amp; Sam Smith:]<br>Look what you made me do, I'm with somebody new<br>Ooh, baby, baby, I'm dancing with a stranger<br>Look what you made me do, I'm with somebody new<br>Ooh, baby, baby, I'm dancing with a stranger<br>Dancing with a stranger<br>Dancing with a stranger<br>Dancing, yeah, ooh<br><br>Look what you made me do, I'm with somebody new (Ooh)<br>Ooh, baby, baby, I'm dancing with a stranger<br>Look what you made me do, I'm with somebody new<br>Ooh, baby, baby, I'm dancing with a stranger<br>I'm dancing, I'm dancing (Ooh)<br>I'm dancing, I'm dancing (Dancing with a stranger)<br>I'm dancing, I'm dancing (Dancing with a stranger)<br>I'm dancing, I'm dancing (Dancing with a stranger)</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Sam Smith",
+      "title": "Diamonds",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Diamonds.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(Diamonds-diamonds-diamonds-diamonds)<br>(Diamonds-diamonds-diamonds-diamonds)<br>(Diamonds-diamonds-diamonds-diamonds)<br>(Diamonds-diamonds-diamonds-diamonds)<br><br>Have it all<br>Rip our memories off the wall<br>All the special things I bought<br>They mean nothing to me any more<br>But to you<br>They were everything we were<br>They meant more than every word<br>Now I know just what you love me for (Mmm-mmm)<br><br>Take all the money you want from me<br>Hope you become what you want to be<br>Show me how little you care<br>How little you care, how little you care<br>You dream of glitter and gold<br>My heart's already been sold<br>Show you how little I care<br>How little I care, how little I care<br><br>My diamonds leave with you (Mmm)<br>You're never gonna hear my heart break (Mmm)<br>Never gonna move in dark ways (Mmm)<br>Baby, you're so cruel<br>My diamonds leave with you (Mmm)<br>Material love won't fool me (Mmm)<br>When you're not here I can breathe (Mmm)<br>Think I always knew<br>My diamonds leave with you (Diamonds-diamonds-diamonds-diamonds)<br><br>Shake it off<br>Shake the fear of feeling lost<br>Always me that pays the cost<br>I should never trust so easily<br>You lied to me<br>Lie-lied to me<br>Then left with my heart 'round your chest (Mmm-mmm)<br><br>Take all the money you want from me<br>Hope you become what you want to be<br>Show me how little you care<br>How little you care, how little you care<br>You dream of glitter and gold<br>My heart's already been sold<br>Show you how little I care<br>How little I care, how little I care<br><br>My diamonds leave with you (Mmm)<br>You're never gonna hear my heart break (Mmm)<br>Never gonna move in dark ways (Mmm)<br>Baby, you're so cruel<br>My diamonds leave with you (Mmm)<br>Material love won't fool me (Mmm)<br>When you're not here I can breathe (Mmm)<br>Think I always knew<br>My diamonds leave with you (Diamonds-diamonds-diamonds-diamonds)<br><br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Always knew<br>My diamonds leave with you (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Always knew (Diamonds-diamonds-diamonds-diamonds)<br><br>You're never gonna hear my heart break<br>Never gonna move in dark ways<br>Baby, you're so cruel<br>My diamonds leave with you<br>Material love won't fool me<br>When you're not here I can breathe<br>Think I always knew<br>My diamonds leave with you, oh- whoa<br><br>You're never gonna hear my heart break (Mmm)<br>Never gonna move in dark ways (Mmm)<br>Baby, you're so cruel (So cruel)<br>My diamonds leave with you (Mmm)<br>Material love won't fool me (Mmm)<br>When you're not here I can breathe (Mmm)<br>Think I always knew<br>My diamonds leave with you (Diamonds-diamonds-diamonds-diamonds)<br><br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Always knew<br>My diamonds leave with you (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Whoa-oh (Diamonds-diamonds-diamonds-diamonds)<br>Always knew<br>My diamonds leave with you</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Sam Smith",
+      "title": "Fire On Fire",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Fire-On-Fire.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>My mother said I'm too romantic<br>She said, &quot;You're dancing in the movies.&quot;<br>I almost started to believe her<br>Then I saw you and I knew<br><br>Maybe it's 'cause I got a little bit older<br>Maybe it's all that I've been through<br>I'd like to think it's how you lean on my shoulder<br>And how I see myself with you<br><br>I don't say a word<br>But still, you take my breath and steal the things I know<br>There you go, saving me from out of the cold<br><br>Fire on fire, would normally kill us<br>With this much desire, together, we're winners<br>They say that we're out of control and some say we're sinners<br>But don't let them ruin our beautiful rhythms<br>'Cause when you unfold me and tell me you love me<br>And look in my eye<br>You are perfection, my only direction<br>It's fire on fire, mmm<br>It's fire on fire<br><br>When we fight, we fight like lions<br>But then we love and feel the truth<br>We lose our minds in a city of roses<br>We won't abide by any rules<br><br>I don't say a word<br>But still, you take my breath and steal the things I know<br>There you go, saving me from out of the cold<br><br>Fire on fire, would normally kill us<br>With this much desire, together, we're winners<br>They say that we're out of control and some say we're sinners<br>But don't let them ruin our beautiful rhythms<br>'Cause when you unfold me and tell me you love me<br>And look in my eye<br>You are perfection, my only direction<br>It's fire on fire, oh<br>It's fire on fire<br><br>Fire on fire, would normally kill us<br>With this much desire, together, we're winners<br>They say that we're out of control and some say we're sinners<br>But don't let them ruin our beautiful rhythms<br><br>Fire on fire, would normally kill us<br>With this much desire, together, we're winners<br>They say that we're out of control and some say we're sinners<br>But don't let them ruin our beautiful rhythms<br>'Cause when you unfold me and tell me you love me<br>And look in my eye<br>You are perfection, my only direction<br>It's fire on fire<br><br>You are perfection, my only direction<br>It's fire on fire</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Sam Smith",
+      "title": "How Do You Sleep",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/How-Do-You-Sleep.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I'm done hating myself for feeling<br>I'm done crying myself awake<br>I've gotta leave and start the healing<br>But when you move like that, I just wanna stay<br>What have I become? Looking through your phone (now oh now)<br>Love to you is just a game<br>Look what I have done, dialing up the numbers on you<br>I don't want my heart to break, baby<br><br>How do you sleep when you lie to me?<br>All that shame and all that danger<br>I'm hoping that my love will keep you up tonight<br><br>Baby, how do you sleep when you lie to me?<br>All that fear and all that pressure<br>I'm hoping that my love will keep you up tonight<br>Tell me, how do you?<br><br>Love will keep you up tonight<br>Tell me how do you?<br><br>Oh no, how did I manage to lose me?<br>I am not this desperate, not this crazy<br>There's no way I'm sticking 'round to find out<br>I won't lose like that, I won't lose myself<br>Look what I've done<br>Dialing up the numbers on you<br>I don't want my heart to break, baby<br><br>How do you sleep when you lie to me?<br>All that shame and all that danger<br>I'm hoping that my love will keep you up tonight<br><br>Baby, how do you sleep when you lie to me?<br>All that fear and all that pressure<br>I'm hoping that my love will keep you up tonight<br>Tell me, how do you?<br><br>Love will keep you up tonight<br>Tell me how do you?<br><br>Love will keep you up tonight<br>Baby, how do you sleep when you lie to me?<br>All that shame and all that danger<br>I'm hoping that my love will keep you up tonight<br><br>Baby, how do you sleep when you lie to me?<br>All that fear and all that pressure<br>I'm hoping that my love will keep you up tonight<br>Tell me, how do you?</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Sam Smith",
+      "title": "I'm Not The Only One",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/I'm-Not-The-Only.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You and me, we made a vow<br>For better or for worse<br>I can't believe you let me down<br>But the proof's in the way it hurts<br><br>For months on end I've had my doubts<br>Denying every tear<br>I wish this would be over now<br>But I know that I still need you here<br><br>You say I'm crazy<br>'Cause you don't think I know what you've done<br>But when you call me baby<br>I know I'm not the only one<br><br>You've been so unavailable<br>Now sadly I know why<br>Your heart is unobtainable<br>Even though Lord knows you kept mine<br><br>You say I'm crazy<br>'Cause you don't think I know what you've done<br>But when you call me baby<br>I know I'm not the only one<br><br>I have loved you for many years<br>Maybe I am just not enough<br>You've made me realize my deepest fear<br>By lying and tearing us up<br><br>You say I'm crazy<br>'Cause you don't think I know what you've done<br>But when you call me baby<br>I know I'm not the only one<br><br>You say I'm crazy<br>'Cause you don't think I know what you've done<br>But when you call me baby<br>I know I'm not the only one<br><br>I know I'm not the only one<br>I know I'm not the only one<br>And I know<br>And I know<br>And I know<br>And I know<br>And I know<br>And I don't know<br>I know I'm not the only one</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Sam Smith",
+      "title": "I'm Ready",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/I'm-Ready.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>It's a cold night in my bed in the heat of the summer<br>I've been waiting patiently for a beautiful lover<br>He's not a cheater, a believer<br>He's a warm, warm blooded achiever<br>It's a lonely night in my bed in the heat of the summer, uhh<br><br>It's so hard when you're with someone<br>Your heart breaks and it ain't no fun<br>But I gotta take that risk tonight<br><br>I'm ready, I'm ready<br>I'm ready, I'm ready<br>For someone to love me (For someone to love me)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>For someone to love me<br>For someone to love me<br><br>Ooh-yeah<br><br>It's a hot night in my head in the chill of the winter<br>No, I've been lookin' hard for a lover disguised as a sinner<br>No, not a cheater, a redeemer<br>He's a cold, cold blooded defeater<br>It's a hot night in my head in the chill of the winter, no<br><br>It's so hard when you're with someone<br>Your heart breaks and it ain't no fun<br>But I gotta take that risk tonight<br><br>I'm ready, I'm ready<br>I'm ready, I'm ready<br>For someone to love me (For someone to love me)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>For someone to love me<br>For someone to love me<br><br>(I'm ready)<br>(I'm ready)<br>(I'm ready)<br>(I'm ready)<br>Oh-oh-oh-oh-oh, oh-oh-oh<br>Oh-oh-oh-oh-oh, oh-oh-oh<br><br>It's a cold night in my bed in the heat of the summer<br>No, I've been lookin' hard for a lover disguised as a sinner<br><br>I'm ready (I'm ready), I'm ready (I'm ready)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>For someone to love me (For someone to love me)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>I'm ready (I'm ready), I'm ready (I'm ready)<br>For someone to love me<br>For someone to love me</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Sam Smith",
+      "title": "Lay Me Down",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Lay-Me-Down.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yes, I do, I believe<br>That one day I will be<br>Where I was right there<br>Right next to you<br><br>And it's hard<br>The days just seem so dark<br>The moon and the stars<br>Are nothing without you<br><br>Your touch, your skin<br>Where do I begin?<br>No words can explain<br>The way I'm missing you<br><br>Deny this emptiness<br>This hole that I'm inside<br>These tears<br>They tell their own story<br><br>Told me not to cry when you were gone<br>But the feeling's overwhelming, it's much too strong<br><br>Can I lay by your side?<br>Next to you, you<br>And make sure you're alright<br>I'll take care of you<br>I don't want to be here if I can't be with you tonight<br><br>I'm reaching out to you<br>Can you hear my call?<br>This hurt that I've been through<br>I'm missing you, missing you like crazy<br><br>[This verse is only in the album version:]<br>You told me not to cry when you were gone<br>But the feeling's overwhelming, it's much too strong<br><br>Can I lay by your side?<br>Next to you, you<br>And make sure you're alright<br>I'll take care of you<br>I don't want to be here if I can't be with you tonight<br><br>Lay me down tonight<br>Lay me by your side<br>Lay me down tonight<br>Lay me by your side<br>Can I lay by your side?<br>Next to you<br>You</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Sam Smith",
+      "title": "Like I Can",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Like-I-Can.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>He could be a sinner, or a gentleman<br>He could be a preacher when your soul is damned<br>He could be a lawyer on a witness stand<br>But he'll never love you like I can, can<br><br>He could be a stranger you gave a second glance<br>He could be a trophy of a one night stand<br>He could have your humour, but I don't understand<br>'Cause he'll never love you like I can, can, can<br><br>Why are you looking down all the wrong roads?<br>When mine is the heart and the salt of the soul<br>There may be lovers who hold out their hands<br>But they'll never love you like I can, can, can<br>They'll never love you like I can, can<br><br>A chance encounter of circumstance<br>Maybe he's a mantra keeps your mind entranced<br>He could be the silence in this mayhem, but then again<br>He'll never love you like I can, can, can<br><br>Why are you looking down all the wrong roads?<br>When mine is the heart and the salt of the soul<br>There may be lovers who hold out their hands<br>But they'll never love you like I can, can, can<br>They'll never love you like I can, can, can<br><br>They'll never love you like I can, can, can<br><br>We both have demons, that we can't stand<br>I love your demons, like devils can<br>If you're self-seeking an honest man<br>Then stop deceiving,<br>Lord, please<br><br>Why are you looking down all the wrong roads?<br>When mine is the heart and the salt of the soul<br>There may be lovers who hold out their hands<br>But they'll never love you like I can, can, can<br>They'll never love you like I can, can, can<br>They'll never love you like I can, can, can</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Sam Smith",
+      "title": "Love Me More",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Love-Me-More.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Have you ever felt like being somebody else?<br>Feeling like the mirror isn't good for your health<br>Every day I'm trying not to hate myself<br>But lately it's not hurting like it did before<br>Maybe I am learning how to love me more<br><br>It used to burn<br>Every insult, every word<br>But it helped me learn<br>Self-worth I had to earn<br>So I tried every night to sit with sorrow<br>And eventually it set me free<br><br>Have you ever felt like being somebody else?<br>Feeling like the mirror isn't good for your health<br>Every day I'm trying not to hate myself<br>But lately it's not hurting like it did before<br>Maybe I am learning how to love me more<br><br>Just a little bit (Love me more)<br>Just a little bit (Love me more)<br>Oh no (Love me more)<br>Just a little bit (Love me more)<br><br>I used to cry<br>Myself to sleep at night<br>I'd blame the sky<br>When the mess was in my mind<br>I couldn't see, I couldn't breathe<br>So I sat with sorrow<br>And eventually it set me free<br><br>Have you ever felt like being somebody else?<br>Feeling like the mirror isn't good for your health<br>Every day I'm trying not to hate myself<br>But lately it's not hurting like it did before<br>Maybe I am learning how to love me more<br><br>Just a little bit (Love me more)<br>Just a little bit (Love me more)<br>I'm gonna try to (Love me more)<br>With a little bit of love (Love me more)<br><br>Hmmm (Love me more)<br>(Love me more)<br>Just a little bit (Love me more)<br>(Love me more, love me more)<br><br>(Oh-oh-oh, oh-oh-oh-oh-oh-oh)<br>(Gonna love me more)<br>(Oh-oh-oh, oh-oh-oh-oh-oh-oh)<br>(Gonna love me more)<br>(Oh-oh-oh, oh-oh-oh-oh-oh-oh)<br>(Gonna love me more)<br>(Oh-oh-oh, oh-oh-oh-oh-oh-oh)<br>Oh-hmm gonna love me more</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Sam Smith",
+      "title": "Promises",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Promises.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Sam Smith:]<br>Are you drunk enough<br>Not to judge what I'm doin'?<br>Are you high enough<br>To excuse that I'm ruined?<br>'Cause I'm ruined<br>Is it late enough<br>For you to come and stay over?<br>'Cause we're free to love<br>So tease me, h'm<br><br>[Sam Smith &amp; Jessie Reyez:]<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br><br>Tonight<br>(You're everything tonight)<br><br>[Sam Smith:]<br>Is it loud enough?<br>'Cause my body is calling for you, calling for you<br>I need someone to do the things that I do, mm<br>I'm heating up, energy's taking control<br>I'm speeding up<br>My heartbeat's dancing alone<br><br>[Sam Smith &amp; Jessie Reyez:]<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br><br>Tonight<br>(You're everything tonight)<br><br>[Sam Smith:]<br>'Cause I need your green light<br>Day and night, say that you're mine<br>'Cause I need your green light<br>Day and night, say that you're mine<br>Say that you're mine<br>Say that you're mine<br><br>[Sam Smith &amp; Jessie Reyez:]<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br>I make no promises<br>I can't do golden rings<br>But I'll give you everything (tonight)<br>Magic is in the air<br>There ain't no science here<br>So come get your everything (tonight)<br><br>[Sam Smith:]<br>Tonight</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Sam Smith",
+      "title": "Stay With Me",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Stay-With-Me.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Guess it's true, I'm not good at a one-night stand<br>But I still need love 'cause I'm just a man<br>These nights never seem to go to plan<br>I don't want you to leave, will you hold my hand?<br><br>Oh, won't you stay with me?<br>'Cause you're all I need<br>This ain't love, it's clear to see<br>But, darling, stay with me<br><br>Why am I so emotional?<br>No, it's not a good look, gain some self-control<br>And deep down I know this never works<br>But you can lay with me so it doesn't hurt<br><br>Oh, won't you stay with me?<br>'Cause you're all I need<br>This ain't love, it's clear to see<br>But, darling, stay with me<br><br>Oh, won't you stay with me?<br>'Cause you're all I need<br>This ain't love, it's clear to see<br>But, darling, stay with me<br><br>Oh, won't you stay with me?<br>'Cause you're all I need<br>This ain't love, it's clear to see<br>But, darling, stay with me</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Sam Smith",
+      "title": "To Die For",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/To-Die-For.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(It is as everyone dies alone.)<br>(Does that scare you?)<br>(I don't wanna be alone.)<br><br>I look for you<br>Every day<br>Every night<br>I close my eyes<br>From the fear<br>From the light<br>As I wander down the avenue so confused<br>Guess I'll try and force a smile<br><br>Pink lemonade sipping on a Sunday<br>Couples holding hands on a runway<br>They're all posing in a picture frame whilst my world's crashing down<br>Solo shadow on a sidewalk<br>Just want somebody to die for<br>Sunshine living on a perfect day while my world's crashing down<br>I just want somebody to die for<br><br>I long for you<br>Just a touch<br>(Does that scare you?)<br>Of your hand<br>You don't leave my mind<br>Lonely days I'm feeling<br>Like a fool for dreaming<br><br>As I wander down the avenue so confused<br>Guess I'll try and force a smile<br><br>Pink lemonade sipping on a Sunday<br>Couples holding hands on a runway<br>They're all posing in a picture frame whilst my world's crashing down<br>Solo shadow on a sidewalk<br>Just want somebody to die for<br>Sunshine living on a perfect day while my world's crashing down<br>I just want somebody to die for<br>I just want somebody to die for (to die for)<br>I just want somebody to die for<br><br>(Does that scare you?)<br>(I don't wanna be alone.)<br><br>Pink lemonade sipping on a Sunday<br>Couples holding hands on a runway<br>They're all posing in a picture frame whilst my world's crashing down<br>Solo shadow on a sidewalk<br>Just want somebody to die for<br>Sunshine living on a perfect day while my world's crashing down<br>I just want somebody to die for<br>I just want somebody to die for</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Sam Smith",
+      "title": "Too Good At Goodbyes",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Too-Good-At-Goodbyes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You must think that I'm stupid<br>You must think that I'm a fool<br>You must think that I'm new to this<br>But I have seen this all before<br><br>I'm never gonna let you close to me<br>Even though you mean the most to me<br>'Cause every time I open up, it hurts<br>So I'm never gonna get too close to you<br>Even when I mean the most to you<br>In case you go and leave me in the dirt<br><br>But every time you hurt me, the less that I cry<br>And every time you leave me, the quicker these tears dry<br>And every time you walk out, the less I love you<br>Baby, we don't stand a chance, it's sad but it's true<br><br>I'm way too good at goodbyes<br>(I'm way too good at goodbyes)<br>I'm way too good at goodbyes<br>(I'm way too good at goodbyes)<br><br>I know you're thinking I'm heartless<br>I know you're thinking I'm cold<br>I'm just protecting my innocence<br>I'm just protecting my soul<br><br>I'm never gonna let you close to me<br>Even though you mean the most to me<br>'Cause every time I open up, it hurts<br>So I'm never gonna get too close to you<br>Even when I mean the most to you<br>In case you go and leave me in the dirt<br><br>But every time you hurt me, the less that I cry<br>And every time you leave me, the quicker these tears dry<br>And every time you walk out, the less I love you<br>Baby, we don't stand a chance, it's sad but it's true<br><br>I'm way too good at goodbyes<br>(I'm way too good at goodbyes)<br>I'm way too good at goodbyes<br>(I'm way too good at goodbyes)<br>No way that you'll see me cry<br>(No way that you'll see me cry)<br><br>I'm way too good at goodbyes<br>(I'm way too good at goodbyes)<br>No<br>No, no, no, no, no<br>(I'm way too good at goodbyes)<br>No, no, no, no<br>No, no, no<br>(I'm way too good at goodbyes)<br>(No way that you'll see me cry)<br>(I'm way too good at goodbyes)<br><br>'Cause every time you hurt me, the less that I cry<br>And every time you leave me, the quicker these tears dry<br>And every time you walk out, the less I love you<br>Baby, we don't stand a chance, it's sad but it's true<br>I'm way too good at goodbyes</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Sam Smith",
+      "title": "Unholy",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Unholy.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Mummy don't know daddy's getting hot<br>At the body shop<br>Doing something unholy<br>Lucky, lucky girl (Ooh)<br>Lucky, lucky girl (Yeah, yeah)<br>Lucky, lucky girl (Uh)<br>Lucky, lucky girl<br><br>A lucky, lucky girl<br>She got married to a boy like you<br>She'd kick you out if she ever, ever knew<br>'Bout all the ... you tell me that you do<br>Dirty, dirty boy<br>You know everyone is talkin' on the scene<br>I hear them whisperin' 'bout the places that you've been<br>And how you don't know how to keep your business clean<br><br>Mummy don't know daddy's getting hot<br>At the body shop<br>Doin' somethin' unholy<br>He's sat back while she's droppin' it<br>She be poppin' it<br>Yeah, she put it down slowly<br>Oh-ee-oh-ee-oh, he left his kids at<br>Ho-ee-oh-ee-ome so he can get that<br>Mummy don't know daddy's getting hot<br>At the body shop<br>Doin' somethin' unholy (Woo)<br><br>Mm, daddy, daddy, if you want it, drop the addy (Yeah, yeah)<br>Give me love, give me Fendi, my Balenciaga daddy<br>You gon' need to bag it up 'cause I'm spendin' on Rodeo (Woo)<br>You can watch me back it up, I'll be gone in the A.M. (Yeah)<br>And he, he get me Prada, get me Miu Miu like Rihanna (Ah)<br>He always call me 'cause I never cause no drama<br>And when you want it, baby, I know I got you covered<br>And when you need it, baby, just jump under the covers (Yeah)<br><br>Mummy don't know daddy's getting hot (Hot)<br>At the body shop (Shop)<br>Doin' somethin' unholy<br>He's sat back while she's droppin' it (She)<br>She be poppin' it (She)<br>Yeah, she put it down slowly<br>Oh-ee-oh-ee-oh, he left his kids at<br>Ho-ee-oh-ee-ome so he can get that<br>Mummy don't know daddy's getting hot<br>At the body shop (Ah)<br>Doin' somethin' unholy (Unholy)<br><br>Oh-oh, oh-ee-oh-ee, ee-oh (Unholy)<br>Oh-oh, oh-ee-oh-ee, ee-oh (Unholy)<br>Oh-oh, oh-ee-oh-ee, ee-oh (Yeah, yeah)<br>Oh-oh, oh-ee-oh-ee, ee-oh</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Sam Smith",
+      "title": "Writing's On The Wall",
+      "image": "file:///android_asset/image/SamSmith.jpg",
+      "link_mp3": "mp3/Writing's-On-The-Wall.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I've been here before<br>But always hit the floor<br>I've spent a lifetime running<br>And I always get away<br>But with you I'm feeling something<br>That makes me want to stay<br><br>I'm prepared for this<br>I never shoot to miss<br>But I feel like a storm is coming<br>If I'm gonna make it through the day<br>Then there's no more use in running<br>This is something I gotta face<br><br>If I risk it all<br>Could you break my fall?<br><br>How do I live? How do I breathe?<br>When you're not here I'm suffocating<br>I want to feel love run through my blood<br>Tell me is this where I give it all up?<br>For you I have to risk it all<br>'Cause the writing's on the wall<br><br>A million shards of glass<br>That haunt me from my past<br>As the stars begin to gather<br>And the light begins to fade<br>When all hope begins to shatter<br>Know that I won't be afraid<br><br>If I risk it all<br>Could you break my fall?<br><br>How do I live? How do I breathe?<br>When you're not here I'm suffocating<br>I want to feel love, run through my blood<br>Tell me is this where I give it all up?<br>For you I have to risk it all<br>'Cause the writing's on the wall<br><br>The writing's on the wall<br><br>How do I live? How do I breathe?<br>When you're not here I'm suffocating<br>I want to feel love run through my blood<br>Tell me is this where I give it all up?<br>How do I live? How do I breathe?<br>When you're not here I'm suffocating<br>I want to feel love, run through my blood<br>Tell me is this where I give it all up?<br>For you I have to risk it all<br>'Cause the writing's on the wall</font></p>"
+    }
+  ]
+}
