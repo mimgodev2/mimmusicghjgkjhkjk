@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Natanael Cano",
+      "image": "file:///android_asset/image/NatanaelCano.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Natanael Cano",
+      "title": "AMG",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/AMG.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>De todo ya pas&eacute;, claro que le batall&eacute;<br>Lo saben dos o tres, no soy el mismo que era ayer<br>Mercedes AMG, Clase G-63<br>Lo que un d&iacute;a so&ntilde;&eacute;, todo ya me lo compr&eacute;<br><br>Muy bueno para las cuentas, todo apunto en la libreta<br>Ah&iacute; traigo la lista negra, pa'l que se pase de verga<br>Pura morrita bien buena, montada en mi camioneta<br>Los radios suenan y suenan, pero yo siempre ando alerta, eah<br><br>&iexcl;Eh!<br>Y bien jalados, compa Gabito<br>Y arriba la bandera, viejo; pura doble P, &iexcl;yayay!<br>As&iacute; nom&aacute;s, compa Nata, as&iacute; nom&aacute;s<br>Compa Gabito, &iexcl;chau!<br>Pura doble P, viejo, ayay<br><br>Un GT-R pa rolar, los baby a m&iacute; me gustan m&aacute;s<br>Puerto de Mazatl&aacute;n, divisando la ciudad<br>En jet particular, me pongo en cualquier lugar<br>Destapando las champagne, hay billetes pa' gastar<br>Moviendo bien el ice, everywhere me han de mirar<br>Con unos tenis Nike, soy maleante y es lo que hay<br><br>Muy bueno para las cuentas, todo apunto en mi libreta<br>Ah&iacute; traigo la lista negra, pa'l que se pase de verga<br>Pura morrita bien buena, montada en mi camioneta<br>Los radios suenan y suenan, pero yo siempre ando alerta</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Natanael Cano",
+      "title": "Amor Tumbado",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Amor-Tumbado.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Para ser directo, no me arrepiento<br>Cosas de la vida o de la m&iacute;a<br>Tu fuiste un momento y te agradezco<br>Pero no eras m&iacute;a y lo sab&iacute;as<br><br>No fue mucho tiempo, eso lo acept&oacute;<br>Pero cre&iacute;a lo que sent&iacute;a<br>No respond&iacute;as y me mor&iacute;a<br>Tu me ten&iacute;as, si lo sab&iacute;as<br><br>Yo no soy aquel que te dio rosas<br>Pero te di mi coraz&oacute;n, es m&aacute;s valiosa<br>La forma en que te trataba ya lo super&eacute;<br><br>La canci&oacute;n se acaba y tu constante<br>El whatsapp me lo estas llenando de mensajes<br>Que ya no llames<br>Que el amor tambi&eacute;n se volvi&oacute; odio record&eacute;<br><br>Lil bitch, Nata, eaaa!<br><br>No fue mucho tiempo, eso lo acept&oacute;<br>Pero cre&iacute;a lo que sent&iacute;a<br>No respond&iacute;as y me mor&iacute;a<br>Tu me ten&iacute;as, y lo sab&iacute;as<br><br>Yo no soy aquel que te dio rosas<br>Pero te di mi coraz&oacute;n, es m&aacute;s valiosa<br>La forma en que te trataba ya lo super&eacute;<br><br>La canci&oacute;n se acaba y tu constante<br>El whatsapp me lo estas llenando de mensajes<br>Que ya no llames<br>Que el amor tambi&eacute;n se volvi&oacute; odio record&eacute;</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Natanael Cano",
+      "title": "Arriba",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Arriba.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Que nos fuimos de casa persiguiendo un sue&ntilde;o cuando nadie nos miraba tan arriba<br>Tenemos los sue&ntilde;os y metas que nadie en el mundo ver&iacute;a<br>Porque somos as&iacute;, porque nos toc&oacute; esto a nosotros vivir<br>Porque nacimos as&iacute;, simplemente vivimos la vida, yo soy feliz<br><br>Vale verga lo que digan, yo siempre ando arriba<br>Cannabis Sativa, la que me domina<br>La que traigo encima, la que me tumba<br>La que me pone siempre bien arriba<br>El tiempo que pasa lo quemo en la mente<br>Pensando en cosas que te har&iacute;a<br>Yo a ti te com&iacute;a si t&uacute; fueras m&iacute;a<br>Pero no importa, no te merec&iacute;as<br>Dime, &iquest;t&uacute; qu&eacute; vas a hacer?<br>Si ma&ntilde;ana vas a querer volver<br>T&uacute; bien lo sabes que yo no estoy bien<br>Ni para cuentos, el tiempo perder<br>Recuerda, yo siempre ando arriba<br>Chambeando de noche y de d&iacute;a<br>Con toda la clica me miran<br>Festejando con botellas y con ni&ntilde;as<br><br>Ya dime si quieres estar conmigo o si mejor me voy (Ah, ah)<br>Tus besos dicen que t&uacute; s&iacute; me quieres pero tus palabras no<br><br>Que nos fuimos de casa persiguiendo un sue&ntilde;o cuando nadie nos miraba tan arriba<br>Tenemos los sue&ntilde;os y metas que nadie en el mundo ver&iacute;a<br>Porque somos as&iacute;, porque nos toc&oacute; esto a nosotros vivir<br>Porque nacimos as&iacute;, simplemente vivimos la vida, yo soy feliz<br><br>Y esta no es la misma historia de siempre, &iquest;sabes?<br>&iexcl;Nata<br>Y aqu&iacute; somos Rancho Humilde, viejones<br>Ah, ah, ah, jajaja<br>D&iacute;melo, ChrisO<br><br>Que salimos de casa persiguiendo un sue&ntilde;o y cuando menos esperaba lo alcanc&eacute;<br>Tenemos los carros, los jet<br>Amigos, mujeres, verdes<br>Fumamos, nos vamos a marte<br>Beb&eacute;, yo s&oacute;lo quiero darte<br>Contigo en la cama acostarme<br>Perdona por ser un farsante<br><br>Ya dime si quieres estar conmigo o si mejor me voy (Ah, ah)<br>Tus besos dicen que t&uacute; s&iacute; me quieres pero tus palabras no</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Natanael Cano",
+      "title": "Asi Toco Mi Vida",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Asi-Toco-Mi-Vida.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Me miraron bien pesado bien malandron, con un cuernon<br>En mi mente una oraci&oacute;n cada que me levanto, mi familia la cuide Dios<br>Y un chalecon y un blindadon todo terrenon y un equipon<br>No le tengo miedo a nada ya conozco la jugada y el fuego se apaga con el agua<br>Velocidad en el lambo la ciudad la adrenalina estimula en verguiza sin parar<br>Con un Rolex en la mano elegante bien flameado y suelita roja voy pisando<br><br>Y as&iacute; toc&oacute; mi vida<br>Andando entre el re fuego y el desmadre<br>Portando una Superona para cuidarme<br>Con humo en mi pulm&oacute;n pa&rsquo; tranquilizarme<br>Mi esposa me acompa&ntilde;a por donde ande<br>Ni modo yo eleg&iacute; voy a atorarle<br>No tengo 20 vidas para confiarme<br>Con el equipo que traigo vamos a darle<br>Hoy toc&oacute; tomar ma&ntilde;ana quien sabe<br><br>Decisiones que tome yo de nada me arrepiento<br>Siempre firme y siempre fiel con los que han sido derechos<br>El pasado esta pisado nada puede ser cambiado<br>Y el presente lo tengo en mis manos<br><br>Quejarme para que ya de todo les prob&eacute;<br>Cu&aacute;ntos gallos me forj&eacute; que lo que hago no est&aacute; bien<br>Muchos los que se&ntilde;alaron con el dedo me apuntaron<br>No soy bueno tampoco soy malo<br><br>Me miraron bien pesado bien malandron, con un cuernon<br>En mi mente una oraci&oacute;n cada que me levanto, mi familia la cuide Dios<br><br>Y as&iacute; toc&oacute; mi vida<br>Andando entre el re fuego y el desmadre<br>Portando una Superona para cuidarme<br>Con humo en mi pulm&oacute;n pa&rsquo; tranquilizarme<br>Mi esposa me acompa&ntilde;a por donde ande<br>Ni modo yo eleg&iacute; voy a atorarle<br>No tengo 20 vidas para confiarme<br>Con el equipo que traigo vamos a darle<br>Hoy toc&oacute; tomar ma&ntilde;ana quien sabe<br></font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Natanael Cano",
+      "title": "Brillo",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Brillo.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Que les molesta el brillo que yo cargo<br>Me vale verga, yo sigo brillando<br>Jalando el Mustang bien acelerado<br>No se preocupen que ando trabajando<br><br>El chamaquito ya anda alebrestado<br>Prendas en hielo, bien adiamantado<br>Siempre anda recio, nunca anda calmado<br>Y en un viajecito yo voy volando<br><br>En Miami me miran enfiestado<br>Con dos, tres babies que traigo a mi lado<br>La bolsa Gucci ya la estoy llenando<br>Con unas pacas que hemos generado<br><br>No se preocupe madre que la extra&ntilde;o<br>Por donde yo ando la ando recordando<br>Y ahorita ando jalando pa' este lado<br>Y pa' que sepan andamos bateando<br><br>Ropa muy fina y mi cara es muy cara<br>Por donde piso se quedan trabadas<br>Y he estado con la que me da la gana<br>Ninguna me ha quitado las ganas<br>Mejor les digo pa' que no les cuenten<br>Soy el &uacute;nico que se quedo al frente<br>Las mujeres m&aacute;s bellas son mi fuerte<br>Y una pa' cada uno, o dos si hay suerte<br><br>Nom&aacute;s me paro y se van de volada<br>Ya ahora resulta que no saben nada<br>Ya no se acuerdan que andaba en la ralla<br>Y que por poquito me la mamaban<br><br>Que les molesta el brillo que yo cargo<br>Me vale verga, yo sigo brillando<br>Jalando el Mustang bien acelerado<br>No se preocupen que ando trabajando</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Natanael Cano",
+      "title": "Diamantes",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Diamantes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Traigo la mu&ntilde;eca bien repleta de diamantes<br>Es cierto que ya no soy el mismo que yo era antes<br>Tengo mujeres esper&aacute;ndome en todas partes<br>Entre menos contesto, m&aacute;s me dejan mensajes<br><br>El cuerpo tumbado, lo siento, es la code&iacute;na<br>Las nalgas de una morrita me brincan encima<br>Yo le compro Balenciaga, ya no quiere Adidas<br>Quiero una baby nueva para fumar sativa<br><br>Y prendo un cigarrito nom&aacute;s pa' tirar al viento<br>Lo malo se pasa cuando fumo y lo siento<br>La noche no se acaba y el sol ya saliendo<br>Soda de pi&ntilde;a, enlodado se ve escurriendo<br>El doble vaso en mi mano siempre est&aacute; lleno<br>Un dabsecito nom&aacute;s pa' pasar el tiempo, ey<br>Nos vemos luego<br><br>Hablamos luego, baby, voy aterrizando<br>Ac&aacute; por Miami el solecito est&aacute; pegando<br>A m&iacute; las envidias ya me tienen sin cuidado<br>No me quita el sue&ntilde;o, yo solo sigo fumando<br><br>Mi madre no sufre y ahora luce diferente<br>No se preocupa porque ya no hay ning&uacute;n pendiente<br>Traigo la mu&ntilde;eca bien repleta de diamantes<br>Es cierto que ya no soy el mismo que yo era antes<br><br>Prendo un cigarrito nom&aacute;s pa' tirar al viento<br>Lo malo se pasa cuando fumo y lo siento<br>La noche no se acaba y el sol ya saliendo<br>Soda de pi&ntilde;a, enlodado se ve escurriendo<br>El doble vaso en mi mano siempre est&aacute; lleno<br>Un dabsecito nom&aacute;s pa' pasar el tiempo<br>Nos vemos luego</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Natanael Cano",
+      "title": "Disfruto Lo Malo",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Disfruto-Lo-Malo.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>C&oacute;mo de costumbre navego en la lumbre<br>Ganando billetes, rifando mi suerte<br>Sigo en los negocios, tengo buenos socios<br>All&aacute; por Tijuana mi equipo se jala<br><br>Ando bien tumbado los ojos cerrados<br>La nariz polveando, me siento viajado<br>Traigo buena clika, me la rolo con los morros<br>Yo controlo los negocios, pues mi padre me ense&ntilde;&oacute;<br>De la Perla pa' Tijuana<br>Unas horas y me llaman<br>Cotorreando yo me jalo<br>Chale, no hay fij&oacute;n<br><br>Puros corridos tumbados, compa' Nata<br>As&iacute; es, compa' Junior, &iexcl;ea!<br><br>No solo lo bueno, disfruto lo malo<br>Los buenos recuerdos, los tragos amargos<br>Morras tengo varias, no quiero a ninguna<br>Buscan el dinero, no es por ser culero<br><br>Sirvan de lavada, agarrando viada<br>Todos bien contentos, disfruto el momento<br>Traigo buena clika, me la rolo con los morros<br>Yo controlo los negocios, pues mi padre me ense&ntilde;&oacute;<br>De la Perla pa' Tijuana<br>Unas horas y me llaman<br>Cotorreando yo me jalo<br>Chale, no hay fij&oacute;n</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Natanael Cano",
+      "title": "El De La Codeina",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/El-De-La-Codeina.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>De los corridones originales de su compita Natanael Cano, ahora<br>Herencia de Patrones<br>Y los Hijos de Garc&iacute;a, jalese carnal<br><br>Dicen que pal' narco solo es el polvito blanco para alivianarnos<br>Pero eso es mentira, Siglo XXI en los 80's fue la grifa<br>Con unas rolitas, la de Sour Diesel, pa' que suenen la bocinas<br>Si ya ando cansado, jarabe en el vaso pa' la tos que a&uacute;n yo traigo<br>Ya van muchos a&ntilde;os, que no se me quita y todav&iacute;a ando tomando<br>Pura code&iacute;na y negociando<br>El coco rapado, Cheyenne 8-6 con el motor bien arreglado<br>Ruleteando un rato<br>Por el d&iacute;a chamba, por las noches me destrampo<br>As&iacute; me la paso, con todos los plebes y el equipo que formamos<br>Quemando un buen gallo, bien viajados<br><br>Y as&iacute; suena HP compadre<br>Compa nata'<br>Y los Hijos de Garc&iacute;a<br>Yeah<br>Clica Shit<br><br>P-90 y largos<br>Phiniquiera, transitando con ojos tumbados<br>Mendigo' hay tomando, ladeando en mi casa de tanto que me he ingresado<br>All&aacute; por Pe&ntilde;asco, compa Curro al tiro con su gente anda chambeando<br>M que el respaldo, grandes mandos<br>El cuello tatuado, varias rayas que resultan por andar de vago<br>Cuando ando enfiestado, tom&aacute;ndome un jarabe 4 enlodado<br>Aqu&iacute; me despido forjando unos Sour Diesel pa' ponerme al tiro<br>Repite el corrido y el vasito<br>Dicen que pal' narco solo es el polvito blanco para alivianarnos<br>No tires volante, es mejor quedarse callados antes que hable<br>No est&aacute; permitido, no dir&eacute; la clave y es Hern&aacute;n pa' sus amigos<br>Forjando un gallito, ba&ntilde;adito<br><br>Seguimos en la movida<br>Los Hijos de Garc&iacute;a<br>Compita Natanael Cano, viejones<br>HP, compadre<br>Puro Rancho Humilde y Lumbre Music, viejo</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Natanael Cano",
+      "title": "El Drip",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/El-Drip.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Con un vasito en la mano y el cuerpo siento cansado<br>Fumando voy relajado y la fiesta no va a parar<br>Supreme la ropita y la clica no se me ag&uuml;ita<br>Las onzas &eacute;l las invita y pura mota que es medicinal<br>No se me ag&uuml;ite, mejor p&eacute;guese un baile con la ni&ntilde;a de all&aacute;<br>Con cupcakes nos vamos, el cuerpo siento elevado<br>Las morras aqu&iacute; a mi lado, hay puras ni&ntilde;as, yo soy su pap&aacute;<br>Cupcake en las pipas, la gente viene y se atiza<br>Los Versace siempre en mi vista, varias naves que mand&eacute; a arreglar<br><br>En el cuello tengo todo el brillo que yo quiero<br>Y no me digan que no puedo porque saben que las puedo<br>Y varios diamonds en el pecho son los que luce este viejo<br>Con la mirada hacia el cielo y los pies puestos en el suelo<br><br>Puros corridos tumbados, viejones, &iexcl;ea!<br><br>Con el Lalo por un lado tomando un jarabe extra&ntilde;o<br>Y nunca jam&aacute;s le hab&iacute;a dado y ahora no quiero bajar<br>Indica, me indica todos mis planes me activa<br>La mente siempre en mi l&iacute;nea y una l&iacute;nea que es pa' despertar<br>No se me ag&uuml;ite, mejor p&eacute;guese un baile con la ni&ntilde;a de all&aacute;<br><br>En el cuello tengo todo el brillo que yo quiero<br>Y no me digan que no puedo porque saben que las puedo<br>Y varios diamonds en el pecho son los que luce este viejo<br>Con la mirada hacia el cielo y los pies puestos en el suelo</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Natanael Cano",
+      "title": "NataAoki",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/NataAoki.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Tonight is about having fun<br>Tonight is about getting drunk<br>I suggest don't leave without your gun<br>Oh yeah, oh yeah<br>Tonight is about having fun<br><br>Saquen las tachas<br>Lavada, muchachas<br>La fiesta se enfiesta<br>Que no se amanezca<br>Las ni&ntilde;as no rezan<br>Van a discotecas<br>Se meten en Exta<br>La mente caliente<br>Y as&iacute; es que comienza<br>Y hasta que amanezca<br>Va fr&iacute;a su meta<br>Comerse a la presa<br>Privada la mesa<br>Solo van bellezas<br>En tragos comienza<br>Le gusta la mezcla<br>Y esto ya explot&oacute;<br>(It's lit!)<br><br>Me gusta c&oacute;mo me mira<br>Tambi&eacute;n me gusta su amiga<br>Baby, yo nunca me apago<br>Si me apago traigo pila<br><br>No entiendo lo que yo siento<br>Yo no soy bueno, lo siento<br>A veces solo ni pienso<br>Pero me siento contento<br><br>Me gusta c&oacute;mo me mira<br>Tambi&eacute;n me gusta su amiga<br>Baby, yo nunca me apago<br>Si me apago traigo pila<br><br>No entiendo lo que yo siento<br>Yo no soy bueno, lo siento<br>A veces solo ni pienso<br>Pero me siento contento<br>(Tonight!)<br><br>Saquen las tachas<br>Lavada, muchachas<br>La fiesta se enfiesta<br>Que no se amanezca<br>Las ni&ntilde;as no rezan<br>Van a discotecas<br>Se meten en Exta<br>La mente caliente<br>Y as&iacute; es que comienza<br>Y hasta que amanezca<br>Va fr&iacute;a su meta<br>Comerse a la presa<br>Privada la mesa<br>Solo van bellezas<br>En tragos comienza<br>Le gusta la mezcla<br>Y esto ya explot&oacute;-t&oacute;-t&oacute;<br>(It's lit!)<br><br>(Ay, esto ya explot&oacute;)</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Natanael Cano",
+      "title": "Paso En Culiacan",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Paso-En-Culiacan.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Una sonrisa vi en su rostro<br>Porte de negro bien placoso<br>Un Mustangcito pa' pasear<br>Quemo llanta en el boulevard<br>Y al parecer ya est&aacute; contento<br>En media calle estacionado<br>Puertas abiertas, ambientado<br><br>Y un grito al viento se escuch&oacute;<br>Y a la m&uacute;sica le subi&oacute;<br>Como si no exista el ma&ntilde;ana<br>Ya no s&eacute; cu&aacute;l es la raz&oacute;n<br>Y hasta hace que Nata lleg&oacute;<br>Tambi&eacute;n mir&eacute; unas pacas verdes en su pantal&oacute;n<br><br>&iexcl;Uh!<br>Se va hasta Culiac&aacute;n, viej&oacute;n<br>Puro Junior H<br>Y arriba Sonora, viejones<br>Ayayai<br><br>Le puso el dedito en la boca<br>A unos que le buscaron broncas<br>Sin mucho bla-bla los sent&oacute;<br>Y a los dos grandes cachete&oacute;<br>No le gusta tirar charola<br>Despu&eacute;s de los inconvenientes<br>Volvi&oacute; a sacar unos billetes<br><br>Nos fuimos para Culiac&aacute;n<br>Con unas damas bien relax<br>Colombianitas las parceras<br>Mi compadre ya se pic&oacute;<br>Mando a traer su recersor<br>'T&aacute; bien activa la plebada<br><br>En breve la clika cay&oacute;<br>Tres d&iacute;as se les amaneci&oacute;<br>Una banda y grupo norte&ntilde;o<br>Ya no s&eacute; cu&aacute;l e' la raz&oacute;n<br>Y hasta hace que Nata lleg&oacute;<br>Tambi&eacute;n mir&eacute; unas pacas verdes en su pantal&oacute;n</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Natanael Cano",
+      "title": "Porte Exuberante",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Porte-Exuberante.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>De un porte muy exuberante y al estilo de antes<br>Y en la mu&ntilde;eca brilla un Rolex con diamantes<br>Las llantas quemando y sirenas sonando<br>Y por la ventanita el humo va tirando<br><br>Suenan corridones, rugen los motores<br>Y el respaldo que carga ese es de los se&ntilde;ores<br>Con un cigarrito a gusto se pone<br>Y siempre listo pa' atender a sus misiones<br><br>Y si hablamos de negocios, somos varios socios<br>All&aacute; en L.A. los miran en carros lujosos<br>Junior por un lado, diez siete en los radios<br>Y en Rosarito ya los tienen ubicados<br><br>A donde que llegan saludan con se&ntilde;as<br>Y lo respetan porque lleva buena escuela<br>Lo que le ha inculcado su mam&aacute; y su abuela<br>Andamos recio y as&iacute; ser&aacute; aunque les duela<br><br>Les metemos golecitos<br>Gracias a Dios ya andamos bien y pasaditos<br>Si ocupan paro les brinco<br>Y as&iacute; como llegan, se van los azulitos<br><br>Su compa &Oacute;scar Maydon<br>Compa Nata<br>Y puros corridos tumbados, viejones, ea<br><br>Ya muchos saben de mi vida y sobran las envidias<br>Pero no me espanto, Dios es el que me cuida<br>Vigilo el terreno, ya no tengo freno<br>Pues saben que aqu&iacute; nosotros somos los buenos<br><br>Nos llueven los g&uuml;eros, car&aacute;cter sereno<br>Ustedes saben que no les tenemos miedo<br>Desde bien morrillo sal&iacute; pa' buscarle<br>Salimos buenos para andar en este jale<br><br>La navego en el refuego y con un dab despego<br>Soy muy discreto en el jale que me navego<br>Firmes con los que ando en L.A. paseando<br>Y por la ventanita el humo va tirando<br><br>Suenan corridones, rugen los motores<br>Y el respaldo que carga ese es de los se&ntilde;ores<br>Con un cigarrito a gusto se pone<br>Y siempre listo pa' atender a sus misiones<br><br>Les metemos golecitos<br>Gracias a Dios ya andamos bien y pasaditos<br>Si ocupan paro les brinco<br>Y as&iacute; como llegan, se van los azulitos</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Natanael Cano",
+      "title": "Que Me Importa",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Que-Me-Importa.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Y que me importa lo que digan los dem&aacute;s de m&iacute;<br>Si haciendo lo incorrecto fue como sobresal&iacute;<br>Haciendo las cosas solo se hacen mejor<br>Porque si pides paro te sale caro el favor<br>Para serles sincero si le batalle<br>Pero a la vida en ning&uacute;n momento me le raj&eacute;<br>Muchas veces me hart&eacute; de o&iacute;rlos murmurar<br>Hoy deje demostrado que no es bueno hablar de m&aacute;s<br>Quemandome un blon ando tranquil&oacute;n<br>Ser&eacute; marihuano pero nunca del mont&oacute;n<br>Si quieren volar traigo encendedor<br>No es soplete pa que prenda m&aacute;s perr&oacute;n<br>Y hoy todo cambi&oacute; ya me va mejor<br>El que persevera alcanza se los digo yo<br>El que tanto habl&oacute; en donde qued&oacute;<br>A callar boquitas me propuse<br>Soy aquel morro que a la vida no le raj&oacute;<br>&iexcl;Ea!<br>Bien jalados, compa Victor<br>Jaja, al gobierno, compa Nata<br>Y puro CT<br>Y puro Rancho Humilde, viejo<br>Ahora resulta que todos se preocupan por m&iacute;<br>Cuando me miraron abajo ni un paro ped&iacute;<br>Con mis propias u&ntilde;as me Tuve que rascar<br>Y ahora todos se arriman en que les puedo Ayudar<br>S&oacute;lo les cuento un poco de lo que pase<br>Aquel que fue mi Amigo no me habla y no s&eacute; por qu&eacute;<br>No me importo lo que pensaran los dem&aacute;s<br>De cr&iacute;ticas comida a la mesa no iba a llevar<br>Mucho me cost&oacute; cumplir con acci&oacute;n<br>Lo que un d&iacute;a en mi boca con seguridad habl&oacute;<br>Me desearon mal poco me import&oacute;<br>Lo que m&aacute;s qhuise en la vida dios me lo entrego<br>Hoy todo cambi&oacute; la vida gir&oacute;<br>El que persevera alcanza se los digo yo<br>Y el que tanto habl&oacute; en donde qued&oacute;<br>A callar boquitas me propuse<br>Soy aquel morro que a la vida no le raj&oacute;<br>Porque la vida se encarga de comerse a los d&eacute;biles<br>Si no eres seguro de donde quieres llegar en la vida, no esperes nada de ella<br>Calla tus planes, calla tus metas<br>No todos quieren verte brillar<br>Solos venimos y amigos aqu&iacute; no hay m&aacute;s que pura verga, viejo<br>As&iacute; mero roza la cadena</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Natanael Cano",
+      "title": "Selfies",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Selfies.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Y aqu&iacute; ando llegando, ando al tent&oacute;n<br>Zumb&aacute;ndole casi llego, &iquest;qu&eacute; dicen los plebes? Saben que se bebe<br>Y unas efes puestas pa' loquear, cierra el antro porque ya<br>El que puede, puede y ni quien los pele<br>Se quedan mirando muy &quot;ac&aacute;&quot;<br>Nom&aacute;s presumen y no gastan con esas vueltas, solitos se queman<br><br>Ya nom&aacute;s me miran pasar, los lentes al reflejar<br>Las ni&ntilde;as traviesas se vienen conmigo luego hacemos cuentas<br>Pura ag&uuml;ita de calidad<br>La espumita del Champagne le gusta a las babies y yo se las compro pa' que tiren selfies<br><br>&iexcl;Eah!<br><br>Son los efectos del THC<br>Y escucho rolitas del cartel ese de santa y una de la blanca<br>Puras ranitas van a brincar<br>En mi cuello va mi talism&aacute;n para la suerte, trabajando fuerte<br>Y hoy me levante para triunfar, ya ma&ntilde;ana solo Dios sabr&aacute;<br>Que el mundo ruede, b&eacute;licos los plebes<br><br>Ya nom&aacute;s me miran pasar, los lentes al reflejar<br>Las ni&ntilde;as traviesas se vienen conmigo luego hacemos cuentas<br>Pura ag&uuml;ita de calidad<br>La espumita del Champagne le gusta a las babies y yo se las compro pa' que tiren selfies</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Natanael Cano",
+      "title": "Y Si Me Miran",
+      "image": "file:///android_asset/image/NatanaelCano.jpg",
+      "link_mp3": "mp3/Y-Si-Me-Miran.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Aqu&iacute; andamos, su compa Luis R<br>Con mi compa Nata y mi compa Gabito<br>Improvisando<br>Desde California, compa Gabo<br>M&aacute;rquele, viejo<br>Y si me miran al lado de mi cuerno, compa Vocho<br>Yayay<br>Y si me miran siempre al lado de mi cuerno, viejo<br>Y si me miran siempre al lado de mi cuerno<br>Y es que ando yo patrullando los terrenos de un se&ntilde;or<br>Con la mirada siempre tensa me han mirado<br>Y es que en lo que yo ando s&iacute; se siente la presi&oacute;n<br>Son varias cosas, no se vayan con la finta<br>Si quieren ser como uno, tienen que tener valor<br>Nunca quise yo ser del mont&oacute;n<br>Y es por eso que tome esta decisi&oacute;n<br>Madrecita le pido perd&oacute;n<br>Su hijo no fue lo que un d&iacute;a sted so&ntilde;&oacute;<br>Cosas malas, cosas buenas que me han tocado vivir<br>La palabra miedo no se reconoce por aqu&iacute;<br>En un carro deportivo siempre he de sobresalir<br>Glock dorada en la cintura s&oacute;lo para prevenir, ea<br>As&iacute; nom&aacute;s, compa Luis R<br>Ajoy, compa Gabito<br>Y puro Kartel Music<br>Y j&aacute;lese compa Nata<br>As&iacute; nom&aacute;s Luis R<br>Y arriba Sonora, mundo<br>Grabada en mente siempre llevo mis inicios<br>Varias veces la perreamos y mi gente estuvo al mil<br>Y sin palabras pa el viej&oacute;n del calendario<br>Me echo al frente en ese caso le atoramos en cuesti&oacute;n<br>Nunca quise yo ser del mont&oacute;n<br>Y es por eso que tome esta decisi&oacute;n<br>Madrecita, le pido perd&oacute;n<br>Su hijo no fue lo que un d&iacute;a sted so&ntilde;&oacute;<br>Cosas malas, cosas buenas que me han tocado vivir<br>La palabra miedo no se reconoce por aqu&iacute;<br>En un carro deportivo siempre he de sobresalir<br>Glock dorada en la cintura s&oacute;lo para prevenir, ea</font></p>"
+    }
+  ]
+}
