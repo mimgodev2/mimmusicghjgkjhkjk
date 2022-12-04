@@ -1,0 +1,182 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Marilia Mendonca",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Marilia Mendonca",
+      "title": "BEBI LIGUEI",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/BEBI-LIGUEI.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Acordei mais uma vez embriagado<br>E o seu cheiro impregnado na minha roupa<br><br>S&oacute; ficou o resto do seu beijo na minha boca<br>Voc&ecirc; deu corda e o cora&ccedil;&atilde;o entrou na forca<br>A minha saudade j&aacute; tinha tomado um rumo na vida<br>Mas desandou com a sua liga&ccedil;&atilde;o perdida<br><br>Faltou coragem pra dizer que n&atilde;o<br>Bebi, liguei, parei no seu colch&atilde;o<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>Faltou coragem pra dizer que n&atilde;o<br>Bebi, liguei, parei no seu colch&atilde;o<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>S&oacute; me d&aacute; preju&iacute;zo<br><br>S&oacute; ficou o resto do seu beijo na minha boca<br>Voc&ecirc; deu corda e o cora&ccedil;&atilde;o entrou na forca<br>A minha saudade j&aacute; tinha tomado um rumo na vida<br>Mas desandou com a sua liga&ccedil;&atilde;o perdida<br><br>Faltou coragem pra dizer que n&atilde;o<br>Bebi, liguei, parei no seu colch&atilde;o<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>Faltou coragem pra dizer que n&atilde;o<br>Bebi, liguei, parei no seu colch&atilde;o<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>S&oacute; me d&aacute; preju&iacute;zo<br>&Eacute; sempre assim<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>S&oacute; me d&aacute; preju&iacute;zo<br>Faltou coragem pra dizer que n&atilde;o<br>Bebi, liguei, parei no seu colch&atilde;o<br>Chego apaixonado e saio arrependido<br>Amar por dois s&oacute; me d&aacute; preju&iacute;zo<br>S&oacute; me d&aacute; preju&iacute;zo</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Marilia Mendonca",
+      "title": "Ce Ta Preparada",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Ce-Ta-Preparada.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>C&ecirc; sabe onde t&aacute; entrando se envolvendo comigo<br>C&ecirc; sabe que vai t&aacute; o tempo todo correndo perigo<br>Posso t&aacute; ali pegando fogo e te amando<br>Se ela ligar largo tudo e vou voando<br><br>T&ocirc; de corpo solteiro, sentimento amarrado<br>Vivendo o futuro esperando um &ldquo;volta pra mim&rdquo; do passado<br>Posso t&aacute; ali pegando fogo e te amando<br>Se ela ligar largo tudo e vou voando<br><br>N&atilde;o quero te ver chorar<br>Por isso n&atilde;o espere o que eu n&atilde;o posso dar<br>C&ecirc; t&aacute; preparada pra enxugar meu choro<br>Quando eu souber que ela dormiu com outro<br>Me ajuda, faz bem feito, tira aquele trenz&atilde;o gostoso do meu peito<br><br>C&ecirc; t&aacute; preparada pra enxugar meu choro<br>Quando eu souber que ela dormiu com outro<br>Me ajuda, faz bem feito, tira aquele trenz&atilde;o gostoso do meu peito<br><br>Me segura na cama porque no cora&ccedil;&atilde;o n&atilde;o tem jeito</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Marilia Mendonca",
+      "title": "Coracao Bandido",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Coracao-Bandido.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Voc&ecirc; me pergunta por que estou assim<br>Os olhos chorando, tristeza sem fim<br>Voc&ecirc; sempre alegre e eu sem raz&atilde;o<br>Estou dividido entre o amor e a paix&atilde;o<br><br>Cora&ccedil;&atilde;o bandido esse meu<br>Vive traindo voc&ecirc;<br>Cora&ccedil;&atilde;o ing&ecirc;nuo &eacute; o seu<br>Todo esse tempo sem perceber<br><br>Eu n&atilde;o vou mais te esconder<br>Vou contar tudo pra voc&ecirc;<br>Contar que beijo em outra boca<br><br>Dizer que j&aacute; tem mais de um ano<br>Dizer tamb&eacute;m que eu te amo<br>Mas gosto de outra<br><br>Mas decidi que assim n&atilde;o d&aacute;<br>Que &eacute; contigo o meu lugar<br>Me perdoa por favor (Vou perdoar, sim, viu?)<br><br>Paix&atilde;o &eacute; s&oacute; obsess&atilde;o<br>No fim, quem sofre &eacute; o cora&ccedil;&atilde;o<br>Que perde o verdadeiro amor<br><br>Cora&ccedil;&atilde;o tava dormindo e acordou<br>Mas est&aacute; sujeito &agrave; solid&atilde;o<br><br>Cora&ccedil;&atilde;o bandido esse meu<br>Vive traindo voc&ecirc;<br>Cora&ccedil;&atilde;o ing&ecirc;nuo &eacute; o teu<br>Todo esse tempo sem perceber<br><br>E eu n&atilde;o vou mais te esconder<br>Vou contar tudo pra voc&ecirc;<br>Contar que beijo em outra boca<br><br>Dizer que j&aacute; faz mais de um ano<br>Dizer tamb&eacute;m que eu te amo (Credo)<br>Mas gosto de outra<br><br>Mas decidi que assim n&atilde;o d&aacute;<br>Que &eacute; contigo o meu lugar<br>Me perdoa por favor<br><br>Paix&atilde;o &eacute; s&oacute; obsess&atilde;o<br>No fim, quem sofre &eacute; o cora&ccedil;&atilde;o<br>Que perde o verdadeiro amor<br><br>Cora&ccedil;&atilde;o tava dormindo e acordou<br>Mas est&aacute; sujeito &agrave; solid&atilde;o</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Marilia Mendonca",
+      "title": "Estrelinha",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Estrelinha.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Enxugue esse rosto<br>E venha aqui fora como de costume<br>Vamos conversar<br>Pra te alegrar tem at&eacute; vagalumes<br><br>Tem dia que vai piorar<br>Saudade vai apertar<br>At&eacute; que c&ecirc; t&aacute; indo bem<br>Faz falta aqui pra mim tamb&eacute;m<br><br>Lembra de quando<br>Eu ficava acordado at&eacute; tarde esperando<br>S&oacute; pra ganhar<br>Um beijo de boa noite antes de dormir<br><br>Daqui n&atilde;o &eacute; diferente<br>Te beijo mas voc&ecirc; n&atilde;o sente<br><br>Quando bater a saudade<br>Olhe aqui pra cima<br>Sabe l&aacute; no c&eacute;u aquela estrelinha<br>Que eu muitas vezes mostrei pra voc&ecirc;<br><br>Hoje &eacute; minha morada<br>A minha casinha<br>Mesmo que de longe t&atilde;o pequenininha<br>Ela brilha mais toda vez que te v&ecirc;</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Marilia Mendonca",
+      "title": "Eu Sei De Cor",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Eu-Sei-De-Cor.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>&Eacute;<br>J&aacute; t&aacute; ficando chato, n&eacute;?<br>A enche&ccedil;&atilde;o de saco, pois &eacute;!<br>Prepara, que eu j&aacute; t&ocirc; me preparando<br>Enquanto c&ecirc; t&aacute; indo, eu to voltando<br><br>E todo esse caminho eu sei de cor<br>Se eu n&atilde;o me engano, agora vai me deixar s&oacute;<br>O segundo passo &eacute; n&atilde;o me atender<br>O terceiro &eacute; se arrepender<br><br>Se o que d&oacute;i em mim doesse em voc&ecirc;<br><br>Deixa!<br>Deixa mesmo de ser importante<br>Vai deixando a gente pra outra hora<br>Vai tentar abrir a porta desse amor<br>Quando eu tiver jogado a chave fora<br><br>Deixa!<br>Deixa mesmo de ser importante<br>Vai deixando a gente pra outra hora<br>E quando se der conta, j&aacute; passou<br>Quando olhar pra tr&aacute;s, j&aacute; fui embora<br><br>E todo esse caminho, eu sei de cor<br>Se eu n&atilde;o me engano, agora vai me deixar s&oacute;<br>O segundo passo &eacute; n&atilde;o me atender<br>O terceiro &eacute; se arrepender<br><br>Se o que d&oacute;i em mim doesse em voc&ecirc;<br><br>Deixa!<br>Deixa mesmo de ser importante<br>Vai deixando a gente pra outra hora<br>Vai tentar abrir a porta desse amor<br>Quando eu tiver jogado a chave fora<br><br>Deixa!<br>Deixa mesmo de ser importante<br>Vai deixando a gente pra outra hora<br>E quando se der conta, j&aacute; passou<br>Quando olhar pra tr&aacute;s, j&aacute; fui embora<br><br>E quando se der conta, j&aacute; passou<br>Quando olhar pra tr&aacute;s, j&aacute; fui embora</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Marilia Mendonca",
+      "title": "GRAVETO",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/GRAVETO.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Vou ser sincero com voc&ecirc;, acho que pra mim j&aacute; deu<br>Faz um tempin' que n&atilde;o sou seu, at&eacute; que eu me apercebeu<br>Que esfriou demais, que o seu toque n&atilde;o traz<br>N&atilde;o adianta p&ocirc;r graveto na fogueira, que n&atilde;o pega mais<br>N&atilde;o pega mais, n&atilde;o pega mais<br><br>Voc&ecirc; virou saudade aqui dentro de casa<br>Se eu te chamo pro colch&atilde;o, voc&ecirc; pode ir pra sala<br>E nem se importa mais saber do que eu sinto<br>Poucos metros quadrados virou um labirinto<br><br>Voc&ecirc; virou saudade aqui dentro de casa<br>Se eu te chamo pro colch&atilde;o, voc&ecirc; pode ir pra sala<br>E nem se importa mais saber do que eu sinto<br>Poucos metros quadrados virou um labirinto<br><br>Yeah-eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!<br><br>Vou ser sincero com voc&ecirc;, acho que pra mim j&aacute; deu<br>Faz um tempin' que n&atilde;o sou seu, at&eacute; que eu me apercebeu<br>Que esfriou demais, que o seu toque n&atilde;o traz<br>N&atilde;o adianta p&ocirc;r graveto na fogueira, que n&atilde;o pega mais<br>N&atilde;o pega mais, n&atilde;o pega mais<br><br>Voc&ecirc; virou saudade aqui dentro de casa<br>Se eu te chamo pro colch&atilde;o, voc&ecirc; pode ir pra sala<br>E nem se importa mais saber do que eu sinto<br>Poucos metros quadrados virou um labirinto<br><br>Voc&ecirc; virou saudade aqui dentro de casa<br>Se eu te chamo pro colch&atilde;o, voc&ecirc; pode ir pra sala<br>E nem se importa mais saber (Do que eu sinto)<br>Poucos metros quadrados virou um labirinto<br><br>Yeah-eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!<br>(Yeah-eh-eh-eh-eh-eh-eh-eh-eh-eh-eh!)</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Marilia Mendonca",
+      "title": "HACKEARAM-ME",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/HACKEARAM-ME.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Joguei as nossas fotos na lixeira<br>Pergunte se depois esvaziei...<br>N&atilde;o tive coragem<br>T&ocirc; vendo sempre que me bate saudade<br><br>T&ocirc; evitando os lugares pra n&atilde;o te ver<br>T&ocirc; rejeitando os convites pra beber<br>Me d&oacute;i falar em beb&ecirc;<br>Beb&ecirc; era como eu chamava voc&ecirc;<br><br>Meu cora&ccedil;&atilde;o clonou meu chip<br>E s&oacute; pra te avisar:<br>Se essa noite eu te ligar<br>N&atilde;o me atenda<br><br>Se acaso de madrugada<br>Chegar algum &quot;volta para mim&quot;<br>Hackearam-me, hackearam-me<br>Dizendo &quot;ainda te amo&quot;<br>&Eacute; algu&eacute;m que sabe que eu te perdi<br>Hackearam-me, hackearam-me<br><br>&Ecirc;, Tiehit!<br>Mar&iacute;lia Mendon&ccedil;a!<br>'Brigado!<br><br>T&ocirc; evitando os lugares para n&atilde;o te ver<br>T&ocirc; rejeitando os convites para beber<br>Me d&oacute;i falar em beb&ecirc;<br>Beb&ecirc; era como eu chamava voc&ecirc;<br><br>Meu cora&ccedil;&atilde;o clonou meu chip<br>E s&oacute; pra te avisar:<br>Se essa noite eu te ligar<br>N&atilde;o me atenda<br><br>Se acaso de madrugada<br>Chegar algum &quot;volta para mim&quot;<br>Hackearam-me, hackearam-me<br>Dizendo &quot;ainda te amo&quot;<br>&Eacute; algu&eacute;m que sabe que eu te perdi<br>Hackearam-me, hackearam-me<br>Se acaso de madrugada<br>Chegar algum &quot;volta para mim&quot;<br>Hackearam-me, hackearam-me<br>Dizendo &quot;ainda te amo&quot; (Te amo, te amo)<br>&Eacute; algu&eacute;m que sabe que eu te perdi<br>Hackearam-me, hackearam-me<br><br>Joguei as nossas fotos na lixeira...<br>Mar&iacute;lia Mendon&ccedil;a!<br>Tierry!<br>Muito obrigado, minha amiga! Que &eacute; isso?!<br>Tamo junto! Tamo junto!<br>Que &eacute; isso?! Que honra! Sem palavras!</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Marilia Mendonca",
+      "title": "Insonia",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Insonia.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Voc&ecirc; t&aacute; a&iacute;, bebendo saudade<br>Fazendo vergonha<br>T&aacute; fazendo merda no meio da rua<br>E nada disso cura a tua ins&ocirc;nia<br><br>Voc&ecirc; t&aacute; a&iacute;, vestindo orgulho<br>Gastando o que n&atilde;o pode<br>Vivendo uma vida que j&aacute; n&atilde;o &eacute; sua<br>E nada disso cura a tua ins&ocirc;nia<br><br>&Eacute; que voc&ecirc; me procura embaixo do seu cobertor<br>E se desespera quando v&ecirc; que eu n&atilde;o t&ocirc;<br>E o nome disso &eacute; saudade, se voc&ecirc; n&atilde;o reparou<br><br>Mas voc&ecirc; se acha t&atilde;o foda<br>Que olha os sinais e n&atilde;o nota<br>Morre de saudade e n&atilde;o volta<br>T&aacute; se achando o popstar<br><br>Mas voc&ecirc; se acha t&atilde;o foda<br>Que olha os sinais e n&atilde;o nota<br>Olha que o mundo d&aacute; volta<br>Aonde voc&ecirc; vai parar?<br><br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br><br>Voc&ecirc; t&aacute; a&iacute;, vestindo orgulho<br>Gastando o que n&atilde;o pode<br>Vivendo uma vida que j&aacute; n&atilde;o &eacute; sua<br>E nada disso cura a sua ins&ocirc;nia<br><br>&Eacute; que voc&ecirc; me procura debaixo do seu cobertor<br>E se desespera quando v&ecirc; que eu n&atilde;o t&ocirc;<br>E o nome disso &eacute; saudade, se voc&ecirc; n&atilde;o reparou<br><br>Mas voc&ecirc; se acha t&atilde;o foda<br>Que olha os sinais e n&atilde;o nota<br>Morre de saudade e n&atilde;o volta<br>T&aacute; se achando o popstar<br><br>Mas voc&ecirc; se acha t&atilde;o foda<br>Que olha os sinais e n&atilde;o nota<br>Morre de saudade e n&atilde;o volta<br>Aonde voc&ecirc; vai parar?<br><br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br><br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br>I&ecirc;, i&ecirc;, i&ecirc;, i&ecirc;<br><br>Aonde voc&ecirc; vai parar?<br>Voc&ecirc; t&aacute; a&iacute;</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Marilia Mendonca",
+      "title": "INTENCAO",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/INTENCAO.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Desculpa o meu tom de voz<br>&Eacute; que n&atilde;o estamos a s&oacute;s<br>T&ocirc; falando baixinho pra ningu&eacute;m sacar minha inten&ccedil;&atilde;o<br><br>Vamos sair daqui<br>Lugar melhor n&atilde;o vai faltar<br>Onde eu possa at&eacute; falar mais alto e voc&ecirc; gritar<br><br>Eu n&atilde;o t&ocirc; de palha&ccedil;ada<br>Vamos l&aacute; pra casa<br>Bora que o cafofo hoje &eacute; brasa<br>E nesse tanto de curva, eu me arrisco at&eacute; na contram&atilde;o<br>Deixa eu te apresentar pro meu colch&atilde;o<br><br>N&atilde;o t&ocirc; falando de amor, t&aacute; doida?<br>&Eacute; que a gente combina melhor, sem roupa<br>Seu compromisso &eacute; s&oacute; deixar<br>Minha boca passear nesse seu corpo massa a noite toda<br><br>[?]<br><br>N&atilde;o t&ocirc; falando de amor, t&aacute; doida?<br>&Eacute; que a gente combina melhor, sem roupa<br>Seu compromisso &eacute; s&oacute; deixar<br>Minha boca passear nesse seu corpo massa a noite toda</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Marilia Mendonca",
+      "title": "Mal Feito",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Mal-Feito.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Essa m&uacute;sica eu fiz pra voc&ecirc;<br>Nem perder seu tempo tentando me convencer<br>Pe&ccedil;o paci&ecirc;ncia, escuta at&eacute; o fim<br>Vai ficar claro pra voc&ecirc; como ficou claro pra mim<br><br>O seu beijo ficou ruim, assim, do nada<br>Frequentemente compara seu ex comigo<br>De repente, pegou gosto por balada<br>Isso n&atilde;o faz sentido<br><br>Voc&ecirc; come&ccedil;ou a me tratar mal<br>E na hora de fazer amor<br>Sempre diz que n&atilde;o t&aacute; bem, n&atilde;o t&aacute; legal<br>Lembra quando eu perguntei se tinha outro algu&eacute;m?<br>Voc&ecirc; negou, chegou na parte principal<br><br>Voc&ecirc; me traiu, levou um tempo, mas eu descobri<br>Voc&ecirc; n&atilde;o vale nada, t&aacute; claro pra mim<br>Seu plano era bom, era quase perfeito<br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito<br><br>Me traiu, levou um tempo, mas eu descobri<br>Voc&ecirc; n&atilde;o vale nada, t&aacute; claro pra mim<br>Seu plano era bom, era quase perfeito<br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito<br><br>Voc&ecirc; come&ccedil;ou a me tratar mal<br>E na hora de fazer amor<br>Sempre diz que n&atilde;o t&aacute; bem, n&atilde;o t&aacute; legal<br>Lembra quando eu perguntei se tinha outro algu&eacute;m?<br>Voc&ecirc; negou, chegou na parte principal<br><br>Voc&ecirc; me traiu, levou um tempo, mas eu descobri<br>Voc&ecirc; n&atilde;o vale nada, t&aacute; claro pra mim<br>Seu plano era bom, era quase perfeito<br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito<br><br>Me traiu, levou um tempo, mas eu descobri<br>Voc&ecirc; n&atilde;o vale nada, t&aacute; claro pra mim<br>Seu plano era bom, era quase perfeito<br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito<br><br>Me traiu, levou um tempo, mas eu descobri<br>Voc&ecirc; n&atilde;o vale nada, t&aacute; claro pra mim<br>Seu plano era bom, era quase perfeito<br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito<br><br>Pena que tudo que c&ecirc; faz, c&ecirc; faz mal feito</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Marilia Mendonca",
+      "title": "Presepada",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Presepada.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Vem c&aacute;<br>E se eu te dissesse que voc&ecirc; t&aacute; perdendo o amor da sua vida?<br>Voc&ecirc; ainda beberia mais uma?<br><br>Pra voc&ecirc; &eacute; s&oacute; mais um rol&ecirc;, s&oacute; mais uma ressaca<br>Pra ela, outra m&aacute;goa, outro gatilho, outro trauma<br>Enquanto finaliza a saideira<br>Destr&oacute;i o sonho de uma vida inteira<br><br>Voc&ecirc; curtindo o auge dos seus trinta e poucos anos<br>E ela te esperando acordada, fazendo planos<br>Voc&ecirc; n&atilde;o vai ganhar nada com isso<br>N&atilde;o tem ningu&eacute;m achando isso bonito<br><br>Cad&ecirc; sua responsabilidade?<br>No seu lugar eu teria vergonha<br>Por mim, ela teria te deixado<br>Fazer o qu&ecirc; se ela te ama?<br>Ent&atilde;o aproveita que ela nem sonha quem voc&ecirc; &eacute;<br><br>&Eacute; hora de parar com a presepada<br>Respeita sua namorada<br>Agarra essa mulher e casa, agarra ela e casa<br><br>Vive numa busca incessante<br>Pra achar algu&eacute;m interessante<br>Sem enxergar que ela &eacute; brilhante, que ela &eacute; rara<br><br>&Eacute; hora de parar com a presepada<br>Respeita sua namorada<br>Agarra essa mulher e casa, agarra ela e casa<br><br>Essa sua busca incessante<br>Pra achar algu&eacute;m interessante<br>Terminaria se enxergasse o que tem dentro de casa<br><br>Por mim, ela teria te deixado<br>Fazer o qu&ecirc; se ela te ama?<br>Ent&atilde;o aproveita que ela nem sonha quem voc&ecirc; &eacute;<br><br>Imagina ela beijando outro agora na sua frente<br>Doeu, n&eacute;?<br><br>Respeita sua namorada<br>Agarra essa mulher e casa, agarra ela e casa<br><br>Vive numa busca incessante<br>Pra achar algu&eacute;m interessante<br>Sem enxergar que ela &eacute; brilhante, que ela &eacute; rara<br><br>&Eacute; hora de parar com a presepada<br>Respeita sua namorada<br>Agarra essa mulher e casa, agarra ela e casa<br><br>Essa sua busca incessante<br>Pra achar algu&eacute;m interessante<br>Terminaria se enxergasse o que tem dentro de casa<br><br>Sabe aquela pessoa fant&aacute;stica, diferente<br>Especial, incompar&aacute;vel, acima da m&eacute;dia?<br>T&aacute; a&iacute; do seu lado</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Marilia Mendonca",
+      "title": "SUPERA",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/SUPERA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>T&aacute; de novo com essa pessoa<br>N&atilde;o t&ocirc; acreditando<br>Vai fazer papel de trouxa outra vez<br>C&ecirc; n&atilde;o aprende mesmo<br><br>Pra voc&ecirc; isso &eacute; amor<br>Mas pra ele isso n&atilde;o passa de um plano B<br>Se n&atilde;o pegar ningu&eacute;m da lista, liga pra voc&ecirc;<br>Te usa e joga fora<br><br>Para de insistir, chega de se iludir<br>O que c&ecirc; t&aacute; passando, eu j&aacute; passei e eu sobrevivi<br>Se ele n&atilde;o te quer, supera<br>Se ele n&atilde;o te quer, supera<br><br>Ele t&aacute; fazendo de tapete o seu cora&ccedil;&atilde;o<br>Promete pra mim que dessa vez voc&ecirc; vai falar n&atilde;o<br>De mulher pra mulher, supera<br>De mulher pra mulher, supera<br><br>Pra voc&ecirc; isso &eacute; amor<br>Mas pra ele isso n&atilde;o passa de um plano B<br>Se n&atilde;o pegar ningu&eacute;m da lista, liga pra voc&ecirc;<br>Te usa e joga fora<br><br>Para de insistir, chega de se iludir<br>O que c&ecirc; t&aacute; passando, eu j&aacute; passei e eu sobrevivi<br>Se ele n&atilde;o te quer, supera<br>Se ele n&atilde;o te quer, supera<br><br>Ele t&aacute; fazendo de tapete o seu cora&ccedil;&atilde;o<br>Promete pra mim que dessa vez voc&ecirc; vai falar n&atilde;o<br>De mulher pra mulher, supera<br>De mulher pra mulher, supera<br><br>Se ele n&atilde;o te quer, supera<br>De mulher pra mulher, supera</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Marilia Mendonca",
+      "title": "Te Amo Demais",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Te-Amo-Demais.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Eu sou assim<br>Nunca soube recitar poesia<br>N&atilde;o sei palavras de amor<br>N&atilde;o sou sedutor, n&atilde;o sei fingir, nem poderia<br>Eu n&atilde;o tenho ouro nem prata<br>Mas o meu maior tesouro eu te dei<br>S&oacute; quero o seu amor e mais nada<br>Voc&ecirc; precisa entender, &eacute; que eu n&atilde;o sei dizer<br><br>S&oacute; sei que eu te amo demais<br>Nas noites sozinho &eacute; o teu nome que eu chamo<br>Baby, eu te amo demais<br>Eu s&oacute; sei dizer te amo, te amo<br><br>Palavras valem menos que um olhar<br>O cora&ccedil;&atilde;o &eacute; quem vai te explicar<br>Da cabe&ccedil;a aos p&eacute;s, eu vou te beijar<br>Como um s&aacute;bio na arte de amar<br>N&atilde;o sei mentir pra conquistar uma mulher<br>Daria tudo nesse mundo s&oacute; pra ter voc&ecirc;<br>O destino seja o que Deus quiser<br>Voc&ecirc; precisa entender, &eacute; que eu n&atilde;o sei dizer<br><br>S&oacute; sei que eu te amo demais<br>Nas noites sozinho &eacute; o teu nome que eu chamo<br>Baby, eu te amo demais<br>Eu s&oacute; sei dizer te amo, te amo<br>S&oacute; sei que eu te amo demais<br>Nas noites sozinho &eacute; o teu nome que eu chamo<br>Baby, eu te amo demais<br>Eu s&oacute; sei dizer te amo, te amo<br>Te amo demais<br><br>Como eu te amo<br>Te amo demais<br><br>S&oacute; sei que eu te amo demais<br>Nas noites sozinho &eacute; o teu nome que eu chamo<br>Baby, eu te amo demais<br>Eu s&oacute; sei dizer te amo, te amo<br><br>Te amo</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Marilia Mendonca",
+      "title": "Todo Mundo Menos Voce",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Todo-Mundo-Menos-Voce.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Eu s&oacute; queria que voc&ecirc; soubesse<br>Que toda minha mudan&ccedil;a &eacute; genu&iacute;na<br>Genuinamente por voc&ecirc;<br>Todo mundo menos voc&ecirc;<br><br>Dizem que eu ando bem melhor depois que eu terminei<br>Todo mundo consegue enxergar o quanto eu melhorei<br>Engra&ccedil;ado ver eles pensando que eu te superei<br>Mesmo entendendo que o problema nunca foi voc&ecirc;<br>Se n&atilde;o tivesse ido eu n&atilde;o ia me resolver<br>Tava confort&aacute;vel n&eacute;?<br>E ningu&eacute;m aprende assim<br>Aprendi, mas cad&ecirc; voc&ecirc; pra me aplaudir?<br><br>Se todo mundo viu, porque voc&ecirc; n&atilde;o t&aacute; vendo?<br>Todo esse esfor&ccedil;o que eu t&ocirc; fazendo<br>Pra fazer voc&ecirc; se sentir orgulhoso<br>Pra fazer voc&ecirc; se apaixonar de novo<br><br>Se todo mundo viu, porque voc&ecirc; n&atilde;o t&aacute; vendo?<br>Todo esse esfor&ccedil;o que eu t&ocirc; fazendo<br>Pra fazer voc&ecirc; se sentir orgulhoso<br>Pra fazer voc&ecirc; se apaixonar por mim de novo<br><br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br><br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br><br>Olha, n&atilde;o &eacute; pra te colocar press&atilde;o<br>Mas eu queria saber se voc&ecirc; gostou da minha nova vers&atilde;o<br>Caso n&atilde;o tenha gostado me avisa, t&aacute; tudo bem<br>A gente corre esse risco quando muda por algu&eacute;m<br><br>E ningu&eacute;m aprende assim<br>Aprendi, mas cad&ecirc; voc&ecirc; pra me aplaudir?<br><br>Se todo mundo viu, porque voc&ecirc; n&atilde;o t&aacute; vendo?<br>Todo esse esfor&ccedil;o que eu t&ocirc; fazendo<br>Pra fazer voc&ecirc; se sentir orgulhoso<br>Pra fazer voc&ecirc; se apaixonar de novo<br><br>Se todo mundo viu, porque voc&ecirc; n&atilde;o t&aacute; vendo?<br>Todo esse esfor&ccedil;o que eu t&ocirc; fazendo<br>Pra fazer voc&ecirc; se sentir orgulhoso<br>Pra fazer voc&ecirc; se apaixonar por mim de novo<br><br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br><br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;<br>Todo mundo, todo mundo, todo mundo v&ecirc;<br>Todo mundo menos voc&ecirc;</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Marilia Mendonca",
+      "title": "Troca de Calcada",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Troca-de-Calcada.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Se algu&eacute;m passar por ela fique em sil&ecirc;ncio<br>N&atilde;o aponte o dedo, n&atilde;o julgue t&atilde;o cedo<br>Ela tem motivos pra estar desse jeito<br>Isso &eacute; preconceito<br><br>Viveu tanto desprezo<br>Que at&eacute; Deus duvida e chora l&aacute; de cima<br>Era s&oacute; uma menina<br>Que dedicou a vida a amores de quinta<br><br>&Eacute; claro que ela j&aacute; sonhou em se casar um dia<br>N&atilde;o estava nos planos ser vergonha pra fam&iacute;lia<br>Cada um que passou levou um pouco da sua vida<br>E o resto que sobrou ela vende na esquina<br><br>Pra ter o corpo quente<br>Eu congelei meu cora&ccedil;&atilde;o<br>Pra esconder a tristeza<br>Maquiagem &agrave; prova d'&aacute;gua<br><br>Hoje voc&ecirc; me v&ecirc; assim e troca de cal&ccedil;ada<br>S&oacute; que amar d&oacute;i muito mais<br>Do que o nojo na sua cara<br><br>Pra ter o corpo quente<br>Eu congelei meu cora&ccedil;&atilde;o<br>Pra esconder a tristeza<br>Salto 15 e minissaia<br><br>Hoje voc&ecirc; me v&ecirc; assim e troca de cal&ccedil;ada<br>Mas se soubesse um ter&ccedil;o da hist&oacute;ria<br>Me abra&ccedil;ava e n&atilde;o me apedrejava</font></p>"
+    },
+	
+	{
+      "id": 16,
+      "name_category": "Marilia Mendonca",
+      "title": "Vai La Em Casa Hoje",
+      "image": "file:///android_asset/image/MariliaMendonca.jpg",
+      "link_mp3": "mp3/Vai-La-Em-Casa-Hoje.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Vou chamar ela<br>Pra ver um filme l&aacute; em casa<br>Mal sabe ela<br>Que a minha TV t&aacute; estragada<br><br>Vou chamar ela<br>Pra tomar um gin na ta&ccedil;a<br>Mas depois do que eu fizer com ela<br>Ela vai pedir &aacute;gua<br><br>Com uma carinha de apaixonada<br>E as roupas pelo ch&atilde;o, catando<br>Pelo trato que eu vou dar nela<br>Amanh&atilde; ela liga falando<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Eu vou falar t&ocirc; indo<br>O que ela me pede sem roupa<br>Eu fa&ccedil;o rindo<br><br>Com uma carinha de apaixonado<br>E as roupas pelo ch&atilde;o, catando<br>Pelo trato que eu vou dar nele<br>Amanh&atilde; ele liga falando<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Eu vou falar t&ocirc; indo<br>O que ela me pede sem roupa<br>Eu fa&ccedil;o rindo<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Vai l&aacute; em casa hoje<br>Bebe umas comigo<br>Saudade de ontem<br>De voc&ecirc; beijando<br>Pra baixo do meu umbigo<br><br>Eu vou falar t&ocirc; indo<br>O que ele me pede sem roupa<br>Eu fa&ccedil;o rindo</font></p>"
+    }
+  ]
+}
