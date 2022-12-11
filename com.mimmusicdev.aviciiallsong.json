@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Avicii",
+      "image": "file:///android_asset/image/Avicii.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Avicii",
+      "title": "Addicted To You",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Addicted-To-You.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I don't know just how it happened,<br>I let down my guard...<br>Swore I'd never fall in love again<br>But I fell hard.<br><br>Guess I should have seen it coming,<br>Caught me by surprise...<br>I wasn't looking where I was going,<br>I fell into your eyes.<br><br>You came into my crazy world like a cool and cleansing wave.<br>Before I, I knew what hit me baby you were flowing through my veins...<br><br>I'm addicted to you,<br>Hooked on your love,<br>Like a powerful drug<br>I can't get enough of,<br>Lost in your eyes,<br>Drowning in blue<br>Out of control,<br>What can I do?<br>I'm addicted to you!<br><br>Midnight blows in through the window,<br>Dances round the room...<br>Got me hypnotized,<br>I'm getting high on the perfume.<br><br>I couldn't live without you now,<br>Oh, I know I'd go insane,<br>I wouldn't last one night alone baby,<br>I couldn't stand the pain!<br><br>I'm addicted to you!<br>Hooked on your love,<br>Like a powerful drug<br>I can't get enough of,<br>Lost in your eyes,<br>Drowning in blue<br>Out of control,<br>What can I do?<br>I'm addicted to you!</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "Avicii",
+      "title": "Broken Arrows",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Broken-Arrows.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You stripped your love down to the wire<br>Fire shy and cold alone outside<br>You stripped it right down to the wire<br>But I see you behind those tired eyes<br><br>Now as you wade through the shadows that live in your heart<br>You'll find the light that leads home (home, home)<br>Cause I see you for you and your beautiful scars<br>So take my hand, don't let go<br><br>Cause it's not too late, it's not too late<br>I, I see the hope in your heart<br>And sometimes you lose and sometimes you're shooting<br>Broken arrows in the dark<br>But I, I see the hope in your heart<br><br>I've seen the darkness in the light<br>The kind of blue that leaves you lost and blind<br>The only thing that's black and white<br>Is that you don't have to walk alone this time<br><br>We have to tear down the walls that live in your heart<br>To find someone you call home (home, home)<br>Now you see me for me and my beautiful scars<br>So take my hand, don't let go<br><br>Cause it's not too late, it's not too late<br>I, I see the hope in your heart<br>And sometimes you lose and sometimes you're shooting<br>Broken arrows in the dark<br>But I, I see the hope in your heart<br><br>It's not too late, it's not too late<br>I see the hope in your heart<br>Sometimes you're losing, sometimes shooting<br>Broken arrows in the dark</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Avicii",
+      "title": "Heaven",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Heaven.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Step out into the dawn<br>You pray 'til, you pray 'til the lights come on<br>And then you feel like you've just been born<br>Yeah, you come to raise me up<br>When I'm beaten and broken up<br>And now I'm back in the arms I love<br><br>And I think I just died<br>I think I just died<br>Yeah, I think I just died<br>I think I just died<br>And went to heaven<br>And went to heaven, yeah<br><br>Beaten and bathed in blood<br>I'm hit by, I'm hit by your love and drug<br>And now you've come to raise me up<br>Oh<br><br>And I think I just died<br>I think I just died<br>Yeah, I think I just died<br>And went to heaven<br>And went to heaven<br>And went to heaven<br>Oh, and went to heaven<br><br>It's such a night, such a beautiful night<br>It's such a view, such a beautiful sight<br>I think I just, oh, I think I just died, oh<br>And went to heaven<br>And went to heaven<br>Oh, yeah, yeah<br><br>We're gonna be birds and fly<br>We're gonna set the world alight<br>We're gonna lose ourselves tonight, oh<br>We're gonna be birds and fly<br>We're gonna set the world alight<br>We're gonna lose ourselves tonight, oh<br><br>Heaven (Heaven)<br>Went to heaven<br>And went to heaven</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Avicii",
+      "title": "Hey Brother",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Hey-Brother.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey, brother, there's an endless road to re-discover<br>Hey, sister, know the water's sweet but blood is thicker<br>Oh, if the sky comes falling down for you<br>There's nothing in this world I wouldn't do<br><br>Hey, brother, do you still believe in one another?<br>Hey, sister, do you still believe in love, I wonder?<br>Oh, if the sky comes falling down for you<br>There's nothing in this world I wouldn't do<br><br>What if I'm far from home?<br>Oh, brother, I will hear you call<br>What if I lose it all?<br>Oh, sister, I will help you out!<br>Oh, if the sky comes falling down for you<br>There's nothing in this world I wouldn't do<br><br>Hey, brother, there's an endless road to re-discover<br>Hey, sister, do you still believe in love, I wonder?<br>Oh, if the sky comes falling down for you<br>There's nothing in this world I wouldn't do<br><br>What if I'm far from home?<br>Oh, brother, I will hear you call<br>What if I lose it all?<br>Oh, sister, I will help you out!<br>Oh, if the sky comes falling down for you<br>There's nothing in this world I wouldn't do</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Avicii",
+      "title": "I Could Be The One",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/I-Could-Be-The-One.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Do you think about me when you're all alone?<br>The things we used to do, we used to be<br>I could be the one to make you feel that way<br>I could be the one to set you free<br><br>Do you think about me when the crowd is gone?<br>It used to be so easy, you and me<br>I could be the one to make you feel that way<br>I could be the one to set you free<br><br>I could be the one to make you feel that way<br>I could be the one to set you free<br>I could be the one to make you feel that way<br>I could be the one to set you free<br><br>When you need a way to beat the pressure down<br>When you need to find a way to breathe<br>I could be the one to make you feel that way<br>I could be the one to set you free<br><br>If you never see me when the crowd is gone<br>It used to be so easy, can't you see?<br>I could be the one to make you feel that way<br>I could be the one to set you free<br><br>I could be the one to make you feel that way<br>I could be the one to set you free<br>I could be the one to make you feel that way<br>I could be the one to set you free<br>I could be the one to make you feel that way<br>I could be the one to set you free<br>I could be the one to make you feel that way<br>I could be the one to set you free</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Avicii",
+      "title": "Levels",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Levels.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Oh, sometimes<br>I get a good feeling, yeah<br>Get a feeling that I never, never, never, never had before, no no<br>I get a good feeling, yeah<br>[x2]</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Avicii",
+      "title": "Lonely Together",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Lonely-Together.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>It's you and your world and I'm caught in the middle<br>I caught the edge of a knife and it hurts just a little<br>And I know, and I know, and I know, and I know that I can't be your friend<br>It's my head or my heart and I'm caught in the middle<br><br>My hands are tied, but not tight enough<br>You're the high that I can't give up<br>Oh lord, here we go<br><br>I might hate myself tomorrow<br>But I'm on my way tonight<br>At the bottom of a bottle<br>You're the poison in the wine<br>And I know<br>I can't change you and I<br>I won't change<br>I might hate myself tomorrow<br>But I'm on my way tonight<br><br>Let's be lonely together<br>A little less lonely together<br><br>Eyes wide shut and it feels like the first time (ooh)<br>Before the rush to my blood was too much and we flat-lined (ooh)<br>And I know, and I know, and I know, and I know just how this ends<br>Now I'm all messed-up and it feels like the first time<br><br>I might hate myself tomorrow<br>But I'm on my way tonight<br>At the bottom of a bottle<br>You're the poison in the wine<br>And I know<br>I can't change you, and I<br>I won't change<br>I might hate myself tomorrow<br>But I'm on my way tonight<br><br>Let's be lonely together<br>A little less lonely together<br>Let's be lonely together<br>A little less lonely together<br><br>My hands are tied, but not tight enough<br>You're the high that I can't give up<br>Oh lord, here we go<br><br>I might hate myself tomorrow<br>But I'm on my way tonight<br>At the bottom of a bottle<br>You're the poison in the wine<br>And I know<br>I can't change you, and I<br>I won't change<br>I might hate myself tomorrow<br>But I'm on my way tonight<br><br>Let's be lonely together<br>A little less lonely together<br>Let's be lonely together<br>A little less lonely together<br>A little less lonely now<br>A little less lonely now<br>A little less lonely now</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Avicii",
+      "title": "Silhouettes",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Silhouettes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Press play, fast forward<br>Nonstop, we have a beaten path before us<br>It was all there, in plain sight<br>Come on people, we have all seen the signs<br><br>So we will never get back to<br>To the old school<br>To the old grounds, it's all about the newfound<br>We are the newborn, the world knew all about us<br>(We are the future and we're here to stay)<br><br>We've come a long way since that day<br>And we will never look back at the faded silhouette<br>We've come a long way since that day<br>And we will never look back, look back at the faded silhouette<br><br>Straight ahead on the path we have before us<br>Day by day, soon the change will come<br>Don't you know we took a big step forward<br>Just lead the way and we pull the trigger<br><br>And we will never get back to<br>To the old school<br>To the old grounds, it's all about the newfound<br>We are the newborn, the world knew all about us<br>(We are the future and we're here to stay)<br><br>We've come a long way since that day<br>And we will never look back at the faded silhouette<br>We've come a long way since that day (that day...)<br><br>We've come a long way since that day<br>And we will never look back, at the faded silhouette<br><br>We've come a long way since that day<br>And we will never look back, look back, at the faded silhouette</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Avicii",
+      "title": "SOS",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/SOS.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Can you hear me, S.O.S.?<br>Help me put my mind to rest<br>Two times clean again, I'm actin' low<br>A pound of weed and a bag of blow<br><br>I can feel your love pulling me up from the underground<br>And I don't need my drugs, we could be more than just part-time lovers<br>I can feel your touch picking me up from the underground<br>And I don't need my drugs, we could be more than just part-time lovers<br><br>We could be more than just part-time lovers<br>We could be more than just part-time lovers<br><br>I get robbed of all my sleep<br>As my thoughts begin to bleed<br>I'd let go but I don't know how<br>Yeah, I don't know how, but I need you now<br><br>I can feel your love pulling me up from the underground<br>And I don't need my drugs, we could be more than just part-time lovers<br>I can feel your touch picking me up from the underground<br>And I don't need my drugs, we could be more than just part-time lovers<br><br>I can feel your touch picking me up from the underground<br>And I don't need my drugs, we could be more than just part-time lovers<br><br>(We could be) We could be more than just part-time lovers (Part-time lovers)<br>(Yeah, more than, more than lovers)<br>We could be more than just part-time lovers<br><br>Can you hear me, S.O.S.?<br>Help me put my mind to rest</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Avicii",
+      "title": "The Days",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/The-Days.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Under the tree where the grass don't grow<br>We made a promise to never get old<br>You had a chance and you took it on me<br>And I made a promise that I couldn't keep<br><br>Heart ache, heart break<br>All over town<br>But something flipped like a switch when you came around<br>And I'm in pieces, pick me up and put me together<br><br>These are the days we've been waiting for<br>On days like these who could ask for more?<br><br>Keep them coming 'cause we're not done yet<br>These are the days we won't regret<br>These are the days we won't forget<br><br>These are the days we've been waiting for<br>Rattle the cage and slam that door<br><br>And the world is calling us but not just yet<br>These are the days we won't regret<br>These are the days we won't forget<br><br>Out on the midnight the wild ones howl<br>The last of the lost boys have thrown in the towel<br>We used to believe we were stars aligned<br>You made a wish and I fell out of<br><br>Time flew, cut through<br>All over town<br>You made me bleed when I look up and you're not around<br>But I'm in pieces, pick me up and put me together<br><br>These are the days we've been waiting for<br>On days like these who could ask for more?<br><br>Keep them coming 'cause we're not done yet<br>These are the days we won't regret<br>These are the days we won't forget<br><br>These are the days we've been waiting for<br>Neither of us knows what's in store<br><br>You just roll your window down and place your bets<br>These are the days we won't regret<br>These are the days we'll never forget!<br><br>And these are the days (these are the days)<br>And these are the days (these are the days)</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Avicii",
+      "title": "The Nights",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/The-Nights.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Once upon a younger year<br>When all our shadows disappeared<br>The animals inside came out to play<br>Went face to face with all our fears<br>Learned our lessons through the tears<br>Made memories we knew would never fade<br><br>One day my father&mdash;he told me<br>&quot;Son, don't let it slip away&quot;<br>He took me in his arms, I heard him say<br><br>&quot;When you get older<br>Your wild heart will live for younger days<br>Think of me if ever you're afraid&quot;<br><br>He said, &quot;One day you'll leave this world behind<br>So, live a life you will remember&quot;<br>My father told me when I was just a child<br>&quot;These are the nights that never die&quot;<br>My father told me<br><br>&quot;When thunder clouds start pouring down<br>Light a fire they can't put out<br>Carve your name into those shining stars&quot;<br>He said, &quot;Go venture far beyond the shores<br>Don't forsake this life of yours<br>I'll guide you home no matter where you are&quot;<br><br>One day my father&mdash;he told me<br>&quot;Son, don't let it slip away&quot;<br>When I was just a kid I heard him say<br><br>&quot;When you get older<br>Your wild heart will live for younger days<br>Think of me if ever you're afraid&quot;<br><br>He said, &quot;One day you'll leave this world behind<br>So, live a life you will remember&quot;<br>My father told me when I was just a child<br>&quot;These are the nights that never die&quot;<br>My father told me<br><br>&quot;These are the nights that never die&quot;<br>My father told me<br>My father told me</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "Avicii",
+      "title": "Waiting For Love",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Waiting-For-Love.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Where there's a will, there's a way, kind of beautiful<br>And every night has its day, so magical<br>And if there's love in this life, there's no obstacle<br>That can't be defeated<br><br>For every tyrant a tear for the vulnerable<br>In every lost soul the bones of a miracle<br>For every dreamer a dream we're unstoppable<br>With something to believe in<br><br>Monday left me broken<br>Tuesday I was through with hoping<br>Wednesday my empty arms were open<br>Thursday waiting for love, waiting for love<br>Thank the stars it's Friday<br>I'm burning like a fire gone wild on Saturday<br>Guess I won't be coming to church on Sunday<br>I'll be waiting for love, waiting for love<br>To come around<br><br>We are one of a kind irreplaceable<br>How did I get so blind and so cynical<br>If there's love in this life we're unstoppable<br>No, we can't be defeated<br><br>Monday left me broken<br>Tuesday I was through with hoping<br>Wednesday my empty arms were open<br>Thursday waiting for love, waiting for love<br>Thank the stars it's Friday<br>I'm burning like a fire gone wild on Saturday<br>Guess I won't be coming to church on Sunday<br>I'll be waiting for love, waiting for love<br>To come around</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "Avicii",
+      "title": "Wake Me Up",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Wake-Me-Up.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Feeling my way through the darkness<br>Guided by a beating heart<br>I can't tell where the journey will end<br>But I know where to start<br><br>They tell me I'm too young to understand<br>They say I'm caught up in a dream<br>Well life will pass me by if I don't open up my eyes<br>Well that's fine by me<br><br>[2x]<br>So wake me up when it's all over<br>When I'm wiser and I'm older<br>All this time I was finding myself<br>And I didn't know I was lost<br><br>I tried carrying the weight of the world<br>But I only have two hands<br>Hope I get the chance to travel the world<br>But I don't have any plans<br><br>Wish that I could stay forever this young<br>Not afraid to close my eyes<br>Life's a game made for everyone<br>And love is the prize<br><br>[2x]<br>So wake me up when it's all over<br>When I'm wiser and I'm older<br>All this time I was finding myself<br>And I didn't know I was lost<br><br>Didn't know I was lost<br>I didn't know I was lost<br>I didn't know I was lost<br>I didn't know (didn't know, didn't know)</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "Avicii",
+      "title": "Without You",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/Without-You.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You said that we would always be<br>Without you I feel lost at sea<br>Through the darkness you'd hide with me<br>Like the wind we'd be wild and free<br><br>You said you'd follow me anywhere<br>But your eyes tell me you won't be there<br><br>I've gotta learn how to love without you<br>I've gotta carry my cross without you<br>Stuck in the middle and I'm just about to<br>Figure it out without you<br>And I'm done sitting home without you<br>Fuck, I'm going out without you<br>I'm gonna tear this city down without you<br>I'm goin' Bonnie and Clyde without you<br><br>Now I'm running away, my dear<br>From myself and the truth I fear<br>My heart is beating I can't see clear<br>How I'm wishing that you were here<br><br>You said you'd follow me anywhere<br>But your eyes tell me you won't be there<br><br>I've gotta learn how to love without you<br>I've gotta carry my cross without you<br>Stuck in the middle and I'm just about to<br>Figure it out without you<br>And I'm done sitting home without you<br>Fuck, I'm going out without you<br>I'm gonna tear this city down without you<br>I'm goin' Bonnie and Clyde without you</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "Avicii",
+      "title": "You Make Me",
+      "image": "file:///android_asset/image/Avicii.jpg",
+      "link_mp3": "mp3/You-Make-Me.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Vocals by Salem Al Fakir]<br><br>We are one<br>One for sure<br>All united<br>You'll want some more<br><br>Oh Oh Oh Oh<br>You make me<br>Oh Oh Oh Oh<br>You make me<br><br>We are one<br>One for sure<br>All united<br>You'll need no more<br><br>Oh Oh Oh Oh<br>You make me<br>Oh Oh Oh Oh<br><br>All my life I've been, I've been waiting for someone like you (yeah)<br>All my life I've been, I've been waiting for someone like you (yeah)<br><br>I've been looking for someone like you (yeah)<br>I've been waiting for someone like you (like you [x4])<br><br>You make me<br><br>[Instrumental break]<br><br>We are one<br>One's for sure<br>All united<br>You'll want some more<br><br>Oh Oh Oh Oh<br>You make me<br>Oh Oh Oh Oh<br>You make me<br><br>We are one<br>One's for sure<br>All united<br>You'll need no more<br><br>Oh Oh Oh Oh<br>You make me<br>Oh Oh Oh Oh<br><br>All my life I've been, I've been waiting for someone like you (yeah)<br>All my life I've been, I've been waiting for someone like you (yeah)<br><br>I've been looking for someone like you (yeah)<br>I've been waiting for someone like you (like you [x4])<br><br>You make me</font></p>"
+    }
+  ]
+}
