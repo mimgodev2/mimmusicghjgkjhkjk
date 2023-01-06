@@ -3,15 +3,15 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3539400195587863/6456164969",
-      "main_ads_intertitial":"ca-app-pub-3539400195587863/4457483743",
-      "main_ads_natives":"ca-app-pub-3539400195587863/5454639134",
+      "main_ads_banner": "ca-app-pub-3539400195587863/6456164969xx",
+      "main_ads_intertitial":"ca-app-pub-3539400195587863/4457483743xx",
+      "main_ads_natives":"ca-app-pub-3539400195587863/5454639134xx",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-3539400195587863/8759459320",
+      "open_ads_admob":"ca-app-pub-3539400195587863/8759459320xx",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -23,8 +23,8 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/developer?id=MIM+MUSIC+DEV"
     }
   ],
   "Categories": [
